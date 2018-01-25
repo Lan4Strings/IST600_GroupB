@@ -2150,3 +2150,4 @@ org.rosuda.REngine.Rserve.RserveException: Cannot connect: Connection refused (C
 	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
 2018-01-25 18:00:25,332 : DEBUG : AWT-EventQueue-0 : RController : R View (Table) : 2:3 : Connected to Rserve in 2 attempt(s) (200ms).
 2018-01-25 18:00:25,333 : DEBUG : AWT-EventQueue-0 : RController : R View (Table) : 2:3 : Recovered with a new R process
+2018-01-25 18:05:34,429 : DEBUG : Finalizer : Buffer :  :  : Closing input stream on "/private/var/folders/15/cz8zcd5n7r79n4s9l913t0d80000gn/T/knime_Workflow Manage39513/knime_container_20180125_2416591769011048464.bin.gz", 0 remaining
