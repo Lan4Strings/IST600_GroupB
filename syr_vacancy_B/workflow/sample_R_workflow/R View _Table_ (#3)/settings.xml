@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="settings.xml">
+<entry key="node_file" type="xstring" value="settings.xml"/>
+<config key="flow_stack"/>
+<config key="internal_node_subsettings">
+<entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
+</config>
+<config key="model">
+<entry key="Image width" type="xint" value="640"/>
+<entry key="Image height" type="xint" value="640"/>
+<entry key="Image resolution" type="xstring" value="NA"/>
+<entry key="Image background color" type="xstring" value="#ffffff"/>
+<entry key="Text point size" type="xint" value="12"/>
+<config key="R settings">
+<entry key="script" type="xstring" value="cleanDF &lt;- knime.in%%00010################%%00010#compute overall NPS%%00010################%%00010totalSurveys &lt;- nrow(cleanDF)%%00010%%00010promotors &lt;- cleanDF$Likelihood_Recommend_H &gt; 8%%00010numPromotors &lt;- sum(promotors)%%00010%%00010detractors &lt;- cleanDF$Likelihood_Recommend_H &lt; 7%%00010numDetractors &lt;- sum(detractors)%%00010%%00010percentPromotors &lt;- numPromotors/totalSurveys%%00010percentDetractors &lt;- numDetractors/totalSurveys%%00010percentPassives &lt;- 1 - percentPromotors - percentDetractors%%00010NPS &lt;- percentPromotors - percentDetractors%%00010print(&quot;NPS&quot;)%%00010NPS%%00010%%00010###########################%%00010#Show NPS as a simple barchart%%00010###########################%%00010library(ggplot2)%%00010NPS.vec &lt;- c(percentPromotors,percentPassives,percentDetractors)%%00010NPS.names &lt;- c(&quot;Promoters&quot;, &quot;Passives&quot;, &quot;Detractors&quot;)%%00010dfNPS &lt;- data.frame(NPS.names, NPS.vec)%%00010title &lt;- paste(&quot;Overall NPS &quot;, round(NPS, 2))%%00010ggplot(dfNPS, aes(x = NPS.names, y=NPS.vec)) + geom_col() + ggtitle(title) +  xlab(&quot;Category&quot;) + ylab(&quot;Percent&quot;)%%00010"/>
+<entry key="templateUUID" type="xstring" isnull="true" value=""/>
+<entry key="version" type="xstring" value="version 1.x"/>
+<entry key="Output non numbers (NaN, Inf, -Inf) as missing cells" type="xboolean" value="false"/>
+<entry key="sendRowNames" type="xboolean" value="true"/>
+<entry key="sendBatchSize" type="xint" value="10000"/>
+<entry key="knimeInType" type="xstring" value="data.frame"/>
+</config>
+<entry key="Image type" type="xstring" value="PNG"/>
+</config>
+<entry key="customDescription" type="xstring" isnull="true" value=""/>
+<entry key="state" type="xstring" value="CONFIGURED"/>
+<config key="nodecontainer_message">
+<entry key="type" type="xstring" value="ERROR"/>
+<entry key="message" type="xstring" value="Execute failed: XQuartz is required for the Cairo library on MacOS. Please download and install XQuartz from http://www.xquartz.org/."/>
+</config>
+<entry key="factory" type="xstring" value="org.knime.r.RViewNodeFactory"/>
+<entry key="node-name" type="xstring" value="R View (Table)"/>
+<entry key="node-bundle-name" type="xstring" value="KNIME R-Project nodes"/>
+<entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.r"/>
+<entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
+<entry key="node-bundle-version" type="xstring" value="3.5.1.v201712211140"/>
+<entry key="node-feature-name" type="xstring" value="KNIME Interactive R Statistics Integration"/>
+<entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.r.feature.group"/>
+<entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
+<entry key="node-feature-version" type="xstring" value="3.5.1.v201712211140"/>
+<config key="factory_settings"/>
+<entry key="name" type="xstring" value="R View (Table)"/>
+<entry key="hasContent" type="xboolean" value="false"/>
+<entry key="isInactive" type="xboolean" value="false"/>
+<config key="ports">
+<config key="port_1">
+<entry key="index" type="xint" value="1"/>
+<entry key="port_dir_location" type="xstring" isnull="true" value=""/>
+</config>
+</config>
+<config key="filestores">
+<entry key="file_store_location" type="xstring" isnull="true" value=""/>
+<entry key="file_store_id" type="xstring" isnull="true" value=""/>
+</config>
+</config>

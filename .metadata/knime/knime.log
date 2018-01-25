@@ -1194,3 +1194,801 @@
 2018-01-25 17:25:47,280 : DEBUG : Worker-3 : NodeContainer :  :  : Stacked BarChart (ggplot2) 1:15 has new state: IDLE
 2018-01-25 17:25:47,280 : DEBUG : Worker-3 : WorkflowManager :  :  : Loaded workflow from "/Applications/KNIME 3.5.1.app/Contents/Eclipse/plugins/org.knime.r_3.5.1.v201712211140/metanode_templates/Stacked BarChart"  with warnings
 2018-01-25 17:25:47,281 : DEBUG : Worker-3 : RepositoryManager :  :  : Found meta node definition 'stacked_barchart': Stacked BarChart
+2018-01-25 17:31:07,250 : DEBUG : ModalContext : LocalWorkspaceContentProvider :  :  : Refreshing "/"
+2018-01-25 17:31:07,302 : DEBUG : ModalContext : LocalWorkspaceFileStore :  :  : Refreshed resource R/
+2018-01-25 17:31:07,415 : DEBUG : ModalContext : LocalWorkspaceContentProvider :  :  : Refreshing "/syr_vacancy_B"
+2018-01-25 17:31:07,422 : DEBUG : ModalContext : LocalWorkspaceFileStore :  :  : Refreshed resource P/syr_vacancy_B
+2018-01-25 17:33:52,916 : DEBUG : ModalContext : LocalWorkspaceFileStore :  :  : Refreshed resource P/syr_vacancy_B
+2018-01-25 17:33:52,936 : DEBUG : ModalContext : LocalWorkspaceContentProvider :  :  : Refreshing "/syr_vacancy_B"
+2018-01-25 17:33:52,938 : DEBUG : ModalContext : LocalWorkspaceFileStore :  :  : Refreshed resource F/syr_vacancy_B/data
+2018-01-25 17:34:00,972 : DEBUG : ModalContext : LocalWorkspaceFileStore :  :  : Refreshed resource P/syr_vacancy_B
+2018-01-25 17:34:00,975 : DEBUG : ModalContext : LocalWorkspaceContentProvider :  :  : Refreshing "/syr_vacancy_B"
+2018-01-25 17:34:00,976 : DEBUG : ModalContext : LocalWorkspaceFileStore :  :  : Refreshed resource F/syr_vacancy_B/workflow
+2018-01-25 17:34:23,123 : DEBUG : ModalContext : LocalWorkspaceFileStore :  :  : Refreshed resource F/syr_vacancy_B/workflow
+2018-01-25 17:34:23,126 : DEBUG : ModalContext : LocalWorkspaceContentProvider :  :  : Refreshing "/syr_vacancy_B/workflow"
+2018-01-25 17:34:23,126 : DEBUG : ModalContext : LocalWorkspaceFileStore :  :  : Refreshed resource F/syr_vacancy_B/workflow/sample_R_workflow
+2018-01-25 17:34:23,303 : DEBUG : main : WorkflowEditor :  :  : Creating WorkflowEditor...
+2018-01-25 17:34:23,323 : DEBUG : main : WorkflowEditor :  :  : creating editor actions...
+2018-01-25 17:34:23,438 : DEBUG : main : WorkflowEditor :  :  : Initializing editor UI...
+2018-01-25 17:34:23,439 : DEBUG : main : WorkflowEditor :  :  : Opening workflow Editor on workflow.knime
+2018-01-25 17:34:23,439 : DEBUG : main : WorkflowEditor :  :  : Setting input into editor...
+2018-01-25 17:34:23,441 : DEBUG : main : WorkflowEditor :  :  : Resource File's project: file:/Users/lan/Documents/syr_vacancy_B/syr_vacancy_B/workflow/sample_R_workflow/
+2018-01-25 17:34:23,517 : INFO  : ModalContext : LoadWorkflowRunnable :  :  : New workflow created.
+2018-01-25 17:34:23,521 : DEBUG : ModalContext : NodeContainer :  :  : Workflow Manager 2 has new state: EXECUTED
+2018-01-25 17:34:23,522 : DEBUG : ModalContext : WorkflowManager :  :  : Created subworkflow 2
+2018-01-25 17:34:23,522 : DEBUG : ModalContext : WorkflowManager :  :  : Added new subworkflow 2
+2018-01-25 17:34:23,522 : DEBUG : ModalContext : NodeContainer :  :  : ROOT  has new state: IDLE
+2018-01-25 17:34:23,522 : DEBUG : ModalContext : WorkflowManager :  :  : Created project 2
+2018-01-25 17:34:23,553 : DEBUG : main : WorkflowEditor :  :  : Saving workflow Workflow Manager 2
+2018-01-25 17:34:23,667 : DEBUG : ModalContext : LocalWorkspaceContentProvider :  :  : Refreshing "/syr_vacancy_B/workflow/sample_R_workflow"
+2018-01-25 17:34:23,736 : DEBUG : main : ProjectWorkflowMap :  :  : Adding "file:/Users/lan/Documents/syr_vacancy_B/syr_vacancy_B/workflow/sample_R_workflow/" to project map (1 in total)
+2018-01-25 17:34:23,743 : DEBUG : main : ProjectWorkflowMap :  :  : registering org.knime.workbench.editor2.WorkflowEditor@570ede3b to file:/Users/lan/Documents/syr_vacancy_B/syr_vacancy_B/workflow/sample_R_workflow/. 1 registered clients now.
+2018-01-25 17:35:36,124 : WARN  : main : Node : CSV Reader : 2:1 : No settings available
+2018-01-25 17:35:36,126 : DEBUG : KNIME-Workflow-Notifier : WorkflowEditor :  :  : Workflow event triggered: WorkflowEvent [type=NODE_ADDED;node=2:1;old=null;new=CSV Reader 2:1 (IDLE);timestamp=Jan 25, 2018 5:35:36 PM]
+2018-01-25 17:35:36,126 : DEBUG : main : WorkflowManager :  :  : Added new node 2:1
+2018-01-25 17:35:36,127 : DEBUG : main : NodeContainer :  :  : Setting dirty flag on sample_R_workflow 2
+2018-01-25 17:35:36,128 : DEBUG : main : NodeContainer :  :  : sample_R_workflow 2 has new state: IDLE
+2018-01-25 17:35:36,128 : DEBUG : KNIME-Workflow-Notifier : WorkflowEditor :  :  : Workflow event triggered: WorkflowEvent [type=WORKFLOW_DIRTY;node=2;old=null;new=null;timestamp=Jan 25, 2018 5:35:36 PM]
+2018-01-25 17:35:36,167 : DEBUG : KNIME-Node-Usage-Writer : NodeTimer$GlobalNodeStats :  :  : Successfully wrote node usage stats to file: /Users/lan/Documents/syr_vacancy_B/.metadata/knime/nodeusage_3.0.json
+2018-01-25 17:35:36,197 : DEBUG : main : WorkflowRootEditPart :  :  : part: NodeAnnotationEditPart(  )
+2018-01-25 17:35:36,257 : DEBUG : main : WorkflowRootEditPart :  :  : part: NodeContainerEditPart( CSV Reader 2:1 (IDLE) )
+2018-01-25 17:36:12,402 : INFO  : AWT-EventQueue-0 : StringHistory : CSV Reader : 2:1 : History file '/Users/lan/Documents/syr_vacancy_B/.metadata/knime/history_csv_read.txt' does not exist.
+2018-01-25 17:36:30,138 : DEBUG : main : Node : CSV Reader : 2:1 : Configure succeeded. (CSV Reader)
+2018-01-25 17:36:30,142 : DEBUG : main : NodeContainer : CSV Reader : 2:1 : CSV Reader 2:1 has new state: CONFIGURED
+2018-01-25 17:36:30,143 : DEBUG : main : NodeContainer : CSV Reader : 2:1 : sample_R_workflow 2 has new state: CONFIGURED
+2018-01-25 17:36:49,449 : WARN  : main : Node : File Reader : 2:2 : No Settings available.
+2018-01-25 17:36:49,449 : DEBUG : KNIME-Workflow-Notifier : WorkflowEditor :  :  : Workflow event triggered: WorkflowEvent [type=NODE_ADDED;node=2:2;old=null;new=File Reader 2:2 (IDLE);timestamp=Jan 25, 2018 5:36:49 PM]
+2018-01-25 17:36:49,450 : DEBUG : main : WorkflowManager :  :  : Added new node 2:2
+2018-01-25 17:36:49,450 : DEBUG : main : NodeContainer :  :  : sample_R_workflow 2 has new state: IDLE
+2018-01-25 17:36:49,468 : DEBUG : main : WorkflowRootEditPart :  :  : part: NodeAnnotationEditPart(  )
+2018-01-25 17:36:49,470 : DEBUG : main : WorkflowRootEditPart :  :  : part: NodeContainerEditPart( File Reader 2:2 (IDLE) )
+2018-01-25 17:36:49,471 : DEBUG : main : NodeContainerEditPart :  :  : CSV Reader 2:1 (CONFIGURED)
+2018-01-25 17:37:06,909 : DEBUG : main : NodeContainerEditPart :  :  : File Reader 2:2 (IDLE)
+2018-01-25 17:37:06,921 : DEBUG : main : NodeContainerEditPart :  :  : CSV Reader 2:1 (CONFIGURED)
+2018-01-25 17:37:08,618 : DEBUG : main : ExecuteAction :  :  : Creating execution job for 1 node(s)...
+2018-01-25 17:37:08,618 : DEBUG : main : NodeContainer :  :  : CSV Reader 2:1 has new state: CONFIGURED_MARKEDFOREXEC
+2018-01-25 17:37:08,624 : DEBUG : main : NodeContainer :  :  : CSV Reader 2:1 has new state: CONFIGURED_QUEUED
+2018-01-25 17:37:08,627 : DEBUG : main : NodeContainer :  :  : sample_R_workflow 2 has new state: EXECUTING
+2018-01-25 17:37:08,628 : DEBUG : KNIME-WFM-Parent-Notifier : NodeContainer :  :  : ROOT  has new state: EXECUTING
+2018-01-25 17:37:08,630 : DEBUG : KNIME-Worker-4 : WorkflowManager : CSV Reader : 2:1 : CSV Reader 2:1 doBeforePreExecution
+2018-01-25 17:37:08,630 : DEBUG : KNIME-Worker-4 : NodeContainer : CSV Reader : 2:1 : CSV Reader 2:1 has new state: PREEXECUTE
+2018-01-25 17:37:08,631 : DEBUG : KNIME-Worker-4 : WorkflowManager : CSV Reader : 2:1 : CSV Reader 2:1 doBeforeExecution
+2018-01-25 17:37:08,632 : DEBUG : KNIME-Worker-4 : NodeContainer : CSV Reader : 2:1 : CSV Reader 2:1 has new state: EXECUTING
+2018-01-25 17:37:08,633 : DEBUG : KNIME-Worker-4 : WorkflowFileStoreHandlerRepository : CSV Reader : 2:1 : Adding handler 26c08ec3-7892-4f75-8bbc-f230fd2bf0f7 (CSV Reader 2:1: <no directory>) - 1 in total
+2018-01-25 17:37:08,633 : DEBUG : KNIME-Worker-4 : LocalNodeExecutionJob : CSV Reader : 2:1 : CSV Reader 2:1 Start execute
+2018-01-25 17:37:13,387 : DEBUG : KNIME-Worker-4 : Buffer : CSV Reader : 2:1 : Zlib library doesn't support compression level switch
+2018-01-25 17:37:20,991 : DEBUG : main : NodeContainerEditPart :  :  : CSV Reader 2:1 (EXECUTING)
+2018-01-25 17:37:21,001 : DEBUG : main : NodeContainerEditPart :  :  : File Reader 2:2 (IDLE)
+2018-01-25 17:37:25,986 : DEBUG : main : NodeContainerEditPart :  :  : File Reader 2:2 (IDLE)
+2018-01-25 17:37:25,986 : DEBUG : main : NodeContainerEditPart :  :  : CSV Reader 2:1 (EXECUTING)
+2018-01-25 17:37:27,243 : DEBUG : main : NodeContainerEditPart :  :  : CSV Reader 2:1 (EXECUTING)
+2018-01-25 17:37:27,243 : DEBUG : main : NodeContainerEditPart :  :  : File Reader 2:2 (IDLE)
+2018-01-25 17:37:32,118 : DEBUG : main : VerifyingCompoundCommand :  :  : Executing <1> commands.
+2018-01-25 17:37:32,126 : DEBUG : main : FileReaderNodeModel : File Reader : 2:2 : Removing all (0) views from model.
+2018-01-25 17:37:32,127 : DEBUG : main : Node : File Reader : 2:2 : clean output ports.
+2018-01-25 17:37:32,128 : DEBUG : KNIME-Workflow-Notifier : WorkflowEditor :  :  : Workflow event triggered: WorkflowEvent [type=NODE_REMOVED;node=2;old=File Reader 2:2 (IDLE);new=null;timestamp=Jan 25, 2018 5:37:32 PM]
+2018-01-25 17:37:33,448 : DEBUG : main : NodeContainerEditPart :  :  : CSV Reader 2:1 (EXECUTING)
+2018-01-25 17:37:43,447 : DEBUG : KNIME-Worker-4 : Node : CSV Reader : 2:1 : reset
+2018-01-25 17:37:43,448 : ERROR : KNIME-Worker-4 : Node : CSV Reader : 2:1 : Execute failed: Encountered duplicate row ID  "OTHER" at row number 2
+2018-01-25 17:37:43,453 : DEBUG : KNIME-Worker-4 : Node : CSV Reader : 2:1 : Execute failed: Encountered duplicate row ID  "OTHER" at row number 2
+org.knime.core.util.DuplicateKeyException: Encountered duplicate row ID  "OTHER" at row number 2
+	at org.knime.core.data.container.DataContainer.checkAsyncWriteThrowable(DataContainer.java:514)
+	at org.knime.core.data.container.DataContainer.offerToAsynchronousQueue(DataContainer.java:668)
+	at org.knime.core.data.container.DataContainer.close(DataContainer.java:616)
+	at org.knime.core.node.ExecutionContext.createBufferedDataTable(ExecutionContext.java:254)
+	at org.knime.base.node.io.csvreader.CSVReaderNodeModel.execute(CSVReaderNodeModel.java:130)
+	at org.knime.core.node.NodeModel.execute(NodeModel.java:733)
+	at org.knime.core.node.NodeModel.executeModel(NodeModel.java:567)
+	at org.knime.core.node.Node.invokeFullyNodeModelExecute(Node.java:1172)
+	at org.knime.core.node.Node.execute(Node.java:959)
+	at org.knime.core.node.workflow.NativeNodeContainer.performExecuteNode(NativeNodeContainer.java:561)
+	at org.knime.core.node.exec.LocalNodeExecutionJob.mainExecute(LocalNodeExecutionJob.java:95)
+	at org.knime.core.node.workflow.NodeExecutionJob.internalRun(NodeExecutionJob.java:179)
+	at org.knime.core.node.workflow.NodeExecutionJob.run(NodeExecutionJob.java:110)
+	at org.knime.core.util.ThreadUtils$RunnableWithContextImpl.runWithContext(ThreadUtils.java:328)
+	at org.knime.core.util.ThreadUtils$RunnableWithContext.run(ThreadUtils.java:204)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at org.knime.core.util.ThreadPool$MyFuture.run(ThreadPool.java:123)
+	at org.knime.core.util.ThreadPool$Worker.run(ThreadPool.java:246)
+Caused by: org.knime.core.util.DuplicateKeyException: Encountered duplicate row ID  "OTHER" at row number 2
+	at org.knime.core.data.container.DataContainer.addRowKeyForDuplicateCheck(DataContainer.java:845)
+	at org.knime.core.data.container.DataContainer.addRowToTableWrite(DataContainer.java:498)
+	at org.knime.core.data.container.DataContainer.access$6(DataContainer.java:460)
+	at org.knime.core.data.container.DataContainer$ASyncWriteCallable.callWithContext(DataContainer.java:1236)
+	at org.knime.core.data.container.DataContainer$ASyncWriteCallable.call(DataContainer.java:1206)
+	at org.knime.core.data.container.DataContainer$ASyncWriteCallable.call(DataContainer.java:1)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2018-01-25 17:37:43,459 : DEBUG : KNIME-Worker-4 : WorkflowManager : CSV Reader : 2:1 : CSV Reader 2:1 doBeforePostExecution
+2018-01-25 17:37:43,460 : DEBUG : KNIME-Worker-4 : NodeContainer : CSV Reader : 2:1 : CSV Reader 2:1 has new state: POSTEXECUTE
+2018-01-25 17:37:43,460 : DEBUG : KNIME-Worker-4 : WorkflowManager : CSV Reader : 2:1 : CSV Reader 2:1 doAfterExecute - failure
+2018-01-25 17:37:43,460 : DEBUG : KNIME-Worker-4 : Node : CSV Reader : 2:1 : reset
+2018-01-25 17:37:43,461 : DEBUG : KNIME-Worker-4 : Node : CSV Reader : 2:1 : clean output ports.
+2018-01-25 17:37:43,461 : DEBUG : KNIME-Worker-4 : WorkflowFileStoreHandlerRepository : CSV Reader : 2:1 : Removing handler 26c08ec3-7892-4f75-8bbc-f230fd2bf0f7 (CSV Reader 2:1: <no directory>) - 0 remaining
+2018-01-25 17:37:43,462 : DEBUG : KNIME-Worker-4 : NodeContainer : CSV Reader : 2:1 : CSV Reader 2:1 has new state: IDLE
+2018-01-25 17:37:43,464 : DEBUG : KNIME-Worker-4 : Node : CSV Reader : 2:1 : Configure succeeded. (CSV Reader)
+2018-01-25 17:37:43,464 : DEBUG : KNIME-Worker-4 : NodeContainer : CSV Reader : 2:1 : CSV Reader 2:1 has new state: CONFIGURED
+2018-01-25 17:37:43,465 : DEBUG : KNIME-Worker-4 : NodeContainer : CSV Reader : 2:1 : sample_R_workflow 2 has new state: CONFIGURED
+2018-01-25 17:37:43,466 : DEBUG : KNIME-WFM-Parent-Notifier : NodeContainer :  :  : ROOT  has new state: IDLE
+2018-01-25 17:37:59,481 : DEBUG : main : VerifyingCompoundCommand :  :  : Executing <1> commands.
+2018-01-25 17:37:59,489 : DEBUG : main : CSVReaderNodeModel : CSV Reader : 2:1 : Removing all (0) views from model.
+2018-01-25 17:37:59,489 : DEBUG : main : Node : CSV Reader : 2:1 : clean output ports.
+2018-01-25 17:37:59,489 : DEBUG : main : NodeContainer :  :  : sample_R_workflow 2 has new state: EXECUTED
+2018-01-25 17:37:59,489 : DEBUG : KNIME-Workflow-Notifier : WorkflowEditor :  :  : Workflow event triggered: WorkflowEvent [type=NODE_REMOVED;node=2;old=CSV Reader 2:1 (CONFIGURED);new=null;timestamp=Jan 25, 2018 5:37:59 PM]
+2018-01-25 17:38:01,966 : DEBUG : KNIME-Workflow-Notifier : WorkflowEditor :  :  : Workflow event triggered: WorkflowEvent [type=NODE_ADDED;node=2:1;old=null;new=File Reader 2:1 (IDLE);timestamp=Jan 25, 2018 5:38:01 PM]
+2018-01-25 17:38:01,967 : WARN  : main : Node : File Reader : 2:1 : No Settings available.
+2018-01-25 17:38:01,967 : DEBUG : main : WorkflowManager :  :  : Added new node 2:1
+2018-01-25 17:38:01,967 : DEBUG : main : NodeContainer :  :  : sample_R_workflow 2 has new state: IDLE
+2018-01-25 17:38:01,984 : DEBUG : main : WorkflowRootEditPart :  :  : part: NodeAnnotationEditPart(  )
+2018-01-25 17:38:01,985 : DEBUG : main : WorkflowRootEditPart :  :  : part: NodeContainerEditPart( File Reader 2:1 (IDLE) )
+2018-01-25 17:38:20,462 : DEBUG : main : Node : File Reader : 2:1 : Configure succeeded. (File Reader)
+2018-01-25 17:38:20,463 : DEBUG : main : NodeContainer : File Reader : 2:1 : File Reader 2:1 has new state: CONFIGURED
+2018-01-25 17:38:20,464 : DEBUG : main : NodeContainer : File Reader : 2:1 : sample_R_workflow 2 has new state: CONFIGURED
+2018-01-25 17:38:21,116 : DEBUG : main : Node : File Reader : 2:1 : reset
+2018-01-25 17:38:21,117 : DEBUG : main : Node : File Reader : 2:1 : clean output ports.
+2018-01-25 17:38:21,117 : DEBUG : main : NodeContainer : File Reader : 2:1 : File Reader 2:1 has new state: IDLE
+2018-01-25 17:38:21,131 : DEBUG : main : Node : File Reader : 2:1 : Configure succeeded. (File Reader)
+2018-01-25 17:38:21,131 : DEBUG : main : NodeContainer : File Reader : 2:1 : File Reader 2:1 has new state: CONFIGURED
+2018-01-25 17:38:24,161 : DEBUG : main : ExecuteAction :  :  : Creating execution job for 1 node(s)...
+2018-01-25 17:38:24,161 : DEBUG : main : NodeContainer :  :  : File Reader 2:1 has new state: CONFIGURED_MARKEDFOREXEC
+2018-01-25 17:38:24,161 : DEBUG : main : NodeContainer :  :  : File Reader 2:1 has new state: CONFIGURED_QUEUED
+2018-01-25 17:38:24,162 : DEBUG : main : NodeContainer :  :  : sample_R_workflow 2 has new state: EXECUTING
+2018-01-25 17:38:24,162 : DEBUG : KNIME-Worker-5 : WorkflowManager : File Reader : 2:1 : File Reader 2:1 doBeforePreExecution
+2018-01-25 17:38:24,162 : DEBUG : KNIME-Worker-5 : NodeContainer : File Reader : 2:1 : File Reader 2:1 has new state: PREEXECUTE
+2018-01-25 17:38:24,162 : DEBUG : KNIME-Worker-5 : WorkflowManager : File Reader : 2:1 : File Reader 2:1 doBeforeExecution
+2018-01-25 17:38:24,162 : DEBUG : KNIME-Worker-5 : NodeContainer : File Reader : 2:1 : File Reader 2:1 has new state: EXECUTING
+2018-01-25 17:38:24,163 : DEBUG : KNIME-Worker-5 : WorkflowFileStoreHandlerRepository : File Reader : 2:1 : Adding handler d7588729-1f8a-4254-ab02-eb428550d453 (File Reader 2:1: <no directory>) - 1 in total
+2018-01-25 17:38:24,163 : DEBUG : KNIME-WFM-Parent-Notifier : NodeContainer :  :  : ROOT  has new state: EXECUTING
+2018-01-25 17:38:24,163 : DEBUG : KNIME-Worker-5 : LocalNodeExecutionJob : File Reader : 2:1 : File Reader 2:1 Start execute
+2018-01-25 17:38:24,181 : INFO  : KNIME-Worker-5 : FileReaderNodeModel : File Reader : 2:1 : Preparing to read from 'file:/Users/lan/Downloads/surveyData%20(1).csv'.
+2018-01-25 17:38:27,018 : DEBUG : KNIME-Worker-5 : Buffer : File Reader : 2:1 : Buffer file (/private/var/folders/15/cz8zcd5n7r79n4s9l913t0d80000gn/T/knime_Workflow Manage39513/knime_container_20180125_7075485704145710171.bin.gz) is 0.891MB in size
+2018-01-25 17:38:27,023 : INFO  : KNIME-Worker-5 : LocalNodeExecutionJob : File Reader : 2:1 : File Reader 2:1 End execute (2 secs)
+2018-01-25 17:38:27,023 : DEBUG : KNIME-Worker-5 : WorkflowManager : File Reader : 2:1 : File Reader 2:1 doBeforePostExecution
+2018-01-25 17:38:27,024 : DEBUG : KNIME-Worker-5 : NodeContainer : File Reader : 2:1 : File Reader 2:1 has new state: POSTEXECUTE
+2018-01-25 17:38:27,024 : DEBUG : KNIME-Worker-5 : WorkflowManager : File Reader : 2:1 : File Reader 2:1 doAfterExecute - success
+2018-01-25 17:38:27,024 : DEBUG : KNIME-Worker-5 : NodeContainer : File Reader : 2:1 : File Reader 2:1 has new state: EXECUTED
+2018-01-25 17:38:27,027 : DEBUG : KNIME-Worker-5 : NodeContainer : File Reader : 2:1 : sample_R_workflow 2 has new state: EXECUTED
+2018-01-25 17:38:27,027 : DEBUG : KNIME-WFM-Parent-Notifier : NodeContainer :  :  : ROOT  has new state: IDLE
+2018-01-25 17:38:51,703 : DEBUG : Service Thread : MemoryAlertSystem :  :  : Memory usage below threshold (81%) after GC run, currently 5% (0.07GB/1.33GB)
+2018-01-25 17:38:57,955 : DEBUG : main : WorkflowManager :  :  : Added new node 2:2
+2018-01-25 17:38:57,956 : DEBUG : KNIME-Workflow-Notifier : WorkflowEditor :  :  : Workflow event triggered: WorkflowEvent [type=NODE_ADDED;node=2:2;old=null;new=R Snippet 2:2 (IDLE);timestamp=Jan 25, 2018 5:38:57 PM]
+2018-01-25 17:38:57,964 : DEBUG : main : NodeContainer :  :  : sample_R_workflow 2 has new state: IDLE
+2018-01-25 17:38:57,982 : DEBUG : main : WorkflowRootEditPart :  :  : part: NodeAnnotationEditPart(  )
+2018-01-25 17:38:57,983 : DEBUG : main : WorkflowRootEditPart :  :  : part: NodeContainerEditPart( R Snippet 2:2 (IDLE) )
+2018-01-25 17:38:57,983 : DEBUG : main : NodeContainerEditPart :  :  : File Reader 2:1 (EXECUTED)
+2018-01-25 17:39:05,280 : DEBUG : main : NodeContainerEditPart :  :  : R Snippet 2:2 (IDLE)
+2018-01-25 17:39:05,288 : DEBUG : main : NodeContainerEditPart :  :  : File Reader 2:1 (EXECUTED)
+2018-01-25 17:39:06,286 : DEBUG : main : CreateConnectionCommand :  :  : adding connection from 2:1 1 to 2:2 1
+2018-01-25 17:39:06,287 : DEBUG : main : Node : R Snippet : 2:2 : Configure succeeded. (R Snippet)
+2018-01-25 17:39:06,288 : DEBUG : main : NodeContainer :  :  : R Snippet 2:2 has new state: CONFIGURED
+2018-01-25 17:39:06,288 : DEBUG : main : NodeContainer :  :  : sample_R_workflow 2 has new state: CONFIGURED
+2018-01-25 17:39:06,288 : DEBUG : main : WorkflowManager :  :  : Added new connection from node 2:1(1) to node 2:2(1)
+2018-01-25 17:39:06,288 : DEBUG : KNIME-Workflow-Notifier : WorkflowEditor :  :  : Workflow event triggered: WorkflowEvent [type=CONNECTION_ADDED;node=null;old=null;new=STD[2:1(1) -> 2:2( 1)];timestamp=Jan 25, 2018 5:39:06 PM]
+2018-01-25 17:39:06,396 : DEBUG : main : ConnectionContainerEditPart :  :  : refreshing visuals for: STD[2:1(1) -> 2:2( 1)]
+2018-01-25 17:39:06,396 : DEBUG : main : ConnectionContainerEditPart :  :  : modelling info: null
+2018-01-25 17:39:06,398 : DEBUG : main : ConnectionContainerEditPart :  :  : refreshing visuals for: STD[2:1(1) -> 2:2( 1)]
+2018-01-25 17:39:06,399 : DEBUG : main : ConnectionContainerEditPart :  :  : modelling info: null
+2018-01-25 17:39:14,268 : DEBUG : main : NodeContainerEditPart :  :  : File Reader 2:1 (EXECUTED)
+2018-01-25 17:39:14,269 : DEBUG : main : NodeContainerEditPart :  :  : R Snippet 2:2 (CONFIGURED)
+2018-01-25 17:39:15,470 : DEBUG : R Error Reader : RBinUtil :  :  : External Rscript process error output: Warning message:'memory.limit()' is Windows-specific 
+2018-01-25 17:39:15,470 : DEBUG : R Output Reader : RBinUtil :  :  : External Rscript process output: 
+2018-01-25 17:39:15,634 : DEBUG : R Output Reader : RBinUtil :  :  : External Rscript process output: 
+2018-01-25 17:39:15,634 : DEBUG : R Error Reader : RBinUtil :  :  : External Rscript process error output: Warning message:'memory.limit()' is Windows-specific 
+2018-01-25 17:39:15,760 : DEBUG : AWT-EventQueue-0 : RController : R Snippet : 2:2 : Attempt #1 to connect to Rserve failed (waited 0ms, timeout 30000ms)
+org.rosuda.REngine.Rserve.RserveException: Cannot connect: Connection refused (Connection refused)
+	at org.rosuda.REngine.Rserve.RConnection.<init>(RConnection.java:88)
+	at org.rosuda.REngine.Rserve.RConnection.<init>(RConnection.java:60)
+	at org.knime.r.rserve.RConnectionFactory$RInstance.createConnection(RConnectionFactory.java:439)
+	at org.knime.r.rserve.RConnectionFactory.launchRserve(RConnectionFactory.java:258)
+	at org.knime.r.rserve.RConnectionFactory.createConnection(RConnectionFactory.java:329)
+	at org.knime.r.controller.RController.initRConnection(RController.java:276)
+	at org.knime.r.controller.RController.initR(RController.java:309)
+	at org.knime.r.controller.RController.initialize(RController.java:195)
+	at org.knime.r.RSnippetNodePanel.connectToR(RSnippetNodePanel.java:736)
+	at org.knime.r.RSnippetNodePanel.onOpen(RSnippetNodePanel.java:709)
+	at org.knime.r.RSnippetNodeDialog.lambda$0(RSnippetNodeDialog.java:289)
+	at org.knime.core.node.util.ViewUtils$3.run(ViewUtils.java:353)
+	at org.knime.core.node.util.ViewUtils$2.run(ViewUtils.java:155)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-01-25 17:39:15,970 : DEBUG : AWT-EventQueue-0 : RController : R Snippet : 2:2 : Connected to Rserve in 2 attempt(s) (200ms).
+2018-01-25 17:39:15,977 : DEBUG : R Error Reader (port:56944) : RController :  :  : Error in find.package("Cairo") : there is no package called 'Cairo'
+2018-01-25 17:39:15,979 : DEBUG : AWT-EventQueue-0 : RController : R Snippet : 2:2 : Error while querying Cairo package version: R evaluation failed.: "find.package('Cairo')"
+org.knime.r.controller.IRController$RException: R evaluation failed.: "find.package('Cairo')"
+	at org.knime.r.controller.RController.eval(RController.java:421)
+	at org.knime.r.controller.RController.checkCairoOnMac(RController.java:339)
+	at org.knime.r.controller.RController.initR(RController.java:328)
+	at org.knime.r.controller.RController.initialize(RController.java:195)
+	at org.knime.r.RSnippetNodePanel.connectToR(RSnippetNodePanel.java:736)
+	at org.knime.r.RSnippetNodePanel.onOpen(RSnippetNodePanel.java:709)
+	at org.knime.r.RSnippetNodeDialog.lambda$0(RSnippetNodeDialog.java:289)
+	at org.knime.core.node.util.ViewUtils$3.run(ViewUtils.java:353)
+	at org.knime.core.node.util.ViewUtils$2.run(ViewUtils.java:155)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+Caused by: org.rosuda.REngine.Rserve.RserveException: eval failed, request status: error code: 127
+	at org.rosuda.REngine.Rserve.RConnection.eval(RConnection.java:234)
+	at org.knime.r.controller.RController.eval(RController.java:413)
+	... 22 more
+2018-01-25 17:39:15,979 : WARN  : AWT-EventQueue-0 : RController : R Snippet : 2:2 : The package 'Cairo' needs to be installed in your R installation for bitmap graphics devices to work properly. Please install it in R using "install.packages('Cairo')".
+2018-01-25 17:39:16,814 : DEBUG : SwingWorker-pool-4-thread-1 : Buffer : R Snippet : 2:2 : Opening input stream on file "/private/var/folders/15/cz8zcd5n7r79n4s9l913t0d80000gn/T/knime_Workflow Manage39513/knime_container_20180125_7075485704145710171.bin.gz", 0 open streams
+2018-01-25 17:39:17,848 : DEBUG : SwingWorker-pool-4-thread-1 : RController : R Snippet : 2:2 : Rows per second: 10000
+2018-01-25 17:39:18,932 : DEBUG : SwingWorker-pool-4-thread-1 : Buffer : R Snippet : 2:2 : Closing input stream on "/private/var/folders/15/cz8zcd5n7r79n4s9l913t0d80000gn/T/knime_Workflow Manage39513/knime_container_20180125_7075485704145710171.bin.gz", 0 remaining
+2018-01-25 17:39:23,171 : DEBUG : main : Node : R Snippet : 2:2 : reset
+2018-01-25 17:39:23,172 : DEBUG : main : Node : R Snippet : 2:2 : clean output ports.
+2018-01-25 17:39:23,172 : DEBUG : main : NodeContainer : R Snippet : 2:2 : R Snippet 2:2 has new state: IDLE
+2018-01-25 17:39:23,173 : DEBUG : main : Node : R Snippet : 2:2 : Configure succeeded. (R Snippet)
+2018-01-25 17:39:23,173 : DEBUG : main : NodeContainer : R Snippet : 2:2 : R Snippet 2:2 has new state: CONFIGURED
+2018-01-25 17:39:23,200 : DEBUG : AWT-EventQueue-0 : RController : R Snippet : 2:2 : Terminating R process
+2018-01-25 17:39:23,336 : DEBUG : AWT-EventQueue-0 : RController : R Snippet : 2:2 : Attempt #1 to connect to Rserve failed (waited 0ms, timeout 30000ms)
+org.rosuda.REngine.Rserve.RserveException: Cannot connect: Connection refused (Connection refused)
+	at org.rosuda.REngine.Rserve.RConnection.<init>(RConnection.java:88)
+	at org.rosuda.REngine.Rserve.RConnection.<init>(RConnection.java:60)
+	at org.knime.r.rserve.RConnectionFactory$RInstance.createConnection(RConnectionFactory.java:439)
+	at org.knime.r.rserve.RConnectionFactory.launchRserve(RConnectionFactory.java:258)
+	at org.knime.r.rserve.RConnectionFactory.createConnection(RConnectionFactory.java:329)
+	at org.knime.r.controller.RController.initRConnection(RController.java:276)
+	at org.knime.r.controller.RController.terminateAndRelaunch(RController.java:235)
+	at org.knime.r.controller.RConsoleController.cancel(RConsoleController.java:163)
+	at org.knime.r.RSnippetNodePanel.onClose(RSnippetNodePanel.java:774)
+	at org.knime.r.RSnippetNodeDialog.lambda$1(RSnippetNodeDialog.java:296)
+	at org.knime.core.node.util.ViewUtils$3.run(ViewUtils.java:353)
+	at org.knime.core.node.util.ViewUtils$2.run(ViewUtils.java:155)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-01-25 17:39:23,645 : DEBUG : AWT-EventQueue-0 : RController : R Snippet : 2:2 : Connected to Rserve in 2 attempt(s) (200ms).
+2018-01-25 17:39:23,645 : DEBUG : AWT-EventQueue-0 : RController : R Snippet : 2:2 : Recovered with a new R process
+2018-01-25 17:39:32,542 : DEBUG : main : WorkflowManager :  :  : Added new node 2:3
+2018-01-25 17:39:32,543 : DEBUG : KNIME-Workflow-Notifier : WorkflowEditor :  :  : Workflow event triggered: WorkflowEvent [type=NODE_ADDED;node=2:3;old=null;new=R View (Table) 2:3 (IDLE);timestamp=Jan 25, 2018 5:39:32 PM]
+2018-01-25 17:39:32,547 : DEBUG : main : NodeContainer :  :  : sample_R_workflow 2 has new state: IDLE
+2018-01-25 17:39:32,593 : DEBUG : main : WorkflowRootEditPart :  :  : part: NodeAnnotationEditPart(  )
+2018-01-25 17:39:32,594 : DEBUG : main : WorkflowRootEditPart :  :  : part: NodeContainerEditPart( R View (Table) 2:3 (IDLE) )
+2018-01-25 17:39:32,594 : DEBUG : main : NodeContainerEditPart :  :  : R Snippet 2:2 (CONFIGURED)
+2018-01-25 17:39:38,478 : DEBUG : main : NodeContainerEditPart :  :  : R View (Table) 2:3 (IDLE)
+2018-01-25 17:39:38,479 : DEBUG : main : NodeContainerEditPart :  :  : R Snippet 2:2 (CONFIGURED)
+2018-01-25 17:39:40,522 : DEBUG : main : CreateConnectionCommand :  :  : adding connection from 2:2 1 to 2:3 1
+2018-01-25 17:39:40,523 : DEBUG : main : WorkflowManager :  :  : Added new connection from node 2:2(1) to node 2:3(1)
+2018-01-25 17:39:40,523 : DEBUG : KNIME-Workflow-Notifier : WorkflowEditor :  :  : Workflow event triggered: WorkflowEvent [type=CONNECTION_ADDED;node=null;old=null;new=STD[2:2(1) -> 2:3( 1)];timestamp=Jan 25, 2018 5:39:40 PM]
+2018-01-25 17:39:40,530 : DEBUG : main : ConnectionContainerEditPart :  :  : refreshing visuals for: STD[2:2(1) -> 2:3( 1)]
+2018-01-25 17:39:40,530 : DEBUG : main : ConnectionContainerEditPart :  :  : modelling info: null
+2018-01-25 17:39:40,531 : DEBUG : main : ConnectionContainerEditPart :  :  : refreshing visuals for: STD[2:2(1) -> 2:3( 1)]
+2018-01-25 17:39:40,531 : DEBUG : main : ConnectionContainerEditPart :  :  : modelling info: null
+2018-01-25 17:39:50,313 : DEBUG : main : NodeContainerEditPart :  :  : R Snippet 2:2 (CONFIGURED)
+2018-01-25 17:39:50,313 : DEBUG : main : NodeContainerEditPart :  :  : R View (Table) 2:3 (IDLE)
+2018-01-25 17:39:56,719 : DEBUG : DataAwareNode-Executor-1 : NodeContainer :  :  : R Snippet 2:2 has new state: CONFIGURED_MARKEDFOREXEC
+2018-01-25 17:39:56,720 : DEBUG : DataAwareNode-Executor-1 : NodeContainer :  :  : R Snippet 2:2 has new state: CONFIGURED_QUEUED
+2018-01-25 17:39:56,721 : DEBUG : DataAwareNode-Executor-1 : NodeContainer :  :  : sample_R_workflow 2 has new state: EXECUTING
+2018-01-25 17:39:56,721 : DEBUG : KNIME-WFM-Parent-Notifier : NodeContainer :  :  : ROOT  has new state: EXECUTING
+2018-01-25 17:39:56,721 : DEBUG : KNIME-Worker-6 : WorkflowManager : R Snippet : 2:2 : R Snippet 2:2 doBeforePreExecution
+2018-01-25 17:39:56,721 : DEBUG : KNIME-Worker-6 : NodeContainer : R Snippet : 2:2 : R Snippet 2:2 has new state: PREEXECUTE
+2018-01-25 17:39:56,721 : DEBUG : KNIME-Worker-6 : WorkflowManager : R Snippet : 2:2 : R Snippet 2:2 doBeforeExecution
+2018-01-25 17:39:56,721 : DEBUG : KNIME-Worker-6 : NodeContainer : R Snippet : 2:2 : R Snippet 2:2 has new state: EXECUTING
+2018-01-25 17:39:56,722 : DEBUG : KNIME-Worker-6 : WorkflowFileStoreHandlerRepository : R Snippet : 2:2 : Adding handler 0ad6e749-1142-4dad-b241-77701ef2ff65 (R Snippet 2:2: <no directory>) - 2 in total
+2018-01-25 17:39:56,722 : DEBUG : KNIME-Worker-6 : LocalNodeExecutionJob : R Snippet : 2:2 : R Snippet 2:2 Start execute
+2018-01-25 17:39:56,999 : DEBUG : R Output Reader : RBinUtil :  :  : External Rscript process output: 
+2018-01-25 17:39:56,999 : DEBUG : R Error Reader : RBinUtil :  :  : External Rscript process error output: Warning message:'memory.limit()' is Windows-specific 
+2018-01-25 17:39:57,014 : DEBUG : R Error Reader (port:56949) : RController :  :  : Error in find.package("Cairo") : there is no package called 'Cairo'
+2018-01-25 17:39:57,014 : DEBUG : KNIME-Worker-6 : RController : R Snippet : 2:2 : Error while querying Cairo package version: R evaluation failed.: "find.package('Cairo')"
+org.knime.r.controller.IRController$RException: R evaluation failed.: "find.package('Cairo')"
+	at org.knime.r.controller.RController.eval(RController.java:421)
+	at org.knime.r.controller.RController.checkCairoOnMac(RController.java:339)
+	at org.knime.r.controller.RController.initR(RController.java:328)
+	at org.knime.r.controller.RController.initialize(RController.java:195)
+	at org.knime.r.controller.RController.<init>(RController.java:167)
+	at org.knime.r.RSnippetNodeModel.executeInternal(RSnippetNodeModel.java:145)
+	at org.knime.r.RSnippetNodeModel.execute(RSnippetNodeModel.java:136)
+	at org.knime.core.node.NodeModel.executeModel(NodeModel.java:567)
+	at org.knime.core.node.Node.invokeFullyNodeModelExecute(Node.java:1172)
+	at org.knime.core.node.Node.execute(Node.java:959)
+	at org.knime.core.node.workflow.NativeNodeContainer.performExecuteNode(NativeNodeContainer.java:561)
+	at org.knime.core.node.exec.LocalNodeExecutionJob.mainExecute(LocalNodeExecutionJob.java:95)
+	at org.knime.core.node.workflow.NodeExecutionJob.internalRun(NodeExecutionJob.java:179)
+	at org.knime.core.node.workflow.NodeExecutionJob.run(NodeExecutionJob.java:110)
+	at org.knime.core.util.ThreadUtils$RunnableWithContextImpl.runWithContext(ThreadUtils.java:328)
+	at org.knime.core.util.ThreadUtils$RunnableWithContext.run(ThreadUtils.java:204)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at org.knime.core.util.ThreadPool$MyFuture.run(ThreadPool.java:123)
+	at org.knime.core.util.ThreadPool$Worker.run(ThreadPool.java:246)
+Caused by: org.rosuda.REngine.Rserve.RserveException: eval failed, request status: error code: 127
+	at org.rosuda.REngine.Rserve.RConnection.eval(RConnection.java:234)
+	at org.knime.r.controller.RController.eval(RController.java:413)
+	... 19 more
+2018-01-25 17:39:57,016 : WARN  : KNIME-Worker-6 : RController : R Snippet : 2:2 : The package 'Cairo' needs to be installed in your R installation for bitmap graphics devices to work properly. Please install it in R using "install.packages('Cairo')".
+2018-01-25 17:39:57,450 : DEBUG : KNIME-Worker-6 : Buffer : R Snippet : 2:2 : Opening input stream on file "/private/var/folders/15/cz8zcd5n7r79n4s9l913t0d80000gn/T/knime_Workflow Manage39513/knime_container_20180125_7075485704145710171.bin.gz", 0 open streams
+2018-01-25 17:39:58,547 : DEBUG : KNIME-Worker-6 : RController : R Snippet : 2:2 : Rows per second: 10000
+2018-01-25 17:39:59,272 : DEBUG : KNIME-Worker-6 : Buffer : R Snippet : 2:2 : Closing input stream on "/private/var/folders/15/cz8zcd5n7r79n4s9l913t0d80000gn/T/knime_Workflow Manage39513/knime_container_20180125_7075485704145710171.bin.gz", 0 remaining
+2018-01-25 17:40:02,868 : DEBUG : KNIME-Worker-6 : Buffer : R Snippet : 2:2 : Buffer file (/private/var/folders/15/cz8zcd5n7r79n4s9l913t0d80000gn/T/knime_Workflow Manage39513/knime_container_20180125_2416591769011048464.bin.gz) is 0.891MB in size
+2018-01-25 17:40:02,880 : INFO  : KNIME-Worker-6 : LocalNodeExecutionJob : R Snippet : 2:2 : R Snippet 2:2 End execute (6 secs)
+2018-01-25 17:40:02,880 : DEBUG : KNIME-Worker-6 : WorkflowManager : R Snippet : 2:2 : R Snippet 2:2 doBeforePostExecution
+2018-01-25 17:40:02,882 : DEBUG : KNIME-Worker-6 : NodeContainer : R Snippet : 2:2 : R Snippet 2:2 has new state: POSTEXECUTE
+2018-01-25 17:40:02,884 : DEBUG : KNIME-Worker-6 : WorkflowManager : R Snippet : 2:2 : R Snippet 2:2 doAfterExecute - success
+2018-01-25 17:40:02,884 : DEBUG : KNIME-Worker-6 : NodeContainer : R Snippet : 2:2 : R Snippet 2:2 has new state: EXECUTED
+2018-01-25 17:40:02,903 : DEBUG : KNIME-Worker-6 : Node : R View (Table) : 2:3 : Configure succeeded. (R View (Table))
+2018-01-25 17:40:02,903 : DEBUG : KNIME-Worker-6 : NodeContainer : R Snippet : 2:2 : R View (Table) 2:3 has new state: CONFIGURED
+2018-01-25 17:40:02,904 : DEBUG : KNIME-Worker-6 : NodeContainer : R Snippet : 2:2 : sample_R_workflow 2 has new state: CONFIGURED
+2018-01-25 17:40:02,905 : DEBUG : KNIME-WFM-Parent-Notifier : NodeContainer :  :  : ROOT  has new state: IDLE
+2018-01-25 17:40:03,299 : DEBUG : R Error Reader : RBinUtil :  :  : External Rscript process error output: Warning message:'memory.limit()' is Windows-specific 
+2018-01-25 17:40:03,299 : DEBUG : R Output Reader : RBinUtil :  :  : External Rscript process output: 
+2018-01-25 17:40:03,312 : DEBUG : R Error Reader (port:56949) : RController :  :  : Error in find.package("Cairo") : there is no package called 'Cairo'
+2018-01-25 17:40:03,312 : DEBUG : AWT-EventQueue-0 : RController : R View (Table) : 2:3 : Error while querying Cairo package version: R evaluation failed.: "find.package('Cairo')"
+org.knime.r.controller.IRController$RException: R evaluation failed.: "find.package('Cairo')"
+	at org.knime.r.controller.RController.eval(RController.java:421)
+	at org.knime.r.controller.RController.checkCairoOnMac(RController.java:339)
+	at org.knime.r.controller.RController.initR(RController.java:328)
+	at org.knime.r.controller.RController.initialize(RController.java:195)
+	at org.knime.r.RSnippetNodePanel.connectToR(RSnippetNodePanel.java:736)
+	at org.knime.r.RSnippetNodePanel.onOpen(RSnippetNodePanel.java:709)
+	at org.knime.r.RViewNodeDialog.lambda$0(RViewNodeDialog.java:348)
+	at org.knime.core.node.util.ViewUtils$3.run(ViewUtils.java:353)
+	at org.knime.core.node.util.ViewUtils$2.run(ViewUtils.java:155)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+Caused by: org.rosuda.REngine.Rserve.RserveException: eval failed, request status: error code: 127
+	at org.rosuda.REngine.Rserve.RConnection.eval(RConnection.java:234)
+	at org.knime.r.controller.RController.eval(RController.java:413)
+	... 22 more
+2018-01-25 17:40:03,314 : WARN  : AWT-EventQueue-0 : RController : R View (Table) : 2:3 : The package 'Cairo' needs to be installed in your R installation for bitmap graphics devices to work properly. Please install it in R using "install.packages('Cairo')".
+2018-01-25 17:40:04,279 : DEBUG : SwingWorker-pool-4-thread-2 : Buffer : R View (Table) : 2:3 : Opening input stream on file "/private/var/folders/15/cz8zcd5n7r79n4s9l913t0d80000gn/T/knime_Workflow Manage39513/knime_container_20180125_2416591769011048464.bin.gz", 0 open streams
+2018-01-25 17:40:05,280 : DEBUG : SwingWorker-pool-4-thread-2 : RController : R View (Table) : 2:3 : Rows per second: 10965
+2018-01-25 17:40:05,925 : DEBUG : SwingWorker-pool-4-thread-2 : Buffer : R View (Table) : 2:3 : Closing input stream on "/private/var/folders/15/cz8zcd5n7r79n4s9l913t0d80000gn/T/knime_Workflow Manage39513/knime_container_20180125_2416591769011048464.bin.gz", 0 remaining
+2018-01-25 17:40:07,806 : DEBUG : main : Node : R View (Table) : 2:3 : reset
+2018-01-25 17:40:07,809 : DEBUG : main : Node : R View (Table) : 2:3 : clean output ports.
+2018-01-25 17:40:07,810 : DEBUG : main : NodeContainer : R View (Table) : 2:3 : R View (Table) 2:3 has new state: IDLE
+2018-01-25 17:40:07,811 : DEBUG : main : Node : R View (Table) : 2:3 : Configure succeeded. (R View (Table))
+2018-01-25 17:40:07,811 : DEBUG : main : NodeContainer : R View (Table) : 2:3 : R View (Table) 2:3 has new state: CONFIGURED
+2018-01-25 17:40:07,828 : DEBUG : AWT-EventQueue-0 : RController : R View (Table) : 2:3 : Terminating R process
+2018-01-25 17:40:07,956 : DEBUG : AWT-EventQueue-0 : RController : R View (Table) : 2:3 : Attempt #1 to connect to Rserve failed (waited 0ms, timeout 30000ms)
+org.rosuda.REngine.Rserve.RserveException: Cannot connect: Connection refused (Connection refused)
+	at org.rosuda.REngine.Rserve.RConnection.<init>(RConnection.java:88)
+	at org.rosuda.REngine.Rserve.RConnection.<init>(RConnection.java:60)
+	at org.knime.r.rserve.RConnectionFactory$RInstance.createConnection(RConnectionFactory.java:439)
+	at org.knime.r.rserve.RConnectionFactory.launchRserve(RConnectionFactory.java:258)
+	at org.knime.r.rserve.RConnectionFactory.createConnection(RConnectionFactory.java:329)
+	at org.knime.r.controller.RController.initRConnection(RController.java:276)
+	at org.knime.r.controller.RController.terminateAndRelaunch(RController.java:235)
+	at org.knime.r.controller.RConsoleController.cancel(RConsoleController.java:163)
+	at org.knime.r.RSnippetNodePanel.onClose(RSnippetNodePanel.java:774)
+	at org.knime.r.RViewNodeDialog.lambda$1(RViewNodeDialog.java:353)
+	at org.knime.core.node.util.ViewUtils$3.run(ViewUtils.java:353)
+	at org.knime.core.node.util.ViewUtils$2.run(ViewUtils.java:155)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-01-25 17:40:08,259 : DEBUG : AWT-EventQueue-0 : RController : R View (Table) : 2:3 : Attempt #2 to connect to Rserve failed (waited 200ms, timeout 30000ms)
+org.rosuda.REngine.Rserve.RserveException: Cannot connect: Connection refused (Connection refused)
+	at org.rosuda.REngine.Rserve.RConnection.<init>(RConnection.java:88)
+	at org.rosuda.REngine.Rserve.RConnection.<init>(RConnection.java:60)
+	at org.knime.r.rserve.RConnectionFactory$RInstance.createConnection(RConnectionFactory.java:439)
+	at org.knime.r.rserve.RConnectionFactory.launchRserve(RConnectionFactory.java:258)
+	at org.knime.r.rserve.RConnectionFactory.createConnection(RConnectionFactory.java:329)
+	at org.knime.r.controller.RController.initRConnection(RController.java:276)
+	at org.knime.r.controller.RController.terminateAndRelaunch(RController.java:235)
+	at org.knime.r.controller.RConsoleController.cancel(RConsoleController.java:163)
+	at org.knime.r.RSnippetNodePanel.onClose(RSnippetNodePanel.java:774)
+	at org.knime.r.RViewNodeDialog.lambda$1(RViewNodeDialog.java:353)
+	at org.knime.core.node.util.ViewUtils$3.run(ViewUtils.java:353)
+	at org.knime.core.node.util.ViewUtils$2.run(ViewUtils.java:155)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-01-25 17:40:08,667 : DEBUG : AWT-EventQueue-0 : RController : R View (Table) : 2:3 : Connected to Rserve in 3 attempt(s) (600ms).
+2018-01-25 17:40:08,667 : DEBUG : AWT-EventQueue-0 : RController : R View (Table) : 2:3 : Recovered with a new R process
+2018-01-25 17:40:11,262 : DEBUG : main : ExecuteAction :  :  : Creating execution job for 1 node(s)...
+2018-01-25 17:40:11,262 : DEBUG : main : NodeContainer :  :  : R View (Table) 2:3 has new state: CONFIGURED_MARKEDFOREXEC
+2018-01-25 17:40:11,262 : DEBUG : main : NodeContainer :  :  : R View (Table) 2:3 has new state: CONFIGURED_QUEUED
+2018-01-25 17:40:11,262 : DEBUG : main : NodeContainer :  :  : sample_R_workflow 2 has new state: EXECUTING
+2018-01-25 17:40:11,262 : DEBUG : KNIME-WFM-Parent-Notifier : NodeContainer :  :  : ROOT  has new state: EXECUTING
+2018-01-25 17:40:11,263 : DEBUG : KNIME-Worker-8 : WorkflowManager : R View (Table) : 2:3 : R View (Table) 2:3 doBeforePreExecution
+2018-01-25 17:40:11,263 : DEBUG : KNIME-Worker-8 : NodeContainer : R View (Table) : 2:3 : R View (Table) 2:3 has new state: PREEXECUTE
+2018-01-25 17:40:11,263 : DEBUG : KNIME-Worker-8 : WorkflowManager : R View (Table) : 2:3 : R View (Table) 2:3 doBeforeExecution
+2018-01-25 17:40:11,263 : DEBUG : KNIME-Worker-8 : NodeContainer : R View (Table) : 2:3 : R View (Table) 2:3 has new state: EXECUTING
+2018-01-25 17:40:11,263 : DEBUG : KNIME-Worker-8 : WorkflowFileStoreHandlerRepository : R View (Table) : 2:3 : Adding handler f0ff3c61-3730-4e18-ac7b-7c4da45d6d8e (R View (Table) 2:3: <no directory>) - 3 in total
+2018-01-25 17:40:11,263 : DEBUG : KNIME-Worker-8 : LocalNodeExecutionJob : R View (Table) : 2:3 : R View (Table) 2:3 Start execute
+2018-01-25 17:40:11,499 : DEBUG : R Error Reader : RBinUtil :  :  : External Rscript process error output: Warning message:'memory.limit()' is Windows-specific 
+2018-01-25 17:40:11,500 : DEBUG : R Output Reader : RBinUtil :  :  : External Rscript process output: 
+2018-01-25 17:40:11,511 : DEBUG : R Error Reader (port:56963) : RController :  :  : Error in find.package("Cairo") : there is no package called 'Cairo'
+2018-01-25 17:40:11,512 : DEBUG : KNIME-Worker-8 : RController : R View (Table) : 2:3 : Error while querying Cairo package version: R evaluation failed.: "find.package('Cairo')"
+org.knime.r.controller.IRController$RException: R evaluation failed.: "find.package('Cairo')"
+	at org.knime.r.controller.RController.eval(RController.java:421)
+	at org.knime.r.controller.RController.checkCairoOnMac(RController.java:339)
+	at org.knime.r.controller.RController.initR(RController.java:328)
+	at org.knime.r.controller.RController.initialize(RController.java:195)
+	at org.knime.r.controller.RController.<init>(RController.java:167)
+	at org.knime.r.RSnippetNodeModel.executeInternal(RSnippetNodeModel.java:145)
+	at org.knime.r.RSnippetNodeModel.execute(RSnippetNodeModel.java:136)
+	at org.knime.r.RViewNodeModel.execute(RViewNodeModel.java:108)
+	at org.knime.core.node.NodeModel.executeModel(NodeModel.java:567)
+	at org.knime.core.node.Node.invokeFullyNodeModelExecute(Node.java:1172)
+	at org.knime.core.node.Node.execute(Node.java:959)
+	at org.knime.core.node.workflow.NativeNodeContainer.performExecuteNode(NativeNodeContainer.java:561)
+	at org.knime.core.node.exec.LocalNodeExecutionJob.mainExecute(LocalNodeExecutionJob.java:95)
+	at org.knime.core.node.workflow.NodeExecutionJob.internalRun(NodeExecutionJob.java:179)
+	at org.knime.core.node.workflow.NodeExecutionJob.run(NodeExecutionJob.java:110)
+	at org.knime.core.util.ThreadUtils$RunnableWithContextImpl.runWithContext(ThreadUtils.java:328)
+	at org.knime.core.util.ThreadUtils$RunnableWithContext.run(ThreadUtils.java:204)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at org.knime.core.util.ThreadPool$MyFuture.run(ThreadPool.java:123)
+	at org.knime.core.util.ThreadPool$Worker.run(ThreadPool.java:246)
+Caused by: org.rosuda.REngine.Rserve.RserveException: eval failed, request status: error code: 127
+	at org.rosuda.REngine.Rserve.RConnection.eval(RConnection.java:234)
+	at org.knime.r.controller.RController.eval(RController.java:413)
+	... 20 more
+2018-01-25 17:40:11,512 : WARN  : KNIME-Worker-8 : RController : R View (Table) : 2:3 : The package 'Cairo' needs to be installed in your R installation for bitmap graphics devices to work properly. Please install it in R using "install.packages('Cairo')".
+2018-01-25 17:40:11,893 : DEBUG : KNIME-Worker-8 : Buffer : R View (Table) : 2:3 : Opening input stream on file "/private/var/folders/15/cz8zcd5n7r79n4s9l913t0d80000gn/T/knime_Workflow Manage39513/knime_container_20180125_2416591769011048464.bin.gz", 0 open streams
+2018-01-25 17:40:13,090 : DEBUG : KNIME-Worker-8 : RController : R View (Table) : 2:3 : Rows per second: 10000
+2018-01-25 17:40:13,964 : DEBUG : KNIME-Worker-8 : Buffer : R View (Table) : 2:3 : Closing input stream on "/private/var/folders/15/cz8zcd5n7r79n4s9l913t0d80000gn/T/knime_Workflow Manage39513/knime_container_20180125_2416591769011048464.bin.gz", 0 remaining
+2018-01-25 17:40:15,194 : DEBUG : KNIME-Worker-8 : Node : R View (Table) : 2:3 : reset
+2018-01-25 17:40:15,194 : ERROR : KNIME-Worker-8 : Node : R View (Table) : 2:3 : Execute failed: R evaluation failed.: "knime.tmp.ret<-NULL;printError<-function(e) message(paste('Error:',conditionMessage(e)));for(exp in tryCatch(parse(text=knime.tmp.script),error=printError)){tryCatch(knime.tmp.ret<-withVisible(eval(exp)),error=printError)
+if(!is.null(knime.tmp.ret)) {if(knime.tmp.ret$visible) print(knime.tmp.ret$value)}};rm(knime.tmp.script,exp,printError);knime.tmp.ret$value"
+2018-01-25 17:40:15,196 : DEBUG : KNIME-Worker-8 : Node : R View (Table) : 2:3 : Execute failed: R evaluation failed.: "knime.tmp.ret<-NULL;printError<-function(e) message(paste('Error:',conditionMessage(e)));for(exp in tryCatch(parse(text=knime.tmp.script),error=printError)){tryCatch(knime.tmp.ret<-withVisible(eval(exp)),error=printError)
+if(!is.null(knime.tmp.ret)) {if(knime.tmp.ret$visible) print(knime.tmp.ret$value)}};rm(knime.tmp.script,exp,printError);knime.tmp.ret$value"
+org.knime.r.controller.IRController$RException: R evaluation failed.: "knime.tmp.ret<-NULL;printError<-function(e) message(paste('Error:',conditionMessage(e)));for(exp in tryCatch(parse(text=knime.tmp.script),error=printError)){tryCatch(knime.tmp.ret<-withVisible(eval(exp)),error=printError)
+if(!is.null(knime.tmp.ret)) {if(knime.tmp.ret$visible) print(knime.tmp.ret$value)}};rm(knime.tmp.script,exp,printError);knime.tmp.ret$value"
+	at org.knime.r.controller.RController.monitoredEval(RController.java:432)
+	at org.knime.r.controller.ConsoleLikeRExecutor.executeIgnoreResult(ConsoleLikeRExecutor.java:246)
+	at org.knime.r.RSnippetNodeModel.runRScript(RSnippetNodeModel.java:256)
+	at org.knime.r.RSnippetNodeModel.executeSnippet(RSnippetNodeModel.java:206)
+	at org.knime.r.RSnippetNodeModel.executeSnippet(RSnippetNodeModel.java:170)
+	at org.knime.r.RSnippetNodeModel.executeInternal(RSnippetNodeModel.java:149)
+	at org.knime.r.RSnippetNodeModel.execute(RSnippetNodeModel.java:136)
+	at org.knime.r.RViewNodeModel.execute(RViewNodeModel.java:108)
+	at org.knime.core.node.NodeModel.executeModel(NodeModel.java:567)
+	at org.knime.core.node.Node.invokeFullyNodeModelExecute(Node.java:1172)
+	at org.knime.core.node.Node.execute(Node.java:959)
+	at org.knime.core.node.workflow.NativeNodeContainer.performExecuteNode(NativeNodeContainer.java:561)
+	at org.knime.core.node.exec.LocalNodeExecutionJob.mainExecute(LocalNodeExecutionJob.java:95)
+	at org.knime.core.node.workflow.NodeExecutionJob.internalRun(NodeExecutionJob.java:179)
+	at org.knime.core.node.workflow.NodeExecutionJob.run(NodeExecutionJob.java:110)
+	at org.knime.core.util.ThreadUtils$RunnableWithContextImpl.runWithContext(ThreadUtils.java:328)
+	at org.knime.core.util.ThreadUtils$RunnableWithContext.run(ThreadUtils.java:204)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at org.knime.core.util.ThreadPool$MyFuture.run(ThreadPool.java:123)
+	at org.knime.core.util.ThreadPool$Worker.run(ThreadPool.java:246)
+Caused by: org.knime.r.controller.IRController$RException: R evaluation failed.: "knime.tmp.ret<-NULL;printError<-function(e) message(paste('Error:',conditionMessage(e)));for(exp in tryCatch(parse(text=knime.tmp.script),error=printError)){tryCatch(knime.tmp.ret<-withVisible(eval(exp)),error=printError)
+if(!is.null(knime.tmp.ret)) {if(knime.tmp.ret$visible) print(knime.tmp.ret$value)}};rm(knime.tmp.script,exp,printError);knime.tmp.ret$value"
+	at org.knime.r.controller.RController.eval(RController.java:421)
+	at org.knime.r.controller.RController$MonitoredEval.lambda$0(RController.java:1430)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at org.knime.core.util.ThreadUtils$3.runWithContext(ThreadUtils.java:486)
+	at org.knime.core.util.ThreadUtils$ThreadWithContext.run(ThreadUtils.java:304)
+Caused by: org.rosuda.REngine.Rserve.RserveException: voidEval failed
+	at org.rosuda.REngine.Rserve.RConnection.voidEval(RConnection.java:182)
+	at org.knime.r.controller.RController.eval(RController.java:416)
+	... 4 more
+2018-01-25 17:40:15,202 : DEBUG : KNIME-Worker-8 : WorkflowManager : R View (Table) : 2:3 : R View (Table) 2:3 doBeforePostExecution
+2018-01-25 17:40:15,202 : DEBUG : KNIME-Worker-8 : NodeContainer : R View (Table) : 2:3 : R View (Table) 2:3 has new state: POSTEXECUTE
+2018-01-25 17:40:15,203 : DEBUG : KNIME-Worker-8 : WorkflowManager : R View (Table) : 2:3 : R View (Table) 2:3 doAfterExecute - failure
+2018-01-25 17:40:15,204 : DEBUG : KNIME-Worker-8 : Node : R View (Table) : 2:3 : reset
+2018-01-25 17:40:15,204 : DEBUG : KNIME-Worker-8 : Node : R View (Table) : 2:3 : clean output ports.
+2018-01-25 17:40:15,204 : DEBUG : KNIME-Worker-8 : WorkflowFileStoreHandlerRepository : R View (Table) : 2:3 : Removing handler f0ff3c61-3730-4e18-ac7b-7c4da45d6d8e (R View (Table) 2:3: <no directory>) - 2 remaining
+2018-01-25 17:40:15,204 : DEBUG : KNIME-Worker-8 : NodeContainer : R View (Table) : 2:3 : R View (Table) 2:3 has new state: IDLE
+2018-01-25 17:40:15,205 : DEBUG : KNIME-Worker-8 : Node : R View (Table) : 2:3 : Configure succeeded. (R View (Table))
+2018-01-25 17:40:15,205 : DEBUG : KNIME-Worker-8 : NodeContainer : R View (Table) : 2:3 : R View (Table) 2:3 has new state: CONFIGURED
+2018-01-25 17:40:15,207 : DEBUG : KNIME-Worker-8 : NodeContainer : R View (Table) : 2:3 : sample_R_workflow 2 has new state: CONFIGURED
+2018-01-25 17:40:15,208 : DEBUG : KNIME-WFM-Parent-Notifier : NodeContainer :  :  : ROOT  has new state: IDLE
+2018-01-25 17:40:26,477 : DEBUG : main : NodeContainerEditPart :  :  : R View (Table) 2:3 (CONFIGURED)
+2018-01-25 17:40:34,532 : DEBUG : main : NodeContainerEditPart :  :  : R View (Table) 2:3 (CONFIGURED)
+2018-01-25 17:40:35,335 : DEBUG : R Output Reader : RBinUtil :  :  : External Rscript process output: 
+2018-01-25 17:40:35,335 : DEBUG : R Error Reader : RBinUtil :  :  : External Rscript process error output: Warning message:'memory.limit()' is Windows-specific 
+2018-01-25 17:40:35,347 : DEBUG : R Error Reader (port:56963) : RController :  :  : Error in find.package("Cairo") : there is no package called 'Cairo'
+2018-01-25 17:40:35,347 : DEBUG : AWT-EventQueue-0 : RController : R View (Table) : 2:3 : Error while querying Cairo package version: R evaluation failed.: "find.package('Cairo')"
+org.knime.r.controller.IRController$RException: R evaluation failed.: "find.package('Cairo')"
+	at org.knime.r.controller.RController.eval(RController.java:421)
+	at org.knime.r.controller.RController.checkCairoOnMac(RController.java:339)
+	at org.knime.r.controller.RController.initR(RController.java:328)
+	at org.knime.r.controller.RController.initialize(RController.java:195)
+	at org.knime.r.RSnippetNodePanel.connectToR(RSnippetNodePanel.java:736)
+	at org.knime.r.RSnippetNodePanel.onOpen(RSnippetNodePanel.java:709)
+	at org.knime.r.RViewNodeDialog.lambda$0(RViewNodeDialog.java:348)
+	at org.knime.core.node.util.ViewUtils$3.run(ViewUtils.java:353)
+	at org.knime.core.node.util.ViewUtils$2.run(ViewUtils.java:155)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+Caused by: org.rosuda.REngine.Rserve.RserveException: eval failed, request status: error code: 127
+	at org.rosuda.REngine.Rserve.RConnection.eval(RConnection.java:234)
+	at org.knime.r.controller.RController.eval(RController.java:413)
+	... 22 more
+2018-01-25 17:40:35,348 : WARN  : AWT-EventQueue-0 : RController : R View (Table) : 2:3 : The package 'Cairo' needs to be installed in your R installation for bitmap graphics devices to work properly. Please install it in R using "install.packages('Cairo')".
+2018-01-25 17:40:36,140 : DEBUG : SwingWorker-pool-4-thread-3 : Buffer : R View (Table) : 2:3 : Opening input stream on file "/private/var/folders/15/cz8zcd5n7r79n4s9l913t0d80000gn/T/knime_Workflow Manage39513/knime_container_20180125_2416591769011048464.bin.gz", 0 open streams
+2018-01-25 17:40:37,200 : DEBUG : SwingWorker-pool-4-thread-3 : RController : R View (Table) : 2:3 : Rows per second: 10000
+2018-01-25 17:40:37,963 : DEBUG : SwingWorker-pool-4-thread-3 : Buffer : R View (Table) : 2:3 : Closing input stream on "/private/var/folders/15/cz8zcd5n7r79n4s9l913t0d80000gn/T/knime_Workflow Manage39513/knime_container_20180125_2416591769011048464.bin.gz", 0 remaining
+2018-01-25 17:40:39,563 : DEBUG : main : Node : R View (Table) : 2:3 : reset
+2018-01-25 17:40:39,564 : DEBUG : main : Node : R View (Table) : 2:3 : clean output ports.
+2018-01-25 17:40:39,565 : DEBUG : main : NodeContainer : R View (Table) : 2:3 : R View (Table) 2:3 has new state: IDLE
+2018-01-25 17:40:39,566 : DEBUG : main : Node : R View (Table) : 2:3 : Configure succeeded. (R View (Table))
+2018-01-25 17:40:39,566 : DEBUG : main : NodeContainer : R View (Table) : 2:3 : R View (Table) 2:3 has new state: CONFIGURED
+2018-01-25 17:40:39,577 : DEBUG : AWT-EventQueue-0 : RController : R View (Table) : 2:3 : Terminating R process
+2018-01-25 17:40:39,722 : DEBUG : AWT-EventQueue-0 : RController : R View (Table) : 2:3 : Attempt #1 to connect to Rserve failed (waited 0ms, timeout 30000ms)
+org.rosuda.REngine.Rserve.RserveException: Cannot connect: Connection refused (Connection refused)
+	at org.rosuda.REngine.Rserve.RConnection.<init>(RConnection.java:88)
+	at org.rosuda.REngine.Rserve.RConnection.<init>(RConnection.java:60)
+	at org.knime.r.rserve.RConnectionFactory$RInstance.createConnection(RConnectionFactory.java:439)
+	at org.knime.r.rserve.RConnectionFactory.launchRserve(RConnectionFactory.java:258)
+	at org.knime.r.rserve.RConnectionFactory.createConnection(RConnectionFactory.java:329)
+	at org.knime.r.controller.RController.initRConnection(RController.java:276)
+	at org.knime.r.controller.RController.terminateAndRelaunch(RController.java:235)
+	at org.knime.r.controller.RConsoleController.cancel(RConsoleController.java:163)
+	at org.knime.r.RSnippetNodePanel.onClose(RSnippetNodePanel.java:774)
+	at org.knime.r.RViewNodeDialog.lambda$1(RViewNodeDialog.java:353)
+	at org.knime.core.node.util.ViewUtils$3.run(ViewUtils.java:353)
+	at org.knime.core.node.util.ViewUtils$2.run(ViewUtils.java:155)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-01-25 17:40:40,030 : DEBUG : AWT-EventQueue-0 : RController : R View (Table) : 2:3 : Connected to Rserve in 2 attempt(s) (200ms).
+2018-01-25 17:40:40,031 : DEBUG : AWT-EventQueue-0 : RController : R View (Table) : 2:3 : Recovered with a new R process
+2018-01-25 17:40:41,658 : DEBUG : main : ExecuteAction :  :  : Creating execution job for 1 node(s)...
+2018-01-25 17:40:41,658 : DEBUG : main : NodeContainer :  :  : R View (Table) 2:3 has new state: CONFIGURED_MARKEDFOREXEC
+2018-01-25 17:40:41,658 : DEBUG : main : NodeContainer :  :  : R View (Table) 2:3 has new state: CONFIGURED_QUEUED
+2018-01-25 17:40:41,659 : DEBUG : main : NodeContainer :  :  : sample_R_workflow 2 has new state: EXECUTING
+2018-01-25 17:40:41,660 : DEBUG : KNIME-Worker-7 : WorkflowManager : R View (Table) : 2:3 : R View (Table) 2:3 doBeforePreExecution
+2018-01-25 17:40:41,660 : DEBUG : KNIME-Worker-7 : NodeContainer : R View (Table) : 2:3 : R View (Table) 2:3 has new state: PREEXECUTE
+2018-01-25 17:40:41,660 : DEBUG : KNIME-Worker-7 : WorkflowManager : R View (Table) : 2:3 : R View (Table) 2:3 doBeforeExecution
+2018-01-25 17:40:41,660 : DEBUG : KNIME-Worker-7 : NodeContainer : R View (Table) : 2:3 : R View (Table) 2:3 has new state: EXECUTING
+2018-01-25 17:40:41,661 : DEBUG : KNIME-Worker-7 : WorkflowFileStoreHandlerRepository : R View (Table) : 2:3 : Adding handler cf241f71-17fb-4cb7-85dd-197b02f3c4c6 (R View (Table) 2:3: <no directory>) - 3 in total
+2018-01-25 17:40:41,661 : DEBUG : KNIME-WFM-Parent-Notifier : NodeContainer :  :  : ROOT  has new state: EXECUTING
+2018-01-25 17:40:41,661 : DEBUG : KNIME-Worker-7 : LocalNodeExecutionJob : R View (Table) : 2:3 : R View (Table) 2:3 Start execute
+2018-01-25 17:40:41,879 : DEBUG : R Output Reader : RBinUtil :  :  : External Rscript process output: 
+2018-01-25 17:40:41,879 : DEBUG : R Error Reader : RBinUtil :  :  : External Rscript process error output: Warning message:'memory.limit()' is Windows-specific 
+2018-01-25 17:40:41,888 : DEBUG : R Error Reader (port:56973) : RController :  :  : Error in find.package("Cairo") : there is no package called 'Cairo'
+2018-01-25 17:40:41,889 : DEBUG : KNIME-Worker-7 : RController : R View (Table) : 2:3 : Error while querying Cairo package version: R evaluation failed.: "find.package('Cairo')"
+org.knime.r.controller.IRController$RException: R evaluation failed.: "find.package('Cairo')"
+	at org.knime.r.controller.RController.eval(RController.java:421)
+	at org.knime.r.controller.RController.checkCairoOnMac(RController.java:339)
+	at org.knime.r.controller.RController.initR(RController.java:328)
+	at org.knime.r.controller.RController.initialize(RController.java:195)
+	at org.knime.r.controller.RController.<init>(RController.java:167)
+	at org.knime.r.RSnippetNodeModel.executeInternal(RSnippetNodeModel.java:145)
+	at org.knime.r.RSnippetNodeModel.execute(RSnippetNodeModel.java:136)
+	at org.knime.r.RViewNodeModel.execute(RViewNodeModel.java:108)
+	at org.knime.core.node.NodeModel.executeModel(NodeModel.java:567)
+	at org.knime.core.node.Node.invokeFullyNodeModelExecute(Node.java:1172)
+	at org.knime.core.node.Node.execute(Node.java:959)
+	at org.knime.core.node.workflow.NativeNodeContainer.performExecuteNode(NativeNodeContainer.java:561)
+	at org.knime.core.node.exec.LocalNodeExecutionJob.mainExecute(LocalNodeExecutionJob.java:95)
+	at org.knime.core.node.workflow.NodeExecutionJob.internalRun(NodeExecutionJob.java:179)
+	at org.knime.core.node.workflow.NodeExecutionJob.run(NodeExecutionJob.java:110)
+	at org.knime.core.util.ThreadUtils$RunnableWithContextImpl.runWithContext(ThreadUtils.java:328)
+	at org.knime.core.util.ThreadUtils$RunnableWithContext.run(ThreadUtils.java:204)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at org.knime.core.util.ThreadPool$MyFuture.run(ThreadPool.java:123)
+	at org.knime.core.util.ThreadPool$Worker.run(ThreadPool.java:246)
+Caused by: org.rosuda.REngine.Rserve.RserveException: eval failed, request status: error code: 127
+	at org.rosuda.REngine.Rserve.RConnection.eval(RConnection.java:234)
+	at org.knime.r.controller.RController.eval(RController.java:413)
+	... 20 more
+2018-01-25 17:40:41,889 : WARN  : KNIME-Worker-7 : RController : R View (Table) : 2:3 : The package 'Cairo' needs to be installed in your R installation for bitmap graphics devices to work properly. Please install it in R using "install.packages('Cairo')".
+2018-01-25 17:40:42,255 : DEBUG : KNIME-Worker-7 : Buffer : R View (Table) : 2:3 : Opening input stream on file "/private/var/folders/15/cz8zcd5n7r79n4s9l913t0d80000gn/T/knime_Workflow Manage39513/knime_container_20180125_2416591769011048464.bin.gz", 0 open streams
+2018-01-25 17:40:43,256 : DEBUG : KNIME-Worker-7 : RController : R View (Table) : 2:3 : Rows per second: 17993
+2018-01-25 17:40:43,609 : DEBUG : KNIME-Worker-7 : Buffer : R View (Table) : 2:3 : Closing input stream on "/private/var/folders/15/cz8zcd5n7r79n4s9l913t0d80000gn/T/knime_Workflow Manage39513/knime_container_20180125_2416591769011048464.bin.gz", 0 remaining
+2018-01-25 17:40:44,838 : DEBUG : KNIME-Worker-7 : Node : R View (Table) : 2:3 : reset
+2018-01-25 17:40:44,839 : ERROR : KNIME-Worker-7 : Node : R View (Table) : 2:3 : Execute failed: R evaluation failed.: "knime.tmp.ret<-NULL;printError<-function(e) message(paste('Error:',conditionMessage(e)));for(exp in tryCatch(parse(text=knime.tmp.script),error=printError)){tryCatch(knime.tmp.ret<-withVisible(eval(exp)),error=printError)
+if(!is.null(knime.tmp.ret)) {if(knime.tmp.ret$visible) print(knime.tmp.ret$value)}};rm(knime.tmp.script,exp,printError);knime.tmp.ret$value"
+2018-01-25 17:40:44,839 : DEBUG : KNIME-Worker-7 : Node : R View (Table) : 2:3 : Execute failed: R evaluation failed.: "knime.tmp.ret<-NULL;printError<-function(e) message(paste('Error:',conditionMessage(e)));for(exp in tryCatch(parse(text=knime.tmp.script),error=printError)){tryCatch(knime.tmp.ret<-withVisible(eval(exp)),error=printError)
+if(!is.null(knime.tmp.ret)) {if(knime.tmp.ret$visible) print(knime.tmp.ret$value)}};rm(knime.tmp.script,exp,printError);knime.tmp.ret$value"
+org.knime.r.controller.IRController$RException: R evaluation failed.: "knime.tmp.ret<-NULL;printError<-function(e) message(paste('Error:',conditionMessage(e)));for(exp in tryCatch(parse(text=knime.tmp.script),error=printError)){tryCatch(knime.tmp.ret<-withVisible(eval(exp)),error=printError)
+if(!is.null(knime.tmp.ret)) {if(knime.tmp.ret$visible) print(knime.tmp.ret$value)}};rm(knime.tmp.script,exp,printError);knime.tmp.ret$value"
+	at org.knime.r.controller.RController.monitoredEval(RController.java:432)
+	at org.knime.r.controller.ConsoleLikeRExecutor.executeIgnoreResult(ConsoleLikeRExecutor.java:246)
+	at org.knime.r.RSnippetNodeModel.runRScript(RSnippetNodeModel.java:256)
+	at org.knime.r.RSnippetNodeModel.executeSnippet(RSnippetNodeModel.java:206)
+	at org.knime.r.RSnippetNodeModel.executeSnippet(RSnippetNodeModel.java:170)
+	at org.knime.r.RSnippetNodeModel.executeInternal(RSnippetNodeModel.java:149)
+	at org.knime.r.RSnippetNodeModel.execute(RSnippetNodeModel.java:136)
+	at org.knime.r.RViewNodeModel.execute(RViewNodeModel.java:108)
+	at org.knime.core.node.NodeModel.executeModel(NodeModel.java:567)
+	at org.knime.core.node.Node.invokeFullyNodeModelExecute(Node.java:1172)
+	at org.knime.core.node.Node.execute(Node.java:959)
+	at org.knime.core.node.workflow.NativeNodeContainer.performExecuteNode(NativeNodeContainer.java:561)
+	at org.knime.core.node.exec.LocalNodeExecutionJob.mainExecute(LocalNodeExecutionJob.java:95)
+	at org.knime.core.node.workflow.NodeExecutionJob.internalRun(NodeExecutionJob.java:179)
+	at org.knime.core.node.workflow.NodeExecutionJob.run(NodeExecutionJob.java:110)
+	at org.knime.core.util.ThreadUtils$RunnableWithContextImpl.runWithContext(ThreadUtils.java:328)
+	at org.knime.core.util.ThreadUtils$RunnableWithContext.run(ThreadUtils.java:204)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at org.knime.core.util.ThreadPool$MyFuture.run(ThreadPool.java:123)
+	at org.knime.core.util.ThreadPool$Worker.run(ThreadPool.java:246)
+Caused by: org.knime.r.controller.IRController$RException: R evaluation failed.: "knime.tmp.ret<-NULL;printError<-function(e) message(paste('Error:',conditionMessage(e)));for(exp in tryCatch(parse(text=knime.tmp.script),error=printError)){tryCatch(knime.tmp.ret<-withVisible(eval(exp)),error=printError)
+if(!is.null(knime.tmp.ret)) {if(knime.tmp.ret$visible) print(knime.tmp.ret$value)}};rm(knime.tmp.script,exp,printError);knime.tmp.ret$value"
+	at org.knime.r.controller.RController.eval(RController.java:421)
+	at org.knime.r.controller.RController$MonitoredEval.lambda$0(RController.java:1430)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at org.knime.core.util.ThreadUtils$3.runWithContext(ThreadUtils.java:486)
+	at org.knime.core.util.ThreadUtils$ThreadWithContext.run(ThreadUtils.java:304)
+Caused by: org.rosuda.REngine.Rserve.RserveException: voidEval failed
+	at org.rosuda.REngine.Rserve.RConnection.voidEval(RConnection.java:182)
+	at org.knime.r.controller.RController.eval(RController.java:416)
+	... 4 more
+2018-01-25 17:40:44,843 : DEBUG : KNIME-Worker-7 : WorkflowManager : R View (Table) : 2:3 : R View (Table) 2:3 doBeforePostExecution
+2018-01-25 17:40:44,843 : DEBUG : KNIME-Worker-7 : NodeContainer : R View (Table) : 2:3 : R View (Table) 2:3 has new state: POSTEXECUTE
+2018-01-25 17:40:44,843 : DEBUG : KNIME-Worker-7 : WorkflowManager : R View (Table) : 2:3 : R View (Table) 2:3 doAfterExecute - failure
+2018-01-25 17:40:44,844 : DEBUG : KNIME-Worker-7 : Node : R View (Table) : 2:3 : reset
+2018-01-25 17:40:44,844 : DEBUG : KNIME-Worker-7 : Node : R View (Table) : 2:3 : clean output ports.
+2018-01-25 17:40:44,844 : DEBUG : KNIME-Worker-7 : WorkflowFileStoreHandlerRepository : R View (Table) : 2:3 : Removing handler cf241f71-17fb-4cb7-85dd-197b02f3c4c6 (R View (Table) 2:3: <no directory>) - 2 remaining
+2018-01-25 17:40:44,844 : DEBUG : KNIME-Worker-7 : NodeContainer : R View (Table) : 2:3 : R View (Table) 2:3 has new state: IDLE
+2018-01-25 17:40:44,845 : DEBUG : KNIME-Worker-7 : Node : R View (Table) : 2:3 : Configure succeeded. (R View (Table))
+2018-01-25 17:40:44,846 : DEBUG : KNIME-Worker-7 : NodeContainer : R View (Table) : 2:3 : R View (Table) 2:3 has new state: CONFIGURED
+2018-01-25 17:40:44,846 : DEBUG : KNIME-Worker-7 : NodeContainer : R View (Table) : 2:3 : sample_R_workflow 2 has new state: CONFIGURED
+2018-01-25 17:40:44,846 : DEBUG : KNIME-WFM-Parent-Notifier : NodeContainer :  :  : ROOT  has new state: IDLE
+2018-01-25 17:42:26,023 : DEBUG : main : ExecuteAction :  :  : Creating execution job for 1 node(s)...
+2018-01-25 17:42:26,025 : DEBUG : main : NodeContainer :  :  : R View (Table) 2:3 has new state: CONFIGURED_MARKEDFOREXEC
+2018-01-25 17:42:26,026 : DEBUG : main : NodeContainer :  :  : R View (Table) 2:3 has new state: CONFIGURED_QUEUED
+2018-01-25 17:42:26,028 : DEBUG : main : NodeContainer :  :  : sample_R_workflow 2 has new state: EXECUTING
+2018-01-25 17:42:26,028 : DEBUG : KNIME-Worker-10 : WorkflowManager : R View (Table) : 2:3 : R View (Table) 2:3 doBeforePreExecution
+2018-01-25 17:42:26,029 : DEBUG : KNIME-Worker-10 : NodeContainer : R View (Table) : 2:3 : R View (Table) 2:3 has new state: PREEXECUTE
+2018-01-25 17:42:26,029 : DEBUG : KNIME-Worker-10 : WorkflowManager : R View (Table) : 2:3 : R View (Table) 2:3 doBeforeExecution
+2018-01-25 17:42:26,029 : DEBUG : KNIME-Worker-10 : NodeContainer : R View (Table) : 2:3 : R View (Table) 2:3 has new state: EXECUTING
+2018-01-25 17:42:26,030 : DEBUG : KNIME-Worker-10 : WorkflowFileStoreHandlerRepository : R View (Table) : 2:3 : Adding handler 21a3e6df-b8fe-4374-b0fd-b819fd3a2ede (R View (Table) 2:3: <no directory>) - 3 in total
+2018-01-25 17:42:26,030 : DEBUG : KNIME-WFM-Parent-Notifier : NodeContainer :  :  : ROOT  has new state: EXECUTING
+2018-01-25 17:42:26,030 : DEBUG : KNIME-Worker-10 : LocalNodeExecutionJob : R View (Table) : 2:3 : R View (Table) 2:3 Start execute
+2018-01-25 17:42:26,321 : DEBUG : R Error Reader : RBinUtil :  :  : External Rscript process error output: Warning message:'memory.limit()' is Windows-specific 
+2018-01-25 17:42:26,321 : DEBUG : R Output Reader : RBinUtil :  :  : External Rscript process output: 
+2018-01-25 17:42:26,434 : DEBUG : KNIME-Worker-10 : RController : R View (Table) : 2:3 : Attempt #1 to connect to Rserve failed (waited 0ms, timeout 30000ms)
+org.rosuda.REngine.Rserve.RserveException: Cannot connect: Connection refused (Connection refused)
+	at org.rosuda.REngine.Rserve.RConnection.<init>(RConnection.java:88)
+	at org.rosuda.REngine.Rserve.RConnection.<init>(RConnection.java:60)
+	at org.knime.r.rserve.RConnectionFactory$RInstance.createConnection(RConnectionFactory.java:439)
+	at org.knime.r.rserve.RConnectionFactory.launchRserve(RConnectionFactory.java:258)
+	at org.knime.r.rserve.RConnectionFactory.createConnection(RConnectionFactory.java:329)
+	at org.knime.r.controller.RController.initRConnection(RController.java:276)
+	at org.knime.r.controller.RController.initR(RController.java:309)
+	at org.knime.r.controller.RController.initialize(RController.java:195)
+	at org.knime.r.controller.RController.<init>(RController.java:167)
+	at org.knime.r.RSnippetNodeModel.executeInternal(RSnippetNodeModel.java:145)
+	at org.knime.r.RSnippetNodeModel.execute(RSnippetNodeModel.java:136)
+	at org.knime.r.RViewNodeModel.execute(RViewNodeModel.java:108)
+	at org.knime.core.node.NodeModel.executeModel(NodeModel.java:567)
+	at org.knime.core.node.Node.invokeFullyNodeModelExecute(Node.java:1172)
+	at org.knime.core.node.Node.execute(Node.java:959)
+	at org.knime.core.node.workflow.NativeNodeContainer.performExecuteNode(NativeNodeContainer.java:561)
+	at org.knime.core.node.exec.LocalNodeExecutionJob.mainExecute(LocalNodeExecutionJob.java:95)
+	at org.knime.core.node.workflow.NodeExecutionJob.internalRun(NodeExecutionJob.java:179)
+	at org.knime.core.node.workflow.NodeExecutionJob.run(NodeExecutionJob.java:110)
+	at org.knime.core.util.ThreadUtils$RunnableWithContextImpl.runWithContext(ThreadUtils.java:328)
+	at org.knime.core.util.ThreadUtils$RunnableWithContext.run(ThreadUtils.java:204)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at org.knime.core.util.ThreadPool$MyFuture.run(ThreadPool.java:123)
+	at org.knime.core.util.ThreadPool$Worker.run(ThreadPool.java:246)
+2018-01-25 17:42:26,642 : DEBUG : KNIME-Worker-10 : RController : R View (Table) : 2:3 : Connected to Rserve in 2 attempt(s) (200ms).
+2018-01-25 17:42:26,704 : DEBUG : KNIME-Worker-10 : Node : R View (Table) : 2:3 : reset
+2018-01-25 17:42:26,704 : ERROR : KNIME-Worker-10 : Node : R View (Table) : 2:3 : Execute failed: XQuartz is required for the Cairo library on MacOS. Please download and install XQuartz from http://www.xquartz.org/.
+2018-01-25 17:42:26,704 : DEBUG : KNIME-Worker-10 : Node : R View (Table) : 2:3 : Execute failed: XQuartz is required for the Cairo library on MacOS. Please download and install XQuartz from http://www.xquartz.org/.
+org.knime.r.controller.IRController$RException: XQuartz is required for the Cairo library on MacOS. Please download and install XQuartz from http://www.xquartz.org/.
+	at org.knime.r.controller.RController.checkCairoOnMac(RController.java:386)
+	at org.knime.r.controller.RController.initR(RController.java:328)
+	at org.knime.r.controller.RController.initialize(RController.java:195)
+	at org.knime.r.controller.RController.<init>(RController.java:167)
+	at org.knime.r.RSnippetNodeModel.executeInternal(RSnippetNodeModel.java:145)
+	at org.knime.r.RSnippetNodeModel.execute(RSnippetNodeModel.java:136)
+	at org.knime.r.RViewNodeModel.execute(RViewNodeModel.java:108)
+	at org.knime.core.node.NodeModel.executeModel(NodeModel.java:567)
+	at org.knime.core.node.Node.invokeFullyNodeModelExecute(Node.java:1172)
+	at org.knime.core.node.Node.execute(Node.java:959)
+	at org.knime.core.node.workflow.NativeNodeContainer.performExecuteNode(NativeNodeContainer.java:561)
+	at org.knime.core.node.exec.LocalNodeExecutionJob.mainExecute(LocalNodeExecutionJob.java:95)
+	at org.knime.core.node.workflow.NodeExecutionJob.internalRun(NodeExecutionJob.java:179)
+	at org.knime.core.node.workflow.NodeExecutionJob.run(NodeExecutionJob.java:110)
+	at org.knime.core.util.ThreadUtils$RunnableWithContextImpl.runWithContext(ThreadUtils.java:328)
+	at org.knime.core.util.ThreadUtils$RunnableWithContext.run(ThreadUtils.java:204)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at org.knime.core.util.ThreadPool$MyFuture.run(ThreadPool.java:123)
+	at org.knime.core.util.ThreadPool$Worker.run(ThreadPool.java:246)
+2018-01-25 17:42:26,705 : DEBUG : KNIME-Worker-10 : WorkflowManager : R View (Table) : 2:3 : R View (Table) 2:3 doBeforePostExecution
+2018-01-25 17:42:26,705 : DEBUG : KNIME-Worker-10 : NodeContainer : R View (Table) : 2:3 : R View (Table) 2:3 has new state: POSTEXECUTE
+2018-01-25 17:42:26,705 : DEBUG : KNIME-Worker-10 : WorkflowManager : R View (Table) : 2:3 : R View (Table) 2:3 doAfterExecute - failure
+2018-01-25 17:42:26,705 : DEBUG : KNIME-Worker-10 : Node : R View (Table) : 2:3 : reset
+2018-01-25 17:42:26,705 : DEBUG : KNIME-Worker-10 : Node : R View (Table) : 2:3 : clean output ports.
+2018-01-25 17:42:26,705 : DEBUG : KNIME-Worker-10 : WorkflowFileStoreHandlerRepository : R View (Table) : 2:3 : Removing handler 21a3e6df-b8fe-4374-b0fd-b819fd3a2ede (R View (Table) 2:3: <no directory>) - 2 remaining
+2018-01-25 17:42:26,705 : DEBUG : KNIME-Worker-10 : NodeContainer : R View (Table) : 2:3 : R View (Table) 2:3 has new state: IDLE
+2018-01-25 17:42:26,706 : DEBUG : KNIME-Worker-10 : Node : R View (Table) : 2:3 : Configure succeeded. (R View (Table))
+2018-01-25 17:42:26,706 : DEBUG : KNIME-Worker-10 : NodeContainer : R View (Table) : 2:3 : R View (Table) 2:3 has new state: CONFIGURED
+2018-01-25 17:42:26,706 : DEBUG : KNIME-Worker-10 : NodeContainer : R View (Table) : 2:3 : sample_R_workflow 2 has new state: CONFIGURED
+2018-01-25 17:42:26,706 : DEBUG : KNIME-WFM-Parent-Notifier : NodeContainer :  :  : ROOT  has new state: IDLE
+2018-01-25 17:56:42,428 : DEBUG : main : WorkflowEditor :  :  : Saving workflow sample_R_workflow 2
+2018-01-25 17:56:42,488 : DEBUG : ModalContext : FileSingleNodeContainerPersistor :  :  : Created node directory "/Users/lan/Documents/syr_vacancy_B/syr_vacancy_B/workflow/sample_R_workflow/File Reader (#1)"
+2018-01-25 17:56:42,631 : DEBUG : ModalContext : FileSingleNodeContainerPersistor :  :  : Created node directory "/Users/lan/Documents/syr_vacancy_B/syr_vacancy_B/workflow/sample_R_workflow/R Snippet (#2)"
+2018-01-25 17:56:42,696 : DEBUG : ModalContext : FileSingleNodeContainerPersistor :  :  : Created node directory "/Users/lan/Documents/syr_vacancy_B/syr_vacancy_B/workflow/sample_R_workflow/R View _Table_ (#3)"
+2018-01-25 17:56:42,734 : DEBUG : ModalContext : LocalWorkspaceContentProvider :  :  : Refreshing "/syr_vacancy_B/workflow/sample_R_workflow"
