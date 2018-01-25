@@ -2037,3 +2037,116 @@ org.rosuda.REngine.Rserve.RserveException: Cannot connect: Connection refused (C
 2018-01-25 17:58:41,457 : DEBUG : main : NodeContainer : R View (Table) : 2:3 : R View (Table) 2:3 has new state: IDLE
 2018-01-25 17:58:41,457 : DEBUG : main : Node : R View (Table) : 2:3 : Configure succeeded. (R View (Table))
 2018-01-25 17:58:41,457 : DEBUG : main : NodeContainer : R View (Table) : 2:3 : R View (Table) 2:3 has new state: CONFIGURED
+2018-01-25 18:00:17,493 : DEBUG : R Error Reader : RBinUtil :  :  : External Rscript process error output: Warning message:'memory.limit()' is Windows-specific 
+2018-01-25 18:00:17,494 : DEBUG : R Output Reader : RBinUtil :  :  : External Rscript process output: 
+2018-01-25 18:00:17,609 : DEBUG : AWT-EventQueue-0 : RController : R View (Table) : 2:3 : Attempt #1 to connect to Rserve failed (waited 0ms, timeout 30000ms)
+org.rosuda.REngine.Rserve.RserveException: Cannot connect: Connection refused (Connection refused)
+	at org.rosuda.REngine.Rserve.RConnection.<init>(RConnection.java:88)
+	at org.rosuda.REngine.Rserve.RConnection.<init>(RConnection.java:60)
+	at org.knime.r.rserve.RConnectionFactory$RInstance.createConnection(RConnectionFactory.java:439)
+	at org.knime.r.rserve.RConnectionFactory.launchRserve(RConnectionFactory.java:258)
+	at org.knime.r.rserve.RConnectionFactory.createConnection(RConnectionFactory.java:329)
+	at org.knime.r.controller.RController.initRConnection(RController.java:276)
+	at org.knime.r.controller.RController.initR(RController.java:309)
+	at org.knime.r.controller.RController.initialize(RController.java:195)
+	at org.knime.r.RSnippetNodePanel.connectToR(RSnippetNodePanel.java:736)
+	at org.knime.r.RSnippetNodePanel.onOpen(RSnippetNodePanel.java:709)
+	at org.knime.r.RViewNodeDialog.lambda$0(RViewNodeDialog.java:348)
+	at org.knime.core.node.util.ViewUtils$3.run(ViewUtils.java:353)
+	at org.knime.core.node.util.ViewUtils$2.run(ViewUtils.java:155)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-01-25 18:00:17,821 : DEBUG : AWT-EventQueue-0 : RController : R View (Table) : 2:3 : Connected to Rserve in 2 attempt(s) (200ms).
+2018-01-25 18:00:18,110 : DEBUG : R Error Reader (port:57191) : RController :  :  : Error in setwd("/private/var/folders/15/cz8zcd5n7r79n4s9l913t0d80000gn/T/knime_Workflow Manage39513/rtmp-dialog-39518") : 
+2018-01-25 18:00:18,111 : DEBUG : R Error Reader (port:57191) : RController :  :  :   cannot change working directory
+2018-01-25 18:00:18,574 : DEBUG : SwingWorker-pool-4-thread-4 : Buffer : R View (Table) : 2:3 : Opening input stream on file "/private/var/folders/15/cz8zcd5n7r79n4s9l913t0d80000gn/T/knime_Workflow Manage39513/knime_container_20180125_2416591769011048464.bin.gz", 0 open streams
+2018-01-25 18:00:19,575 : DEBUG : SwingWorker-pool-4-thread-4 : RController : R View (Table) : 2:3 : Rows per second: 11112
+2018-01-25 18:00:20,186 : DEBUG : SwingWorker-pool-4-thread-4 : Buffer : R View (Table) : 2:3 : Closing input stream on "/private/var/folders/15/cz8zcd5n7r79n4s9l913t0d80000gn/T/knime_Workflow Manage39513/knime_container_20180125_2416591769011048464.bin.gz", 0 remaining
+2018-01-25 18:00:20,951 : DEBUG : main : Node : R View (Table) : 2:3 : reset
+2018-01-25 18:00:20,952 : DEBUG : main : Node : R View (Table) : 2:3 : clean output ports.
+2018-01-25 18:00:20,952 : DEBUG : main : NodeContainer : R View (Table) : 2:3 : R View (Table) 2:3 has new state: IDLE
+2018-01-25 18:00:20,954 : DEBUG : main : Node : R View (Table) : 2:3 : Configure succeeded. (R View (Table))
+2018-01-25 18:00:20,954 : DEBUG : main : NodeContainer : R View (Table) : 2:3 : R View (Table) 2:3 has new state: CONFIGURED
+2018-01-25 18:00:20,960 : DEBUG : AWT-EventQueue-0 : RController : R View (Table) : 2:3 : Terminating R process
+2018-01-25 18:00:21,095 : DEBUG : AWT-EventQueue-0 : RController : R View (Table) : 2:3 : Attempt #1 to connect to Rserve failed (waited 0ms, timeout 30000ms)
+org.rosuda.REngine.Rserve.RserveException: Cannot connect: Connection refused (Connection refused)
+	at org.rosuda.REngine.Rserve.RConnection.<init>(RConnection.java:88)
+	at org.rosuda.REngine.Rserve.RConnection.<init>(RConnection.java:60)
+	at org.knime.r.rserve.RConnectionFactory$RInstance.createConnection(RConnectionFactory.java:439)
+	at org.knime.r.rserve.RConnectionFactory.launchRserve(RConnectionFactory.java:258)
+	at org.knime.r.rserve.RConnectionFactory.createConnection(RConnectionFactory.java:329)
+	at org.knime.r.controller.RController.initRConnection(RController.java:276)
+	at org.knime.r.controller.RController.terminateAndRelaunch(RController.java:235)
+	at org.knime.r.controller.RConsoleController.cancel(RConsoleController.java:163)
+	at org.knime.r.RSnippetNodePanel.onClose(RSnippetNodePanel.java:774)
+	at org.knime.r.RViewNodeDialog.lambda$1(RViewNodeDialog.java:353)
+	at org.knime.core.node.util.ViewUtils$3.run(ViewUtils.java:353)
+	at org.knime.core.node.util.ViewUtils$2.run(ViewUtils.java:155)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-01-25 18:00:21,298 : DEBUG : AWT-EventQueue-0 : RController : R View (Table) : 2:3 : Connected to Rserve in 2 attempt(s) (200ms).
+2018-01-25 18:00:21,299 : DEBUG : AWT-EventQueue-0 : RController : R View (Table) : 2:3 : Recovered with a new R process
+2018-01-25 18:00:23,012 : DEBUG : R Output Reader : RBinUtil :  :  : External Rscript process output: 
+2018-01-25 18:00:23,012 : DEBUG : R Error Reader : RBinUtil :  :  : External Rscript process error output: Warning message:'memory.limit()' is Windows-specific 
+2018-01-25 18:00:23,633 : DEBUG : SwingWorker-pool-4-thread-5 : Buffer : R View (Table) : 2:3 : Opening input stream on file "/private/var/folders/15/cz8zcd5n7r79n4s9l913t0d80000gn/T/knime_Workflow Manage39513/knime_container_20180125_2416591769011048464.bin.gz", 0 open streams
+2018-01-25 18:00:24,635 : DEBUG : SwingWorker-pool-4-thread-5 : RController : R View (Table) : 2:3 : Rows per second: 15236
+2018-01-25 18:00:24,833 : DEBUG : main : Node : R View (Table) : 2:3 : reset
+2018-01-25 18:00:24,834 : DEBUG : main : Node : R View (Table) : 2:3 : clean output ports.
+2018-01-25 18:00:24,834 : DEBUG : main : NodeContainer : R View (Table) : 2:3 : R View (Table) 2:3 has new state: IDLE
+2018-01-25 18:00:24,844 : DEBUG : main : Node : R View (Table) : 2:3 : Configure succeeded. (R View (Table))
+2018-01-25 18:00:24,845 : DEBUG : main : NodeContainer : R View (Table) : 2:3 : R View (Table) 2:3 has new state: CONFIGURED
+2018-01-25 18:00:24,877 : DEBUG : AWT-EventQueue-0 : RController : R View (Table) : 2:3 : Terminating R process
+2018-01-25 18:00:25,027 : DEBUG : AWT-EventQueue-0 : RController : R View (Table) : 2:3 : Attempt #1 to connect to Rserve failed (waited 0ms, timeout 30000ms)
+org.rosuda.REngine.Rserve.RserveException: Cannot connect: Connection refused (Connection refused)
+	at org.rosuda.REngine.Rserve.RConnection.<init>(RConnection.java:88)
+	at org.rosuda.REngine.Rserve.RConnection.<init>(RConnection.java:60)
+	at org.knime.r.rserve.RConnectionFactory$RInstance.createConnection(RConnectionFactory.java:439)
+	at org.knime.r.rserve.RConnectionFactory.launchRserve(RConnectionFactory.java:258)
+	at org.knime.r.rserve.RConnectionFactory.createConnection(RConnectionFactory.java:329)
+	at org.knime.r.controller.RController.initRConnection(RController.java:276)
+	at org.knime.r.controller.RController.terminateAndRelaunch(RController.java:235)
+	at org.knime.r.controller.RConsoleController.cancel(RConsoleController.java:163)
+	at org.knime.r.RSnippetNodePanel.onClose(RSnippetNodePanel.java:774)
+	at org.knime.r.RViewNodeDialog.lambda$1(RViewNodeDialog.java:353)
+	at org.knime.core.node.util.ViewUtils$3.run(ViewUtils.java:353)
+	at org.knime.core.node.util.ViewUtils$2.run(ViewUtils.java:155)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-01-25 18:00:25,332 : DEBUG : AWT-EventQueue-0 : RController : R View (Table) : 2:3 : Connected to Rserve in 2 attempt(s) (200ms).
+2018-01-25 18:00:25,333 : DEBUG : AWT-EventQueue-0 : RController : R View (Table) : 2:3 : Recovered with a new R process
