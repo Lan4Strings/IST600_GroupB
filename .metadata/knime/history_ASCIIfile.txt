@@ -1,3 +1,0 @@
-file:/Users/lan/Downloads/surveyData%20(1).csv
-/Users/lan/Downloads/surveyData (1).csv
-knime://knime.workflow/data.all
