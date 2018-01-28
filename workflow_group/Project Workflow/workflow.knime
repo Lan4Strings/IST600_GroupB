@@ -5,10 +5,10 @@
 <entry key="version" type="xstring" value="3.1.0"/>
 <entry key="name" type="xstring" isnull="true" value=""/>
 <config key="authorInformation">
-<entry key="authored-by" type="xstring" value="AndyLi"/>
-<entry key="authored-when" type="xstring" value="2018-01-25 18:18:11 -0500"/>
-<entry key="lastEdited-by" type="xstring" value="Nuzhath"/>
-<entry key="lastEdited-when" type="xstring" value="2018-01-25 18:34:49 -0500"/>
+<entry key="authored-by" type="xstring" value="gaura"/>
+<entry key="authored-when" type="xstring" value="2018-01-27 18:30:34 -0500"/>
+<entry key="lastEdited-by" type="xstring" isnull="true" value=""/>
+<entry key="lastEdited-when" type="xstring" isnull="true" value=""/>
 </config>
 <entry key="customDescription" type="xstring" isnull="true" value=""/>
 <entry key="state" type="xstring" value="EXECUTED"/>
