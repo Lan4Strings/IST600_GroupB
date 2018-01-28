@@ -7,8 +7,8 @@
 <config key="authorInformation">
 <entry key="authored-by" type="xstring" value="gaura"/>
 <entry key="authored-when" type="xstring" value="2018-01-27 19:54:29 -0500"/>
-<entry key="lastEdited-by" type="xstring" value="Nuzhath"/>
-<entry key="lastEdited-when" type="xstring" value="2018-01-27 19:58:42 -0500"/>
+<entry key="lastEdited-by" type="xstring" value="gaura"/>
+<entry key="lastEdited-when" type="xstring" value="2018-01-27 20:20:44 -0500"/>
 </config>
 <entry key="customDescription" type="xstring" isnull="true" value=""/>
 <entry key="state" type="xstring" value="EXECUTED"/>
@@ -23,15 +23,38 @@
 <config key="ui_settings">
 <config key="extrainfo.node.bounds">
 <entry key="array-size" type="xint" value="4"/>
-<entry key="0" type="xint" value="304"/>
-<entry key="1" type="xint" value="237"/>
+<entry key="0" type="xint" value="64"/>
+<entry key="1" type="xint" value="217"/>
 <entry key="2" type="xint" value="69"/>
 <entry key="3" type="xint" value="78"/>
 </config>
 </config>
 </config>
+<config key="node_2">
+<entry key="id" type="xint" value="2"/>
+<entry key="node_settings_file" type="xstring" value="R Snippet (#2)/settings.xml"/>
+<entry key="node_is_meta" type="xboolean" value="false"/>
+<entry key="node_type" type="xstring" value="NativeNode"/>
+<entry key="ui_classname" type="xstring" value="org.knime.core.node.workflow.NodeUIInformation"/>
+<config key="ui_settings">
+<config key="extrainfo.node.bounds">
+<entry key="array-size" type="xint" value="4"/>
+<entry key="0" type="xint" value="144"/>
+<entry key="1" type="xint" value="217"/>
+<entry key="2" type="xint" value="59"/>
+<entry key="3" type="xint" value="78"/>
 </config>
-<config key="connections"/>
+</config>
+</config>
+</config>
+<config key="connections">
+<config key="connection_0">
+<entry key="sourceID" type="xint" value="1"/>
+<entry key="destID" type="xint" value="2"/>
+<entry key="sourcePort" type="xint" value="1"/>
+<entry key="destPort" type="xint" value="1"/>
+</config>
+</config>
 <config key="workflow_editor_settings">
 <entry key="workflow.editor.snapToGrid" type="xboolean" value="true"/>
 <entry key="workflow.editor.ShowGrid" type="xboolean" value="true"/>
