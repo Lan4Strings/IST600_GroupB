@@ -6,7 +6,7 @@
 <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
 </config>
 <config key="model">
-<entry key="script" type="xstring" value="df &lt;- knime.in%%00010df1 &lt;-df[,-1]%%00010knime.out&lt;-df1"/>
+<entry key="script" type="xstring" value="knime.out &lt;- knime.in%%00010View (knime.out)"/>
 <entry key="templateUUID" type="xstring" isnull="true" value=""/>
 <entry key="version" type="xstring" value="version 1.x"/>
 <entry key="Output non numbers (NaN, Inf, -Inf) as missing cells" type="xboolean" value="false"/>
@@ -35,12 +35,12 @@
 <entry key="index" type="xint" value="1"/>
 <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
 <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-<entry key="port_object_summary" type="xstring" value="Rows: 41623, Cols: 56"/>
+<entry key="port_object_summary" type="xstring" value="Rows: 41623, Cols: 57"/>
 <entry key="port_dir_location" type="xstring" value="port_1"/>
 </config>
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="315ebe12-0e6c-4c9b-b759-952037822dfd"/>
+<entry key="file_store_id" type="xstring" value="ad6cd6e8-ef8f-4c7d-8dc8-b94d8d108fef"/>
 </config>
 </config>

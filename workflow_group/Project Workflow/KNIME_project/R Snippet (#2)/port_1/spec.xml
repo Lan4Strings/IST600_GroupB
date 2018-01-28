@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="spec.xml">
 <entry key="spec_name" type="xstring" value="default"/>
-<entry key="number_columns" type="xint" value="56"/>
+<entry key="number_columns" type="xint" value="57"/>
 <config key="column_spec_0">
-<entry key="column_name" type="xstring" value="OBJECTID"/>
+<entry key="column_name" type="xstring" value="%%65279OBJECTID_1"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -27,6 +27,30 @@
 <config key="column_properties"/>
 </config>
 <config key="column_spec_1">
+<entry key="column_name" type="xstring" value="OBJECTID"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.IntCell"/>
+</config>
+<config key="column_domain">
+<config key="lower_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="1"/>
+</config>
+</config>
+<config key="upper_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
+<config key="org.knime.core.data.def.IntCell">
+<entry key="IntCell" type="xint" value="41623"/>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+<config key="column_spec_2">
 <entry key="column_name" type="xstring" value="TAX_ID"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -37,7 +61,7 @@
 <config key="column_domain"/>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_2">
+<config key="column_spec_3">
 <entry key="column_name" type="xstring" value="Shape_Leng"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -61,7 +85,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_3">
+<config key="column_spec_4">
 <entry key="column_name" type="xstring" value="PRINTKEY"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -72,7 +96,7 @@
 <config key="column_domain"/>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_4">
+<config key="column_spec_5">
 <entry key="column_name" type="xstring" value="Sec_Block"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -96,7 +120,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_5">
+<config key="column_spec_6">
 <entry key="column_name" type="xstring" value="TAX_ID_1"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -120,7 +144,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_6">
+<config key="column_spec_7">
 <entry key="column_name" type="xstring" value="SURA"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -147,7 +171,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_7">
+<config key="column_spec_8">
 <entry key="column_name" type="xstring" value="Nhood"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -360,7 +384,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_8">
+<config key="column_spec_9">
 <entry key="column_name" type="xstring" value="Quad"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -399,7 +423,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_9">
+<config key="column_spec_10">
 <entry key="column_name" type="xstring" value="TNT_NAME"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -462,7 +486,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_10">
+<config key="column_spec_11">
 <entry key="column_name" type="xstring" value="SpecialNh"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -483,7 +507,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_11">
+<config key="column_spec_12">
 <entry key="column_name" type="xstring" value="Assessment"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -507,7 +531,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_12">
+<config key="column_spec_13">
 <entry key="column_name" type="xstring" value="CensusTrac"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -531,7 +555,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_13">
+<config key="column_spec_14">
 <entry key="column_name" type="xstring" value="CC_Dist"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -555,7 +579,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_14">
+<config key="column_spec_15">
 <entry key="column_name" type="xstring" value="COUNTY_LEG"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -579,7 +603,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_15">
+<config key="column_spec_16">
 <entry key="column_name" type="xstring" value="SEIZB"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -600,7 +624,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_16">
+<config key="column_spec_17">
 <entry key="column_name" type="xstring" value="Owner"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -611,7 +635,7 @@
 <config key="column_domain"/>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_17">
+<config key="column_spec_18">
 <entry key="column_name" type="xstring" value="LUCODE"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -635,7 +659,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_18">
+<config key="column_spec_19">
 <entry key="column_name" type="xstring" value="LandUse"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -746,7 +770,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_19">
+<config key="column_spec_20">
 <entry key="column_name" type="xstring" value="Units"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -770,7 +794,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_20">
+<config key="column_spec_21">
 <entry key="column_name" type="xstring" value="TotTaxOwed"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -794,7 +818,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_21">
+<config key="column_spec_22">
 <entry key="column_name" type="xstring" value="TaxYrsDeli"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -818,7 +842,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_22">
+<config key="column_spec_23">
 <entry key="column_name" type="xstring" value="StNum"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -829,7 +853,7 @@
 <config key="column_domain"/>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_23">
+<config key="column_spec_24">
 <entry key="column_name" type="xstring" value="StName"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -840,7 +864,7 @@
 <config key="column_domain"/>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_24">
+<config key="column_spec_25">
 <entry key="column_name" type="xstring" value="FullAdd"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -851,7 +875,7 @@
 <config key="column_domain"/>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_25">
+<config key="column_spec_26">
 <entry key="column_name" type="xstring" value="Condition"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -896,7 +920,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_26">
+<config key="column_spec_27">
 <entry key="column_name" type="xstring" value="AssessedLa"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -920,7 +944,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_27">
+<config key="column_spec_28">
 <entry key="column_name" type="xstring" value="AssessedVa"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -944,7 +968,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_28">
+<config key="column_spec_29">
 <entry key="column_name" type="xstring" value="VacantBuil"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -977,7 +1001,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_29">
+<config key="column_spec_30">
 <entry key="column_name" type="xstring" value="CityTaxabl"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1001,7 +1025,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_30">
+<config key="column_spec_31">
 <entry key="column_name" type="xstring" value="STARS"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1025,7 +1049,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_31">
+<config key="column_spec_32">
 <entry key="column_name" type="xstring" value="STARC"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1049,7 +1073,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_32">
+<config key="column_spec_33">
 <entry key="column_name" type="xstring" value="STAR"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1070,7 +1094,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_33">
+<config key="column_spec_34">
 <entry key="column_name" type="xstring" value="Owner2"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1081,7 +1105,7 @@
 <config key="column_domain"/>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_34">
+<config key="column_spec_35">
 <entry key="column_name" type="xstring" value="Add1"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1092,7 +1116,7 @@
 <config key="column_domain"/>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_35">
+<config key="column_spec_36">
 <entry key="column_name" type="xstring" value="Add2"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1103,7 +1127,7 @@
 <config key="column_domain"/>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_36">
+<config key="column_spec_37">
 <entry key="column_name" type="xstring" value="Add3"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1114,7 +1138,7 @@
 <config key="column_domain"/>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_37">
+<config key="column_spec_38">
 <entry key="column_name" type="xstring" value="Add4"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1125,7 +1149,7 @@
 <config key="column_domain"/>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_38">
+<config key="column_spec_39">
 <entry key="column_name" type="xstring" value="ZIP"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1136,7 +1160,7 @@
 <config key="column_domain"/>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_39">
+<config key="column_spec_40">
 <entry key="column_name" type="xstring" value="ZIP2"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1147,7 +1171,7 @@
 <config key="column_domain"/>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_40">
+<config key="column_spec_41">
 <entry key="column_name" type="xstring" value="WaterServi"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1174,7 +1198,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_41">
+<config key="column_spec_42">
 <entry key="column_name" type="xstring" value="YearBuilt"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1198,7 +1222,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_42">
+<config key="column_spec_43">
 <entry key="column_name" type="xstring" value="SALES"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1213,7 +1237,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_43">
+<config key="column_spec_44">
 <entry key="column_name" type="xstring" value="PNUMBR"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1237,7 +1261,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_44">
+<config key="column_spec_45">
 <entry key="column_name" type="xstring" value="OverdueWat"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1261,7 +1285,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_45">
+<config key="column_spec_46">
 <entry key="column_name" type="xstring" value="WARD"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1285,7 +1309,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_46">
+<config key="column_spec_47">
 <entry key="column_name" type="xstring" value="SBL"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1296,7 +1320,7 @@
 <config key="column_domain"/>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_47">
+<config key="column_spec_48">
 <entry key="column_name" type="xstring" value="CountyTXBL"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1320,7 +1344,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_48">
+<config key="column_spec_49">
 <entry key="column_name" type="xstring" value="SchoolTXBL"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1344,7 +1368,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_49">
+<config key="column_spec_50">
 <entry key="column_name" type="xstring" value="Bankruptcy"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1365,7 +1389,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_50">
+<config key="column_spec_51">
 <entry key="column_name" type="xstring" value="TaxTrust"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1386,7 +1410,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_51">
+<config key="column_spec_52">
 <entry key="column_name" type="xstring" value="SENIOR_EXE"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1407,7 +1431,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_52">
+<config key="column_spec_53">
 <entry key="column_name" type="xstring" value="VET_EXE"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1428,7 +1452,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_53">
+<config key="column_spec_54">
 <entry key="column_name" type="xstring" value="INNRSA"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1449,7 +1473,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_54">
+<config key="column_spec_55">
 <entry key="column_name" type="xstring" value="Shape__Area"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1473,7 +1497,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_55">
+<config key="column_spec_56">
 <entry key="column_name" type="xstring" value="Shape__Length"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
