@@ -7,11 +7,11 @@
 <config key="authorInformation">
 <entry key="authored-by" type="xstring" value="gaura"/>
 <entry key="authored-when" type="xstring" value="2018-01-27 19:54:29 -0500"/>
-<entry key="lastEdited-by" type="xstring" value="Nuzhath"/>
-<entry key="lastEdited-when" type="xstring" value="2018-01-30 13:34:37 -0500"/>
+<entry key="lastEdited-by" type="xstring" value="gaura"/>
+<entry key="lastEdited-when" type="xstring" value="2018-01-30 17:58:31 -0500"/>
 </config>
 <entry key="customDescription" type="xstring" isnull="true" value=""/>
-<entry key="state" type="xstring" value="CONFIGURED"/>
+<entry key="state" type="xstring" value="EXECUTED"/>
 <config key="workflow_credentials"/>
 <config key="nodes">
 <config key="node_1">
@@ -23,8 +23,8 @@
 <config key="ui_settings">
 <config key="extrainfo.node.bounds">
 <entry key="array-size" type="xint" value="4"/>
-<entry key="0" type="xint" value="304"/>
-<entry key="1" type="xint" value="237"/>
+<entry key="0" type="xint" value="58"/>
+<entry key="1" type="xint" value="57"/>
 <entry key="2" type="xint" value="69"/>
 <entry key="3" type="xint" value="78"/>
 </config>
@@ -39,8 +39,8 @@
 <config key="ui_settings">
 <config key="extrainfo.node.bounds">
 <entry key="array-size" type="xint" value="4"/>
-<entry key="0" type="xint" value="384"/>
-<entry key="1" type="xint" value="237"/>
+<entry key="0" type="xint" value="138"/>
+<entry key="1" type="xint" value="57"/>
 <entry key="2" type="xint" value="59"/>
 <entry key="3" type="xint" value="78"/>
 </config>
