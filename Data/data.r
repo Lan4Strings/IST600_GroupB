@@ -1,0 +1,6 @@
+data<-read.csv("01-04-2016.csv")
+datanew<-data.frame(data,full_add=paste(data$StNum,data$StName))
+library(ggmap)
+datanew$full_add<-as.character(datanew$full_add)
+dim(datanew[datanew$Occupancy=='Vacant Residential'，])
+latlon<-geocode(datanew$full_add[datanew$Occupancy=='Vacant Residential'])
