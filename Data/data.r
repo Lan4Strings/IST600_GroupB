@@ -19,13 +19,6 @@ datanew$block.address<-gsub(" #.*$","",datanew$block.address)
 
 crimedata<-read.csv("crime2017.csv")
 datacrime<-data.frame(crimedata)
-datacrime$Aggravated.assault[is.na(datacrime$Aggravated.assault)]<-0
-datacrime$Arson[is.na(datacrime$Arson)]<-0
-datacrime$Burglary[is.na(datacrime$Burglary)]<-0
-datacrime$Larceny[is.na(datacrime$Larceny)]<-0
-datacrime$Murder[is.na(datacrime$Murder)]<-0
-datacrime$Robbery[is.na(datacrime$Robbery)]<-0
-datacrime$Vehicle.theft[is.na(datacrime$Vehicle.theft)]<-0
 datacrime$Address<-tolower(datacrime$Address)
 South<-unlist(gregexpr(" s ",datacrime$Address))
 South<-as.numeric(gsub(-1,0,South))
@@ -47,8 +40,15 @@ West<-as.numeric(gsub(-1,0,West))
 datacrime$Address<-gsub(" w "," ",datacrime$Address)
 datacrime$Address[West==TRUE]<-paste(datacrime$Address[West==TRUE],"w")
 
-datamerged<-merge(datanew,datacrime,by.x="block.address",by.y="Address",all.y=TRUE)
-
+datamerged<-merge(datanew,datacrime,by.x="block.address",by.y="Address")#,all.y=TRUE
+datamerged$Aggravated.assault[is.na(datamerged$Aggravated.assault)]<-0
+datamerged$Arson[is.na(datamerged$Arson)]<-0
+datamerged$Burglary[is.na(datamerged$Burglary)]<-0
+datamerged$Larceny[is.na(datamerged$Larceny)]<-0
+datamerged$Murder[is.na(datamerged$Murder)]<-0
+datamerged$Robbery[is.na(datamerged$Robbery)]<-0
+datamerged$Vehicle.theft[is.na(datamerged$Vehicle.theft)]<-0
+save(datamerged,file="datamerged.Rdata")
 
 
 sum(datamerged$Total[is.na(datamerged$Sec_Block)])
