@@ -53,5 +53,5 @@ lm1 <-glm(formula = VacantBuilding~Total.Taxes.Owed+WaterService+Aggravated.assa
             Murder+Robbery+Vehicle.theft,data = regression.data,family = binomial(logit))
 summary(lm1)
 
-
+#export to csv #write.csv
 
