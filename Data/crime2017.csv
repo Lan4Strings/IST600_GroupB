@@ -1,15 +1,15 @@
 Address,Aggravated assault,Arson,Burglary,Larceny,Murder,Robbery,Vehicle theft,Total
-0 block 81 S @ Townsend St,,,,1,,,,1
+0 block Townsend St S,,,,1,,,,1
 0 block Academy Green,,,1,,,,,1
 0 block Baker Av,1,,,,,,,1
 0 block Bear St,,1,,,,,,1
 0 block Beattie St,,,,,,,1,1
-0 block Bellevue Ave/Hudson,1,,,,,,,1
+0 block Bellevue Ave,1,,,,,,,1
 0 block Bradford Ct,1,,,,,,,1
 0 block Brattle Rd,,,1,,,,,1
 0 block Burnet Park Dr,,,,,,,1,1
-0 block Cannon St At Fernwoo,1,,,,,,,1
-0 block Catherine And Hickor St,1,,,,,,,1
+0 block Cannon St,1,,,,,,,1
+0 block Catherine St,1,,,,,,,1
 0 block Centennial Dr,1,,1,3,,,1,6
 0 block Childrens Cir,,,,1,,,,1
 0 block Clinton St,,,,1,,,,1
@@ -19,13 +19,13 @@ Address,Aggravated assault,Arson,Burglary,Larceny,Murder,Robbery,Vehicle theft,T
 0 block Crawford Av,,,,1,,,,1
 0 block Dablon Ct,,,,,,1,,1
 0 block Delaware St,,,,,,,1,1
-0 block Destiny Usa Dr,4,,16,423,,9,2,454
+0 block Destiny Usa Dr,4,,17,434,,9,2,466
 0 block Dupli Park Dr,,,,1,,,,1
-0 block E Taylor St,,,,1,,,,1
+0 block Taylor St E,,,,1,,,,1
 0 block Elmhurst Av,,,1,,,,,1
 0 block Hatch St,,,,,,,1,1
 0 block Hawley Av,,,,1,,,,1
-0 block Hiawatha Blvd @ 81 N,,,,1,,,,1
+0 block Hiawatha Blvd N,,,,1,,,,1
 0 block Highland St,,,,1,,,,1
 0 block Hopper Rd,1,,,,,,,1
 0 block James Heath Rd,,,,1,,,,1
@@ -36,7 +36,7 @@ Address,Aggravated assault,Arson,Burglary,Larceny,Murder,Robbery,Vehicle theft,T
 0 block Marshall St,1,,,1,,,,2
 0 block Mertens Av,,,,1,,,,1
 0 block Midland Av,,,,,,,1,1
-0 block Nb West St To Eb I 690 Ramp,,,,1,,,,1
+0 block Nb West St,,,,1,,,,1
 0 block Northcliffe Rd,,,,1,,,,1
 0 block Nursery Ln,,,,,,,1,1
 0 block Onondaga Av,1,,,,,,,1
@@ -46,9 +46,9 @@ Address,Aggravated assault,Arson,Burglary,Larceny,Murder,Robbery,Vehicle theft,T
 0 block Presidential Ct,,,7,,,,,7
 0 block Presidential Plz,,,4,3,,,,7
 0 block Robincroft Rd,,,,1,,,,1
-0 block S Geddes St,,,,,,,1,1
-0 block S Salina St,2,,,,,,,2
-0 block S State St,1,,,,,,,1
+0 block Geddes St S,,,,,,,1,1
+0 block Salina St S,2,,,,,,,2
+0 block State St S,1,,,,,,,1
 0 block Schoeneck Ct,,,,,,,1,1
 0 block Seymour St,,,,1,,,,1
 0 block Shonnard St,1,,,,,,,1
@@ -56,9 +56,9 @@ Address,Aggravated assault,Arson,Burglary,Larceny,Murder,Robbery,Vehicle theft,T
 0 block Stone Ct,,,1,,,,,1
 0 block Unknown,4,,,1,,,1,6
 0 block Village Dr,1,,,,,,,1
-0 block W Fayette St,,,,1,,,,1
-0 block W Onondaga St,,,,,,1,,1
-0 block W Pleasant Av,,,,,,,1,1
+0 block Fayette St,,,,1,,,,1
+0 block Onondaga St,,,,,,1,,1
+0 block Pleasant Av,,,,,,,1,1
 0 block Walsh Cir,,,,5,,1,,6
 0 block Watertree Dr,,,,1,,,,1
 0 block Weiser Ct,,,,,,,1,1
@@ -165,28 +165,28 @@ Address,Aggravated assault,Arson,Burglary,Larceny,Murder,Robbery,Vehicle theft,T
 100 block Dudley St,,,,,,,3,3
 100 block Durston Av,,,1,2,,,,3
 100 block Dyer Ct,2,,,,,,,2
-100 block E Beard Av,,,,1,,,,1
-100 block E Bissell St,2,,2,3,,,1,8
-100 block E Borden Av,,,,1,,,,1
-100 block E Brighton Av,1,,1,,,,,2
-100 block E Cheltenham Rd,,,1,,,,,1
-100 block E Colvin St,1,,,1,,,,2
-100 block E Corning Av,1,,,,,,,1
-100 block E Fayette St,,,,1,,,1,2
-100 block E Genesee Pkwy,,,,,,,1,1
-100 block E Genesee St,,,,1,,,,1
-100 block E Jefferson St,,,1,,,1,1,3
-100 block E Kennedy St,2,,1,4,,,,7
-100 block E Lafayette Av,,,1,1,,,,2
-100 block E Matson Av,,,,1,,,,1
-100 block E Onondaga St,,,,7,,,,7
-100 block E Raynor Av,,,,,,1,,1
-100 block E Raynor St,,,,1,,,,1
-100 block E Seneca Tpke,,,,1,,,,1
-100 block E Warrington Av,,,,1,,,,1
-100 block E Warrington Rd,,,,1,,,,1
-100 block E Washington St,,,,2,,,,2
-100 block E Water St,1,,,3,,,,4
+100 block Beard Av E,,,,1,,,,1
+100 block Bissell St E,2,,2,3,,,1,8
+100 block Borden Av E,,,,1,,,,1
+100 block Brighton Av E,1,,1,,,,,2
+100 block Cheltenham Rd E,,,1,,,,,1
+100 block Colvin St E,1,,,1,,,,2
+100 block Corning Av E,1,,,,,,,1
+100 block Fayette St E,,,,1,,,1,2
+100 block Genesee Pkwy E,,,,,,,1,1
+100 block Genesee St E,,,,1,,,,1
+100 block Jefferson St E,,,1,,,1,1,3
+100 block Kennedy St E,2,,1,4,,,,7
+100 block Lafayette Av E,,,1,1,,,,2
+100 block Matson Av E,,,,1,,,,1
+100 block Onondaga St E,,,,7,,,,7
+100 block Raynor Av E,,,,,,1,,1
+100 block Raynor St E,,,,1,,,,1
+100 block Seneca Tpke E,,,,1,,,,1
+100 block Warrington Av E,,,,1,,,,1
+100 block Warrington Rd E,,,,1,,,,1
+100 block Washington St E,,,,2,,,,2
+100 block Water St E,1,,,3,,,,4
 100 block East Av,,,1,1,,,,2
 100 block Eastman Av,,,,,,,1,1
 100 block Edison St,,,1,,,,,1
@@ -341,7 +341,7 @@ Address,Aggravated assault,Arson,Burglary,Larceny,Murder,Robbery,Vehicle theft,T
 100 block Markland Av,,,1,,,,,1
 100 block Marlborough Rd,,,1,,,,,1
 100 block Marshall St,1,,,8,,,1,10
-100 block Martin Luther King   W,1,,1,,,,,2
+100 block Martin Luther King  W,1,,1,,,,,2
 100 block Mary St,3,,1,4,,,,8
 100 block Mather St,1,1,1,2,,,1,6
 100 block Maurice Av,1,,2,3,,,,6
@@ -370,16 +370,16 @@ Address,Aggravated assault,Arson,Burglary,Larceny,Murder,Robbery,Vehicle theft,T
 100 block Monticello Dr  S,,,,1,,,,1
 100 block Mosley Dr,,,2,,,,,2
 100 block Murray Av,1,,1,1,,,1,4
-100 block N Collingwood Av,,,,2,,,,2
-100 block N Edwards Av,,,,2,,,,2
-100 block N Geddes St,1,,1,1,,,1,4
-100 block N Lorraine Av,,,,1,,,,1
-100 block N Lowell Av,,,,2,,,,2
-100 block N Midler Av,1,,,1,,,,2
-100 block N Salina St,,,,3,,,1,4
-100 block N Townsend Pl,,,1,,,,,1
-100 block N Townsend St,,,,1,,,,1
-100 block N Wilbur Av,,,1,,,,,1
+100 block Collingwood Av N,,,,2,,,,2
+100 block Edwards Av N,,,,2,,,,2
+100 block Geddes St N,1,,1,1,,,1,4
+100 block Lorraine Av N,,,,1,,,,1
+100 block Lowell Av N,,,,2,,,,2
+100 block Midler Av N,1,,,1,,,,2
+100 block Salina St N,,,,3,,,1,4
+100 block Townsend Pl N,,,1,,,,,1
+100 block Townsend St N,,,,1,,,,1
+100 block Wilbur Av N,,,1,,,,,1
 100 block Nelson St,3,,2,1,,,,6
 100 block Neutral Ct,1,,1,,,,,2
 100 block New St,,,,4,,,,4
@@ -434,15 +434,15 @@ Address,Aggravated assault,Arson,Burglary,Larceny,Murder,Robbery,Vehicle theft,T
 100 block Ross Pk,,,1,1,,,,2
 100 block Rugby Rd,,,1,2,,,,3
 100 block Russell Pl,,,,1,,,,1
-100 block S Beech St,1,,,,,,,1
-100 block S Carbon St,,,2,,,1,,3
-100 block S Clinton St,,,,1,,,,1
-100 block S Collingwood Av,1,,2,,,,1,4
-100 block S Crouse Av,,,,1,,,,1
-100 block S Edwards Av,,,1,1,,,,2
-100 block S Lowell Av,,,,2,,1,,3
-100 block S Midler Av,,,,1,,,,1
-100 block S Warren St,,,2,1,,,,3
+100 block Beech St S,1,,,,,,,1
+100 block Carbon St S,,,2,,,1,,3
+100 block Clinton St S,,,,1,,,,1
+100 block Collingwood Av S,1,,2,,,,1,4
+100 block Crouse Av S,,,,1,,,,1
+100 block Edwards Av S,,,1,1,,,,2
+100 block Lowell Av S,,,,2,,1,,3
+100 block Midler Av S,,,,1,,,,1
+100 block Warren St S,,,2,1,,,,3
 100 block Sabine St,,,,,,1,2,3
 100 block Schiller Av,,,,1,,,,1
 100 block Schiller Park Dr,,,,1,,,,1
@@ -459,7 +459,7 @@ Address,Aggravated assault,Arson,Burglary,Larceny,Murder,Robbery,Vehicle theft,T
 100 block Seeley Rd,,,,1,,,,1
 100 block Seneca Dr,,,1,,,,,1
 100 block Seventh North St,1,,,,,,,1
-100 block Seventh North St St,,,1,,,,,1
+100 block Seventh North St,,,1,,,,,1
 100 block Seward St,,,,2,,,,2
 100 block Seymour St,,,,2,,,,2
 100 block Shirley Rd,,,,2,,,,2
@@ -509,29 +509,29 @@ Address,Aggravated assault,Arson,Burglary,Larceny,Murder,Robbery,Vehicle theft,T
 100 block Village Dr,,,,3,,,,3
 100 block Villiage Dr,1,,,,,,,1
 100 block Vincent St,,,,1,,,,1
-100 block W Beard Av,,,1,,,,,1
-100 block W Bissell St,2,,2,,,,,4
-100 block W Calthrop Av,,,1,,,,,1
-100 block W Colvin St,,,,1,,,,1
-100 block W Corning Av,,,,1,,1,,2
-100 block W Court St,,,,,,,1,1
-100 block W Division St,,,3,,,,,3
-100 block W Fayette St,1,,,13,,1,,15
-100 block W Florence Av,,,1,,,,,1
-100 block W Glen Av,,,,2,,,,2
-100 block W Jefferson St,,,,2,,,,2
-100 block W Kennedy St,,,,1,,,,1
-100 block W Kirkpatrick St,,,,1,,,,1
-100 block W Lafayette Av,,,,1,,,,1
-100 block W Lafayette St,,,,,,1,,1
-100 block W Lynhurst Av,1,,2,,,,1,4
-100 block W Matson Av,,,3,,,,,3
-100 block W Newell St,,,1,1,,,,2
-100 block W Onondaga St,1,,,,,,,1
-100 block W Ostrander Av,,,2,3,,,1,6
-100 block W Pleasant Av,,,1,,,,,1
-100 block W Seneca Tpke,,,,1,,,1,2
-100 block W Washington St,,,,1,,,,1
+100 block Beard Av W,,,1,,,,,1
+100 block Bissell St W,2,,2,,,,,4
+100 block Calthrop Av W,,,1,,,,,1
+100 block Colvin St W,,,,1,,,,1
+100 block Corning Av W,,,,1,,1,,2
+100 block Court St W,,,,,,,1,1
+100 block Division St W,,,3,,,,,3
+100 block Fayette St W,1,,,13,,1,,15
+100 block Florence Av W,,,1,,,,,1
+100 block Glen Av W,,,,2,,,,2
+100 block Jefferson St W,,,,2,,,,2
+100 block Kennedy St W,,,,1,,,,1
+100 block Kirkpatrick St W,,,,1,,,,1
+100 block Lafayette Av W,,,,1,,,,1
+100 block Lafayette St W,,,,,,1,,1
+100 block Lynhurst Av W,1,,2,,,,1,4
+100 block Matson Av W,,,3,,,,,3
+100 block Newell St W,,,1,1,,,,2
+100 block Onondaga St W,1,,,,,,,1
+100 block Ostrander Av W,,,2,3,,,1,6
+100 block Pleasant Av W,,,1,,,,,1
+100 block Seneca Tpke W,,,,1,,,1,2
+100 block Washington St W,,,,1,,,,1
 100 block Wadsworth St,,,1,1,,,,2
 100 block Wall St,,,1,1,,,,2
 100 block Walrath Rd,,,2,,,,,2
@@ -568,9 +568,9 @@ Address,Aggravated assault,Arson,Burglary,Larceny,Murder,Robbery,Vehicle theft,T
 1000 block Col Eileen Collins Blvd,,,,9,,,2,11
 1000 block Court St,,,1,1,,,,2
 1000 block Danforth St,,,,,,1,,1
-1000 block E Adams St,,,,1,,,,1
-1000 block E Fayette St,,,,1,,,,1
-1000 block E Genesee St,,,,2,,,,2
+1000 block Adams St E,,,,1,,,,1
+1000 block Fayette St E,,,,1,,,,1
+1000 block Genesee St E,,,,2,,,,2
 1000 block Emerson Av,,1,,,,,,1
 1000 block Erie Blvd E,,,2,,,,,2
 1000 block First North St,,,,1,,,,1
@@ -587,28 +587,28 @@ Address,Aggravated assault,Arson,Burglary,Larceny,Murder,Robbery,Vehicle theft,T
 1000 block Mertens Av,,,,1,,,,1
 1000 block Midland Av,1,,,,,,,1
 1000 block Milton Av,,,,1,,,1,2
-1000 block N Mcbride St,,,2,,,,,2
-1000 block N State St,,,1,,,,,1
-1000 block N Townsend St,2,,1,,,,,3
+1000 block Mcbride St N,,,2,,,,,2
+1000 block State St N,,,1,,,,,1
+1000 block Townsend St N,2,,1,,,,,3
 1000 block Oak St,,,,2,,,,2
 1000 block Park St,1,,,3,,,1,5
 1000 block Pond St,,,1,1,,1,,3
-1000 block S Clinton St,3,,,8,,2,,13
-1000 block S Geddes St,,,2,1,,2,,5
-1000 block S Mcbride St,1,,2,2,,,,5
-1000 block S Salina St,,,1,,,,,1
-1000 block S Townsend St,2,,,2,,,,4
+1000 block Clinton St S,3,,,8,,2,,13
+1000 block Geddes St S,,,2,1,,2,,5
+1000 block Mcbride St S,1,,2,2,,,,5
+1000 block Salina St S,,,1,,,,,1
+1000 block Townsend St S,2,,,2,,,,4
 1000 block Spring St,,,,,,1,,1
 1000 block Sunnycrest Rd,,,,2,,,,2
 1000 block Teall Av,,,,,,1,,1
 1000 block Tyson Pl,,,2,2,,,,4
 1000 block Union Pl,1,,,,,,,1
 1000 block Valley Dr,,,1,,,,,1
-1000 block W Belden Av,,,,2,,,,2
-1000 block W Fayette St,,,1,1,,,,2
-1000 block W Genesee St,1,,1,22,,,1,25
-1000 block W Genessee St,,,,1,,,,1
-1000 block W Onondaga St,2,,1,1,,,,4
+1000 block Belden Av W,,,,2,,,,2
+1000 block Fayette St W,,,1,1,,,,2
+1000 block Genesee St W,1,,1,22,,,1,25
+1000 block Genessee St W,,,,1,,,,1
+1000 block Onondaga St W,2,,1,1,,,,4
 1000 block Wadsworth St,,,,1,,,,1
 1000 block Walnut Av,,,,1,,,,1
 1000 block Westcott St,,,1,1,,,,2
@@ -621,9 +621,9 @@ Address,Aggravated assault,Arson,Burglary,Larceny,Murder,Robbery,Vehicle theft,T
 1100 block Butternut St,1,,1,2,,1,,5
 1100 block Cannon St,3,,1,,,,,4
 1100 block Carbon St,,,1,,,,1,2
-1100 block E Fayette St,1,,1,1,,,,3
-1100 block E Genesee St,,,,1,,,,1
-1100 block E Washington St,,,,1,,,,1
+1100 block Fayette St E,1,,1,1,,,,3
+1100 block Genesee St E,,,,1,,,,1
+1100 block Washington St E,,,,1,,,,1
 1100 block Erie Blvd E,,,,2,,,,2
 1100 block Erie Blvd W,,,,,,,1,1
 1100 block First North St,,,,2,,,,2
@@ -633,22 +633,22 @@ Address,Aggravated assault,Arson,Burglary,Larceny,Murder,Robbery,Vehicle theft,T
 1100 block Lancaster Av,1,,,,,,,1
 1100 block Lodi St,,,,1,,,,1
 1100 block Madison St,,,3,,,,,3
-1100 block N Salina St,1,,,15,,3,,19
-1100 block N Townsend St,1,,,1,,,,2
+1100 block Salina St N,1,,,15,,3,,19
+1100 block Townsend St N,1,,,1,,,,2
 1100 block Park St,,,2,4,,,,6
-1100 block S Geddes St,,,,,,,1,1
-1100 block S Salina St,,,,2,,,,2
-1100 block S Townsend St,1,,,,,,,1
+1100 block Geddes St S,,,,,,,1,1
+1100 block Salina St S,,,,2,,,,2
+1100 block Townsend St S,1,,,,,,,1
 1100 block Salt Springs Rd,1,,,1,,,,2
 1100 block South Av,1,,,,,,,1
 1100 block Spring St,,,,2,,,,2
 1100 block Sunnycrest Rd,,,,1,,,,1
 1100 block Teal Av,1,,,,,,,1
 1100 block Teall Av,1,,,2,,,,3
-1100 block W Belden Av,,,1,1,,,2,4
-1100 block W Colvin St,1,,2,1,,,,4
-1100 block W Genesee St,,,1,1,,,,2
-1100 block W Onondaga St,,,2,2,,,,4
+1100 block Belden Av W,,,1,1,,,2,4
+1100 block Colvin St W,1,,2,1,,,,4
+1100 block Genesee St W,,,1,1,,,,2
+1100 block Onondaga St W,,,2,2,,,,4
 1100 block Westcott St,1,,,,,,,1
 1100 block Willis Av,,,,1,,,,1
 1100 block Wolf St,,,1,1,,,,2
@@ -657,8 +657,8 @@ Address,Aggravated assault,Arson,Burglary,Larceny,Murder,Robbery,Vehicle theft,T
 1200 block Bellevue Av,,,1,,,,,1
 1200 block Burnet Av,,,,1,,,2,3
 1200 block Butternut St,1,,3,,,1,1,6
-1200 block E Fayette St,1,,,1,,,,2
-1200 block E Genesee St,,,,1,,,,1
+1200 block Fayette St E,1,,,1,,,,2
+1200 block Genesee St E,,,,1,,,,1
 1200 block First North St,1,,,,,,,1
 1200 block Grant Blvd,,,2,,,,,2
 1200 block Harrison St,,,4,5,,,1,10
@@ -669,20 +669,20 @@ Address,Aggravated assault,Arson,Burglary,Larceny,Murder,Robbery,Vehicle theft,T
 1200 block Madison St,1,,4,3,,,,8
 1200 block Midland Av,1,,,,,,,1
 1200 block Milton Av,3,2,6,3,,1,,15
-1200 block N Salina St,,,,2,,,,2
-1200 block N State St,1,,3,,,1,,5
+1200 block Salina St N,,,,2,,,,2
+1200 block State St N,1,,3,,,1,,5
 1200 block Park St,1,,,1,,1,1,4
-1200 block S Geddes St,2,,,2,,1,,5
-1200 block S Salina St,,,,1,,,,1
-1200 block S State St,2,,,3,,,,5
+1200 block Geddes St S,2,,,2,,1,,5
+1200 block Salina St S,,,,1,,,,1
+1200 block State St S,2,,,3,,,,5
 1200 block Salt Springs Rd,,,,1,,,,1
 1200 block South Av,2,,,6,,,,8
 1200 block Spring St,,,1,,,,,1
 1200 block Teall Av,,,,1,,,,1
-1200 block W Fayette St,,,,,,,1,1
-1200 block W Genesee St,,,,2,,,,2
-1200 block W Onondaga St,,,,1,,,,1
-1200 block W Onondage St,,,1,,,,,1
+1200 block Fayette St W,,,,,,,1,1
+1200 block Genesee St W,,,,2,,,,2
+1200 block Onondaga St W,,,,1,,,,1
+1200 block Onondage St W,,,1,,,,,1
 1200 block Westcott St,,,,1,,,,1
 1200 block Willis Av,,,,1,,1,1,3
 1200 block Wolf St,,,1,,,,,1
@@ -690,10 +690,10 @@ Address,Aggravated assault,Arson,Burglary,Larceny,Murder,Robbery,Vehicle theft,T
 1300 block Burnet Av,,,3,,,,,3
 1300 block Butternut St,3,,3,3,,2,1,12
 1300 block Court St,,,,1,,,,1
-1300 block E Adams St,,,1,4,,,,5
-1300 block E Fayette St,,,,1,,2,,3
-1300 block E Genesee St,,,2,,,,,2
-1300 block E Water St,,,,1,,,,1
+1300 block Adams St E,,,1,4,,,,5
+1300 block Fayette St E,,,,1,,2,,3
+1300 block Genesee St E,,,2,,,,,2
+1300 block Water St E,,,,1,,,,1
 1300 block Erie Blvd W,,,1,,,,,1
 1300 block Euclid Av,,,,2,,,,2
 1300 block First North St,,,,2,,,,2
@@ -703,88 +703,88 @@ Address,Aggravated assault,Arson,Burglary,Larceny,Murder,Robbery,Vehicle theft,T
 1300 block Lodi St,,,,1,,,,1
 1300 block Madison St,,,,1,,,,1
 1300 block Midland Av,,,,,,,1,1
-1300 block N Salina St,,,,1,,1,,2
+1300 block Salina St N,,,,1,,1,,2
 1300 block Northcliff Rd,,,,1,,,,1
 1300 block Oak St,,,,,,1,1,2
-1300 block S State St,2,,,,,1,,3
+1300 block State St S,2,,,,,1,,3
 1300 block Salt Springs Rd,,,,,,2,,2
 1300 block Spring St,1,,,,,,,1
 1300 block Stolp Av,,,1,,,,,1
 1300 block Teall Av,,,,1,,,,1
-1300 block W Colvin St,,,,1,,,,1
-1300 block W Fayette Sch,,,,1,,,,1
-1300 block W Fayette St,1,,,,,,,1
-1300 block W Onondaga St,,,,1,,,,1
+1300 block Colvin St W,,,,1,,,,1
+1300 block Fayette Sch W,,,,1,,,,1
+1300 block Fayette St W,1,,,,,,,1
+1300 block Onondaga St W,,,,1,,,,1
 1300 block Willis Av,,,1,,,1,,2
 1400 block Burnet Av,,,3,2,,,,5
 1400 block Butternut St,1,,,,,,,1
 1400 block Comstock Av,,,,,,,1,1
-1400 block E Fayette St,,,,2,,,,2
-1400 block E Genesee St,,,3,,,,,3
-1400 block E Washington St,,,,1,,,,1
+1400 block Fayette St E,,,,2,,,,2
+1400 block Genesee St E,,,3,,,,,3
+1400 block Washington St E,,,,1,,,,1
 1400 block Euclid Av,,,1,,,,,1
 1400 block Grant Blvd,,,,1,,,,1
 1400 block Hawley Av,,,,1,,1,,2
 1400 block Lemoyne Av,,,,,,1,,1
 1400 block Lodi St,1,,,2,,,,3
 1400 block Midland Av,1,,2,1,,1,1,6
-1400 block N Salina St,1,,1,,,,,2
-1400 block N State St,,,1,1,,,,2
+1400 block Salina St N,1,,1,,,,,2
+1400 block State St N,,,1,1,,,,2
 1400 block Oak St,,,1,,,1,,2
 1400 block Park St,,,,2,,,,2
-1400 block S Mcbride St,,,,1,,,,1
-1400 block S Salina St,3,,,7,,1,,11
-1400 block S State St,2,,,,,,,2
+1400 block Mcbride St S,,,,1,,,,1
+1400 block Salina St S,3,,,7,,1,,11
+1400 block State St S,2,,,,,,,2
 1400 block Salt Springs Rd,,,,1,,,,1
 1400 block Valley Dr,,,,1,,,,1
-1400 block W Colvin St,,,,,,1,,1
-1400 block W Genesee St,2,,,1,,,,3
-1400 block W Genseee St,,,,1,,,,1
+1400 block Colvin St W,,,,,,1,,1
+1400 block Genesee St W,2,,,1,,,,3
+1400 block Genseee St W,,,,1,,,,1
 1500 block Bellevue Av,,,,2,,,,2
 1500 block Burnet Av,,,,2,,,,2
 1500 block Caleb Av,1,,,1,,,,2
 1500 block Comstock Av,,,,1,,,,1
-1500 block E Fayette St,,,,1,,,,1
-1500 block E Genesee St,2,,1,2,,,,5
+1500 block Fayette St E,,,,1,,,,1
+1500 block Genesee St E,2,,1,2,,,,5
 1500 block Glenwood Av,,,,1,,,,1
 1500 block Ivy Ridge Rd,,,2,,,,,2
 1500 block Lemoyne Av,,,,1,,,,1
 1500 block Lodi St,,,2,2,,1,,5
 1500 block Meadowbrook Dr,,,1,,,,,1
 1500 block Midland Av,1,,,1,,,,2
-1500 block N Salina St,,,,2,,1,1,4
-1500 block N State St,,,,,,,1,1
+1500 block Salina St N,,,,2,,1,1,4
+1500 block State St N,,,,,,,1,1
 1500 block Park St,,,1,,,,,1
-1500 block S Geddes St,,,,3,,,,3
-1500 block S Salina St,,,,,,1,,1
-1500 block S State St,,,,2,,,,2
+1500 block Geddes St S,,,,3,,,,3
+1500 block Salina St S,,,,,,1,,1
+1500 block State St S,,,,2,,,,2
 1500 block Salt Springs Rd,,,,1,,,,1
 1500 block South Av,,,,1,,,,1
 1500 block Spring St,1,,,,,,,1
 1500 block Valley Dr,,,2,,,,,2
-1500 block W Genesee St,,,1,4,,1,1,7
-1500 block W Onondaga St,,,,2,,,,2
+1500 block Genesee St W,,,1,4,,1,1,7
+1500 block Onondaga St W,,,,2,,,,2
 1600 block Bellevue Av,2,,,,,,1,3
 1600 block Butternut St,,,1,,,,,1
 1600 block Court St,,,,1,,1,,2
-1600 block E Fayette St,,,,,,,1,1
-1600 block E Genesee St,,,,,,1,,1
+1600 block Fayette St E,,,,,,,1,1
+1600 block Genesee St E,,,,,,1,,1
 1600 block Erie Blvd E,,,1,6,,1,,8
 1600 block Grant Blvd,,,3,2,,,,5
 1600 block Hawley Av,,,,2,,,1,3
 1600 block James St,,,1,3,,,,4
 1600 block Lodi St,,,2,2,,,,4
 1600 block Meadowbrook Dr,,,,1,,,,1
-1600 block N Salina St,,,,1,,,,1
+1600 block Salina St N,,,,1,,,,1
 1600 block Park St,,,,3,,,,3
-1600 block S Geddes St,,,,2,,1,,3
+1600 block Geddes St S,,,,2,,1,,3
 1600 block Saltsprings Rd,,,,1,,,,1
 1600 block South Av,,,,2,,,,2
 1600 block Spring St,,,1,1,,,1,3
-1600 block W Colvin St,1,,,,,,1,2
-1600 block W Fayette St,,,,1,,,,1
-1600 block W Genesee St,2,,2,2,,,,6
-1600 block W Onondaga St,,,,2,,,,2
+1600 block Colvin St W,1,,,,,,1,2
+1600 block Fayette St W,,,,1,,,,1
+1600 block Genesee St W,2,,2,2,,,,6
+1600 block Onondaga St W,,,,2,,,,2
 1700 block Bellevue Av,,,1,,,,,1
 1700 block Burnet Av,,,,,,1,,1
 1700 block Butternut St,,,,1,,,,1
@@ -792,40 +792,40 @@ Address,Aggravated assault,Arson,Burglary,Larceny,Murder,Robbery,Vehicle theft,T
 1700 block Grant Blvd,,,,9,,,,9
 1700 block Lodi St,,,1,,,1,,2
 1700 block Meadowbrook Dr,,,1,2,,,,3
-1700 block N Salina St,,,,3,,,,3
+1700 block Salina St N,,,,3,,,,3
 1700 block Park St,1,,,2,,,,3
-1700 block S Salina St,,,1,2,,1,,4
-1700 block S State St,,,1,,,,,1
+1700 block Salina St S,,,1,2,,1,,4
+1700 block State St S,,,1,,,,,1
 1700 block Valley Dr,,,,1,,,,1
-1700 block W Onondaga St,1,,2,1,,,,4
+1700 block Onondaga St W,1,,2,1,,,,4
 1800 block Bellevue Av,1,,1,,,,,2
 1800 block Burnet Av,,,,3,,,,3
 1800 block Butternut St,,,,,,1,,1
-1800 block E Fayette St,2,1,1,4,,1,,9
+1800 block Fayette St E,2,1,1,4,,1,,9
 1800 block Euclid Av,,,,1,,,,1
 1800 block Grant Blvd,1,,1,2,,,,4
 1800 block James St,,,,1,,,,1
 1800 block Lodi St,,1,,1,,,,2
 1800 block Midland Av,1,,1,1,,,,3
-1800 block S Salina St,1,,,1,,,,2
-1800 block S State St,,,2,,,1,,3
+1800 block Salina St S,1,,,1,,,,2
+1800 block State St S,,,2,,,1,,3
 1800 block South Av,,,,1,,,,1
 1800 block Teall Av,,,,1,,,,1
-1800 block W Fayette St,,,,1,,,,1
-1800 block W Genesee St,,,2,4,,,,6
+1800 block Fayette St W,,,,1,,,,1
+1800 block Genesee St W,,,2,4,,,,6
 1900 block Bellevue Av,,,,1,,,,1
 1900 block Caleb Av,,,2,,,,,2
-1900 block E Fayette St,1,,2,,,,,3
-1900 block E Genesee St,,,4,,,,,4
+1900 block Fayette St E,1,,2,,,,,3
+1900 block Genesee St E,,,4,,,,,4
 1900 block Erie Blvd E,,,,2,,,,2
 1900 block Euclid Av,,,,1,,,,1
 1900 block Glenwood Av,,,1,2,,,,3
 1900 block Grant Blvd,,,,2,,,,2
-1900 block S Salina St,,1,,,,,,1
+1900 block Salina St S,,1,,,,,,1
 1900 block South Av,,,3,,,,,3
 1900 block Valley Dr,,,1,1,,,,2
-1900 block W Fayette St,1,,,1,,,,2
-1900 block W Genesee St,,,2,1,,,1,4
+1900 block Fayette St W,1,,,1,,,,2
+1900 block Genesee St W,,,2,1,,,1,4
 200 block 8Th Av,,,,1,,,,1
 200 block Academy Pl,,,1,1,,,,2
 200 block Apple St,1,,,,,,,1
@@ -889,16 +889,16 @@ Address,Aggravated assault,Arson,Burglary,Larceny,Murder,Robbery,Vehicle theft,T
 200 block Douglas St,,,1,,,,,1
 200 block Duane St,1,,,1,,,,2
 200 block Durston Av,,,,1,,,,1
-200 block E Adams St,,1,,,,,,1
-200 block E Belden Av,1,,,,,,,1
-200 block E Cheltenham Rd,,,1,,,,,1
-200 block E Fayette St,,,,1,,,,1
-200 block E Genesee Pkwy,,,,1,,,,1
-200 block E Jefferson St,1,,1,2,,,,4
-200 block E Kennedy St,,,,1,,,,1
-200 block E Onondaga St,,,,,,,1,1
-200 block E Washington St,,,,3,,,,3
-200 block E Water St,,,1,2,,,1,4
+200 block Adams St E,,1,,,,,,1
+200 block Belden Av E,1,,,,,,,1
+200 block Cheltenham Rd E,,,1,,,,,1
+200 block Fayette St E,,,,1,,,,1
+200 block Genesee Pkwy E,,,,1,,,,1
+200 block Jefferson St E,1,,1,2,,,,4
+200 block Kennedy St E,,,,1,,,,1
+200 block Onondaga St E,,,,,,,1,1
+200 block Washington St E,,,,3,,,,3
+200 block Water St E,,,1,2,,,1,4
 200 block East Av,,,,,,,1,1
 200 block Eldorado St,,,,1,,,,1
 200 block Elsner St,,,,,,,1,1
@@ -1009,14 +1009,14 @@ Address,Aggravated assault,Arson,Burglary,Larceny,Murder,Robbery,Vehicle theft,T
 200 block Mosley Dr,,,1,,,,1,2
 200 block Mountainview Av,,,,,,,1,1
 200 block Myrtle St,,,,1,,,,1
-200 block N Clinton St,,,,1,,,1,2
-200 block N Crouse Av,,,,1,,,,1
-200 block N Edwards Av,,,3,1,,,,4
-200 block N Franklin St,,,,1,,,,1
-200 block N Geddes St,,,1,,,,,1
-200 block N Lowell Av,,,,1,,,,1
-200 block N State St,1,,2,10,,,,13
-200 block N Townsend St,,,2,2,,,,4
+200 block Clinton St N,,,,1,,,1,2
+200 block Crouse Av N,,,,1,,,,1
+200 block Edwards Av N,,,3,1,,,,4
+200 block Franklin St N,,,,1,,,,1
+200 block Geddes St N,,,1,,,,,1
+200 block Lowell Av N,,,,1,,,,1
+200 block State St N,1,,2,10,,,,13
+200 block Townsend St N,,,2,2,,,,4
 200 block North Av,,,1,1,,,,2
 200 block Norwood Av,,,1,,,,,1
 200 block Oak St,,,1,,,,,1
@@ -1042,16 +1042,16 @@ Address,Aggravated assault,Arson,Burglary,Larceny,Murder,Robbery,Vehicle theft,T
 200 block Rowland St,1,,,1,,,1,3
 200 block Roxbury Rd,,,,1,,,,1
 200 block Rugby Rd,,,,1,,1,,2
-200 block S Beech St,,,1,,,,,1
-200 block S Collingwood Av,,,1,1,,,,2
-200 block S Edwards Av,,,,2,,,,2
-200 block S Franklin St,1,,,1,,,,2
-200 block S Geddes Sq,,,,,,,1,1
-200 block S Geddes St,,,,1,,,,1
-200 block S Midler Av,,,1,,,,,1
-200 block S Salina St,,,1,5,,,,6
-200 block S State St,,,,,,1,,1
-200 block S Warren St,,,,6,,1,,7
+200 block Beech St S,,,1,,,,,1
+200 block Collingwood Av S,,,1,1,,,,2
+200 block Edwards Av S,,,,2,,,,2
+200 block Franklin St S,1,,,1,,,,2
+200 block Geddes Sq S,,,,,,,1,1
+200 block Geddes St S,,,,1,,,,1
+200 block Midler Av S,,,1,,,,,1
+200 block Salina St S,,,1,5,,,,6
+200 block State St S,,,,,,1,,1
+200 block Warren St S,,,,6,,1,,7
 200 block Sabine St,1,,,2,,,,3
 200 block Scotholm Blvd,,,,1,,,,1
 200 block Scottholm Blvd,,,1,,,,,1
@@ -1086,26 +1086,26 @@ Address,Aggravated assault,Arson,Burglary,Larceny,Murder,Robbery,Vehicle theft,T
 200 block Van Buren St,,,,3,,,,3
 200 block Vann St,,,1,1,,,,2
 200 block Village Dr,,,1,2,,,1,4
-200 block W Beard Av,,,1,,,,,1
-200 block W Borden Av,,,,1,,,,1
-200 block W Brighton Av,1,,,3,,1,,5
-200 block W Calthrop Av,,,1,,,,1,2
-200 block W Colvin St,1,,,1,,,,2
-200 block W Corning Av,,,,2,,,1,3
-200 block W Division St,,,,1,,,,1
-200 block W Fayette St,,,,5,,,,5
-200 block W Genesee St,,,,2,,1,2,5
-200 block W Glen Av,1,,,,,,,1
-200 block W Jefferson St,,,,8,,2,,10
-200 block W Kennedy Ter,,,,1,,,,1
-200 block W Lafayette Av,,,,2,,,,2
-200 block W Marcellus St,,,1,,,,,1
-200 block W Matson Av,,,,3,,,,3
-200 block W Newell St,,,,2,,2,,4
-200 block W Ostrander Av,,,2,1,,,,3
-200 block W Seneca Tpke,,,2,,,,,2
-200 block W Water St,,,,1,,,,1
-200 block W Willow St,,,,1,,,,1
+200 block Beard Av W,,,1,,,,,1
+200 block Borden Av W,,,,1,,,,1
+200 block Brighton Av W,1,,,3,,1,,5
+200 block Calthrop Av W,,,1,,,,1,2
+200 block Colvin St W,1,,,1,,,,2
+200 block Corning Av W,,,,2,,,1,3
+200 block Division St W,,,,1,,,,1
+200 block Fayette St W,,,,5,,,,5
+200 block Genesee St W,,,,2,,1,2,5
+200 block Glen Av W,1,,,,,,,1
+200 block Jefferson St W,,,,8,,2,,10
+200 block Kennedy Ter W,,,,1,,,,1
+200 block Lafayette Av W,,,,2,,,,2
+200 block Marcellus St W,,,1,,,,,1
+200 block Matson Av W,,,,3,,,,3
+200 block Newell St W,,,,2,,2,,4
+200 block Ostrander Av W,,,2,1,,,,3
+200 block Seneca Tpke W,,,2,,,,,2
+200 block Water St W,,,,1,,,,1
+200 block Willow St W,,,,1,,,,1
 200 block Wainwright Av,,,1,,,,,1
 200 block Wall St,,,,1,,,,1
 200 block Walton St,,,,5,,,,5
@@ -1127,49 +1127,49 @@ Address,Aggravated assault,Arson,Burglary,Larceny,Murder,Robbery,Vehicle theft,T
 200 block Woodruff Av,1,,,,,,,1
 200 block Wyoming St,,,1,,,2,,3
 2000 block Bellevue Av,1,,,1,,,,2
-2000 block E Colvin St,,,,1,,,,1
-2000 block E Fayette St,3,,1,6,,1,,11
-2000 block E Genesee St,,,3,,,,,3
+2000 block Colvin St E,,,,1,,,,1
+2000 block Fayette St E,3,,1,6,,1,,11
+2000 block Genesee St E,,,3,,,,,3
 2000 block Erie Blvd E,,,,5,,,,5
 2000 block Grant Blvd,,,,,,1,,1
 2000 block James St,,,,1,,,,1
 2000 block Lodi St,2,,1,1,,,1,5
 2000 block Park St,1,,,5,,1,,7
-2000 block S Salina St,1,,3,1,,,,5
+2000 block Salina St S,1,,3,1,,,,5
 2000 block South Av,1,,,,,,,1
 2000 block Teall Av,,,,,,1,,1
-2100 block E Fayette St,1,,2,,1,1,,5
-2100 block E Genesee St,,,1,,,,,1
+2100 block Fayette St E,1,,2,,1,1,,5
+2100 block Genesee St E,,,1,,,,,1
 2100 block Erie Blvd E,,,2,1,,,,3
 2100 block Grant Blvd,,,1,,,,1,2
 2100 block Midland Av,,,1,,,,,1
 2100 block Park St,,,4,2,,,,6
-2100 block S Geddes St,,,,1,,,,1
-2100 block S Salina St,,,,2,,,,2
-2100 block S State St,1,,,1,,,,2
-2200 block E Fayette St,,,,1,,,,1
-2200 block E Genesee St,1,,,,,,,1
+2100 block Geddes St S,,,,1,,,,1
+2100 block Salina St S,,,,2,,,,2
+2100 block State St S,1,,,1,,,,2
+2200 block Fayette St E,,,,1,,,,1
+2200 block Genesee St E,1,,,,,,,1
 2200 block Erie Blvd E,,,1,,,,,1
 2200 block Lodi St,,,,,,1,,1
 2200 block Midland Av,1,,,,,,,1
-2200 block S Salina St,,,,1,,1,,2
+2200 block Salina St S,,,,1,,1,,2
 2200 block Valley Dr,,,,1,,,1,2
 2300 block Burnet Av,,,1,,,,,1
-2300 block E Fayette St,1,,,,,,2,3
-2300 block E Genesee St,,,1,1,,,,2
+2300 block Fayette St E,1,,,,,,2,3
+2300 block Genesee St E,,,1,1,,,,2
 2300 block Erie Blvd E,,,,1,,,,1
 2300 block Grant Blvd,1,,,1,,,,2
 2300 block James St,,,,1,,,,1
 2300 block Lodi St,,1,,1,,,,2
 2300 block Midland Av,1,,2,,,,,3
-2300 block S State St,,,1,,,,,1
-2400 block E Genesee St,1,,,,,,,1
+2300 block State St S,,,1,,,,,1
+2400 block Genesee St E,1,,,,,,,1
 2400 block Erie Blvd E,,,,1,,,,1
 2400 block Grant Blvd,1,1,,4,,,,6
 2400 block James St,1,,,5,,3,,9
 2400 block Lodi St,,1,,1,,1,1,4
 2400 block Midland Av,,,1,,,,1,2
-2400 block S Salina St,2,,,1,,,,3
+2400 block Salina St S,2,,,1,,,,3
 2400 block South Av,,1,,,,,,1
 2400 block South Ave,,1,,,,,,1
 2500 block Bellevue Av,,,1,,,,,1
@@ -1178,29 +1178,29 @@ Address,Aggravated assault,Arson,Burglary,Larceny,Murder,Robbery,Vehicle theft,T
 2500 block Lodi St,,,1,,,,,1
 2500 block Valley Dr,,,3,,,,,3
 2600 block Burnet Av,,,,1,,,2,3
-2600 block E Fayette St,,,,,,,1,1
-2600 block E Genesee St,,,1,,,,,1
+2600 block Fayette St E,,,,,,,1,1
+2600 block Genesee St E,,,1,,,,,1
 2600 block Erie Blvd,,,,,,1,,1
 2600 block Erie Blvd E,1,,2,7,,,,10
 2600 block Lodi St,,,,1,,,1,2
 2600 block Midland Av,,,2,,,1,,3
-2600 block S Salina St,,,3,1,,1,,5
+2600 block Salina St S,,,3,1,,1,,5
 2700 block Burnet Av,,,,1,,,,1
 2700 block Erie Blvd E,,,2,5,,,,7
 2700 block James St,3,,2,2,,1,,8
 2700 block Lodi St,,,,2,,,,2
 2700 block Midland Av,1,,,,,,,1
 2800 block Burnet Av,,,1,,,,,1
-2800 block E Genesee St,,,1,1,,,,2
+2800 block Genesee St E,,,1,1,,,,2
 2800 block Erie Blvd E,,,2,1,,,,3
 2800 block James St,,,,1,,,,1
-2800 block S Salina St,,,1,2,,,,3
+2800 block Salina St S,,,1,2,,,,3
 2900 block Burnet Av,,,1,,,,,1
-2900 block E Genesee St,,,1,3,,,,4
+2900 block Genesee St E,,,1,3,,,,4
 2900 block Erie Blvd,,,,1,,,,1
 2900 block Erie Blvd E,,,3,5,,,,8
 2900 block James St,,,,8,,1,,9
-2900 block S Salina St,1,,1,1,,,,3
+2900 block Salina St S,1,,1,1,,,,3
 300 block Allen St,,,,6,,,2,8
 300 block Apple St,,,1,1,,,,2
 300 block Arlington Av,,,1,,,,,1
@@ -1245,13 +1245,13 @@ Address,Aggravated assault,Arson,Burglary,Larceny,Murder,Robbery,Vehicle theft,T
 300 block Delaware St,,,,1,,,,1
 300 block Dewitt St,,,1,,,,,1
 300 block Durston Av,,,,1,,,,1
-300 block E Brighton Av,,,2,1,,,,3
-300 block E Division St,,,1,,,,,1
-300 block E Fayette St,,,,1,,,,1
-300 block E Florence Av,,,1,1,,,,2
-300 block E Onondaga St,1,,,1,,,,2
-300 block E Washington St,,,,1,,,,1
-300 block E Willow St,,,,1,,,,1
+300 block Brighton Av E,,,2,1,,,,3
+300 block Division St E,,,1,,,,,1
+300 block Fayette St E,,,,1,,,,1
+300 block Florence Av E,,,1,1,,,,2
+300 block Onondaga St E,1,,,1,,,,2
+300 block Washington St E,,,,1,,,,1
+300 block Willow St E,,,,1,,,,1
 300 block Elm St,1,,2,2,,2,1,8
 300 block Erie Blvd E,1,,,,,,,1
 300 block Erie St,,,3,,,,,3
@@ -1324,13 +1324,13 @@ Address,Aggravated assault,Arson,Burglary,Larceny,Murder,Robbery,Vehicle theft,T
 300 block Mount Olympus Dr,,,1,,,,,1
 300 block Mountainview Av,,,,1,,,,1
 300 block Myrtle St,,,,,,,1,1
-300 block N Beech St,1,,1,,,,,2
-300 block N Clinton St,,,,6,,,,6
-300 block N Collingwood Av,,,,1,,,,1
-300 block N Crouse Av,,,,2,,,,2
-300 block N Mcbride St,,,,,,,1,1
-300 block N Midler Av,,1,4,6,,1,1,13
-300 block N Salina St,,,2,4,1,1,,8
+300 block Beech St N,1,,1,,,,,2
+300 block Clinton St N,,,,6,,,,6
+300 block Collingwood Av N,,,,1,,,,1
+300 block Crouse Av N,,,,2,,,,2
+300 block Mcbride St N,,,,,,,1,1
+300 block Midler Av N,,1,4,6,,1,1,13
+300 block Salina St N,,,2,4,1,1,,8
 300 block Nichols Av,,,,1,,,,1
 300 block North Av,1,,,1,,,,2
 300 block Nottingham Rd,,,,,,1,,1
@@ -1359,19 +1359,19 @@ Address,Aggravated assault,Arson,Burglary,Larceny,Murder,Robbery,Vehicle theft,T
 300 block Rill Av,,,1,,,,,1
 300 block Robinson St,1,,,1,,,,2
 300 block Rowland St,,,,1,,,,1
-300 block S Alvord St,2,,3,,,,,5
-300 block S Beech St,,,1,3,,,,4
-300 block S Clinton St,,,1,4,,,1,6
-300 block S Collingwood Av,1,,,1,,,,2
-300 block S Crouse Av,,,,3,,,,3
-300 block S Edwards Av,,,,,,,1,1
-300 block S Franklin St,,,,3,,,,3
-300 block S Geddes St,1,1,,1,,1,1,5
-300 block S Lowell Av,,,1,,,,,1
-300 block S Midler Av,,,1,,,,,1
-300 block S Salina St,1,,1,15,,2,,19
-300 block S State St,,,,1,,,,1
-300 block S Warren St,,,2,7,,,,9
+300 block Alvord St S S,2,,3,,,,,5
+300 block Beech St S,,,1,3,,,,4
+300 block Clinton St S,,,1,4,,,1,6
+300 block Collingwood Av S,1,,,1,,,,2
+300 block Crouse Av S,,,,3,,,,3
+300 block Edwards Av S,,,,,,,1,1
+300 block Franklin St S,,,,3,,,,3
+300 block Geddes St S,1,1,,1,,1,1,5
+300 block Lowell Av S,,,1,,,,,1
+300 block Midler Av S,,,1,,,,,1
+300 block Salina St S,1,,1,15,,2,,19
+300 block State St S,,,,1,,,,1
+300 block Warren St S,,,2,7,,,,9
 300 block Salt Springs Rd,,,,1,,,,1
 300 block Sand St,,,,1,,,,1
 300 block Schuyler St,,,,1,,,,1
@@ -1400,24 +1400,24 @@ Address,Aggravated assault,Arson,Burglary,Larceny,Murder,Robbery,Vehicle theft,T
 300 block Vann St,,,,,,,1,1
 300 block Village Dr,,,1,2,,,,3
 300 block Vincent St,,,,1,,,,1
-300 block W Beard Av,2,,,,,,,2
-300 block W Brighton Av,1,,,1,,,,2
-300 block W Calthrop Av,,,,1,,,,1
-300 block W Colvin St,,,1,2,,,,3
-300 block W Fayette Blvd,,,,1,,,,1
-300 block W Fayette St,1,,3,4,,,,8
-300 block W Genesee St,1,,,1,,,,2
-300 block W Hiawatha Blvd,,,,1,,,,1
-300 block W Jefferson St,,1,,,,,,1
-300 block W Kennedy St,4,,3,1,,1,1,10
-300 block W Kirkpatrick St,,,,1,,,,1
-300 block W Lafayette Av,1,,1,1,,,,3
-300 block W Newell St,1,,,2,,,,3
-300 block W Onondaga St,1,,1,4,,,,6
-300 block W Ostrander Av,,,1,1,,,,2
-300 block W Pleasant Av,1,,1,,,,,2
-300 block W Washington St,,,,3,,,,3
-300 block W Water St,,,,6,,,,6
+300 block Beard Av W,2,,,,,,,2
+300 block Brighton Av W,1,,,1,,,,2
+300 block Calthrop Av W,,,,1,,,,1
+300 block Colvin St W,,,1,2,,,,3
+300 block Fayette Blvd W,,,,1,,,,1
+300 block Fayette St W,1,,3,4,,,,8
+300 block Genesee St W,1,,,1,,,,2
+300 block Hiawatha Blvd W,,,,1,,,,1
+300 block Jefferson St W,,1,,,,,,1
+300 block Kennedy St W,4,,3,1,,1,1,10
+300 block Kirkpatrick St W,,,,1,,,,1
+300 block Lafayette Av W,1,,1,1,,,,3
+300 block Newell St W,1,,,2,,,,3
+300 block Onondaga St W,1,,1,4,,,,6
+300 block Ostrander Av W,,,1,1,,,,2
+300 block Pleasant Av W,1,,1,,,,,2
+300 block Washington St W,,,,3,,,,3
+300 block Water St W,,,,6,,,,6
 300 block Wainwright Av,,,,1,,,,1
 300 block Walnut Pl,,,,1,,,,1
 300 block Warner Av,,,,3,,,,3
@@ -1432,39 +1432,39 @@ Address,Aggravated assault,Arson,Burglary,Larceny,Murder,Robbery,Vehicle theft,T
 300 block Wodbine Av,,,1,,,,,1
 300 block Woodbine Av,,,1,,,,,1
 300 block Woodruff Av,,,,,,,1,1
-3000 block E Erie Blvd,,,,2,,,,2
-3000 block E Genesee St,,,,1,,,,1
+3000 block Erie Blvd E,,,,2,,,,2
+3000 block Genesee St E,,,,1,,,,1
 3000 block Erie Blvd,,,,2,,,,2
 3000 block Erie Blvd E,,,1,2,,,,3
 3000 block James St,,,1,4,,,,5
 3000 block Midland Av,1,,1,,,,,2
 3100 block Brighton Pl,,,,1,,,,1
-3100 block E Brighton Av,,,,1,,,,1
-3100 block E Genesee St,,,,3,,,1,4
+3100 block Brighton Av E,,,,1,,,,1
+3100 block Genesee St E,,,,3,,,1,4
 3100 block Erie Blvd E,1,,,,,,,1
 3100 block James St,,,1,2,,,,3
-3100 block S Salina St,,,,,,,1,1
+3100 block Salina St S,,,,,,,1,1
 3200 block Brighton Pl,,,,1,,,,1
 3200 block James St,,,,1,,,,1
-3200 block S Salina St,,,1,4,,1,2,8
+3200 block Salina St S,,,1,4,,1,2,8
 3300 block Burnet Av,,,2,,,,,2
-3300 block E Genesee St,,,,1,,,,1
+3300 block Genesee St E,,,,1,,,,1
 3300 block James St,,,,2,,,1,3
 3300 block Midland Av,,,,1,,,,1
 3400 block Burnet Av,,,,4,,,,4
 3400 block James St,,,,2,,,,2
-3400 block S Salina St,,1,1,,,,,2
+3400 block Salina St S,,1,1,,,,,2
 3500 block James St,,,1,,,,,1
-3500 block S Salina St,,,1,2,,1,,4
-3500 block W Genesee St,,,,1,,,,1
+3500 block Salina St S,,,1,2,,1,,4
+3500 block Genesee St W,,,,1,,,,1
 3600 block James St,,,,1,,,,1
 3600 block Midland Av,,,,,,1,,1
-3600 block S Salina St,1,,,,,,,1
+3600 block Salina St S,1,,,,,,,1
 3700 block Midland Av,,,1,,,,,1
-3700 block S Salina St,,,,1,,,,1
-3800 block E Genesee St,,,,1,,,,1
-3800 block S Salina St,,,1,5,,1,,7
-3900 block S Salina St,,,1,1,,,,2
+3700 block Salina St S,,,,1,,,,1
+3800 block Genesee St E E,,,,1,,,,1
+3800 block Salina St S,,,1,5,,1,,7
+3900 block Salina St S,,,1,1,,,,2
 400 block Allen St,,,1,1,,,,2
 400 block Arthur St,1,,,1,,,1,3
 400 block Ash St,,,3,2,,,1,6
@@ -1497,12 +1497,12 @@ Address,Aggravated assault,Arson,Burglary,Larceny,Murder,Robbery,Vehicle theft,T
 400 block Douglas St,,,1,,,,,1
 400 block Dudley St,,,1,,,1,1,3
 400 block Durston Av,,,,,,1,,1
-400 block E Brighton Av,,,,1,,,,1
-400 block E Division St,1,,,1,,,1,3
-400 block E Fayette St,,,,,,,1,1
-400 block E Genesee Pkwy,,,,1,,,,1
-400 block E Raynor Av,,,,1,,1,,2
-400 block E Washington St,,,1,,,,,1
+400 block Brighton Av E,,,,1,,,,1
+400 block Division St E,1,,,1,,,1,3
+400 block Fayette St E,,,,,,,1,1
+400 block Genesee Pkwy E,,,,1,,,,1
+400 block Raynor Av E,,,,1,,1,,2
+400 block Washington St E,,,1,,,,,1
 400 block Electronics Pkwy,,,,1,,,,1
 400 block Elliott St,,,,1,,,1,2
 400 block Ellis St,,,,2,,,,2
@@ -1539,8 +1539,8 @@ Address,Aggravated assault,Arson,Burglary,Larceny,Murder,Robbery,Vehicle theft,T
 400 block Midland Av,1,,,2,,,,3
 400 block Montgomery St,,,,2,,,,2
 400 block Monticello Dr  N,,,,1,,,,1
-400 block N Franklin St,,,,2,,,,2
-400 block N Salina St,1,,2,,,,,3
+400 block Franklin St N,,,,2,,,,2
+400 block Salina St N,1,,2,,,,,3
 400 block Oak St,,,1,,,,,1
 400 block Onondaga Av,,,,1,,,,1
 400 block Oswego St,,,,1,,,,1
@@ -1555,15 +1555,15 @@ Address,Aggravated assault,Arson,Burglary,Larceny,Murder,Robbery,Vehicle theft,T
 400 block Robineau Rd,,,,1,,,,1
 400 block Roosevelt Av,,,2,1,,,,3
 400 block Rugby Rd,,,,1,,,,1
-400 block S Alvord St,2,,,6,,,,8
-400 block S Beech St,1,,3,1,,,1,6
-400 block S Clinton St,,,1,11,,,,12
-400 block S Edwards Av,1,,,1,,,,2
-400 block S Franklin St,,,,1,,,,1
-400 block S Midler Av,2,,,,,,,2
-400 block S Salina St,1,,3,18,,1,2,25
-400 block S Ssalina St,,,,1,,,,1
-400 block S Warren St,,,,2,,,,2
+400 block Alvord St S,2,,,6,,,,8
+400 block Beech St S,1,,3,1,,,1,6
+400 block Clinton St S,,,1,11,,,,12
+400 block Edwards Av S,1,,,1,,,,2
+400 block Franklin St S,,,,1,,,,1
+400 block Midler Av S,2,,,,,,,2
+400 block Salina St S,1,,3,18,,1,2,25
+400 block Ssalina St S,,,,1,,,,1
+400 block Warren St S,,,,2,,,,2
 400 block Seymour St,,,,1,,,,1
 400 block Shonnard St,1,,1,,1,1,,4
 400 block Smith St,1,1,,,,,,2
@@ -1590,13 +1590,13 @@ Address,Aggravated assault,Arson,Burglary,Larceny,Murder,Robbery,Vehicle theft,T
 400 block Valley Dr,,,1,1,,,1,3
 400 block Velasko Rd,,,,1,,,,1
 400 block Village Dr,,,,1,,,,1
-400 block W Colvin St,,,1,,,,,1
-400 block W Division St,,,,4,,,,4
-400 block W Lafayette Av,,,2,,,,,2
-400 block W Newell St,1,,,,,,,1
-400 block W Onondaga St,,,2,6,,3,,11
-400 block W Ostrander Av,,,,3,,,,3
-400 block W Seneca Tpke,1,,2,3,,1,1,8
+400 block Colvin St W,,,1,,,,,1
+400 block Division St W,,,,4,,,,4
+400 block Lafayette Av W,,,2,,,,,2
+400 block Newell St W,1,,,,,,,1
+400 block Onondaga St W,,,2,6,,3,,11
+400 block Ostrander Av W,,,,3,,,,3
+400 block Seneca Tpke W,1,,2,3,,1,1,8
 400 block Westcott St,,,2,2,,,,4
 400 block Westmoreland Av,,,1,2,,,,3
 400 block Whittier Av,,,1,,,,,1
@@ -1604,19 +1604,19 @@ Address,Aggravated assault,Arson,Burglary,Larceny,Murder,Robbery,Vehicle theft,T
 400 block Willis Av,,,1,,,,,1
 400 block Wolf St,,,,,,,1,1
 400 block Wyoming St,,,,1,,,,1
-4000 block S Salina St,,,,7,,,,7
+4000 block Salina St S,,,,7,,,,7
 4100 block Brighton Pl,,,,1,,,,1
-4100 block E Genesee St,,,,3,,,,3
-4100 block S Salina St,,,3,48,,1,,52
-4200 block S Salina St,,,,1,,,,1
-4300 block S Salina St,,,,2,,,,2
-4400 block S Salina St,1,,4,1,,,,6
-4500 block S Salina St,,,,1,,,,1
-4600 block S Salina St,1,,2,,,,,3
-4600 block W Onondaga Blvd,,,,1,,,,1
+4100 block Genesee St E,,,,3,,,,3
+4100 block Salina St S,,,3,48,,1,,52
+4200 block Salina St S,,,,1,,,,1
+4300 block Salina St S,,,,2,,,,2
+4400 block Salina St S,1,,4,1,,,,6
+4500 block Salina St S,,,,1,,,,1
+4600 block Salina St S,1,,2,,,,,3
+4600 block Onondaga Blvd W,,,,1,,,,1
 4700 block Onondaga Blvd,,,,30,,,,30
-4700 block S Salina St,,1,2,1,,,,4
-4800 block S Salina St,,,,5,,,1,6
+4700 block Salina St,,1,2,1,,,,4
+4800 block Salina St,,,,5,,,1,6
 4900 block Broad Rd,3,,,,,,,3
 500 block Allen St,,,2,1,,,,3
 500 block Avery Av,2,,,,,,1,3
@@ -1639,9 +1639,9 @@ Address,Aggravated assault,Arson,Burglary,Larceny,Murder,Robbery,Vehicle theft,T
 500 block Delaware St,1,,1,3,,1,,6
 500 block Dudley St,,,1,,,,,1
 500 block Durston Av,,,1,1,,,,2
-500 block E Brighton Av,,,,,,,1,1
-500 block E Genesee St,,,,,,,1,1
-500 block E Willow St,1,,1,,,,,2
+500 block Brighton Av E,,,,,,,1,1
+500 block Genesee St E,,,,,,,1,1
+500 block Willow St E,1,,1,,,,,2
 500 block Emerson Av,1,,1,,,,,2
 500 block Erie Blvd E,,,,1,,,,1
 500 block Erie Blvd W,,,,5,,,,5
@@ -1666,8 +1666,8 @@ Address,Aggravated assault,Arson,Burglary,Larceny,Murder,Robbery,Vehicle theft,T
 500 block Meadowbrook Dr,,,,1,,,,1
 500 block Montgomery St,,,1,2,,,,3
 500 block Myrtle St,,,1,,,,,1
-500 block N Salina St,,,,3,,,,3
-500 block N Townsend St,,,,1,,,,1
+500 block Salina St N,,,,3,,,,3
+500 block Townsend St N,,,,1,,,,1
 500 block Northcliffe Rd,,,1,,,,,1
 500 block Nottingham Rd,,,2,1,,,,3
 500 block Oak St,,,,1,,,,1
@@ -1681,14 +1681,14 @@ Address,Aggravated assault,Arson,Burglary,Larceny,Murder,Robbery,Vehicle theft,T
 500 block Richmond Av,1,,1,2,,,,4
 500 block Robeneau Rd,,,,1,,,,1
 500 block Rowland St,,,,1,,,,1
-500 block S Beech St,,,1,,,,,1
-500 block S Clinton St,5,,3,12,,2,2,24
-500 block S Crouse Av,,1,,1,,,,2
-500 block S Franklin St,,,,3,,,,3
-500 block S Salina St,3,1,1,14,,1,1,21
-500 block S State St,3,,1,22,,2,10,38
-500 block S Townsend St,,,,1,,,,1
-500 block S West St,,,,1,,,,1
+500 block Beech St S,,,1,,,,,1
+500 block Clinton St S,5,,3,12,,2,2,24
+500 block Crouse Av S,,1,,1,,,,2
+500 block Franklin St S,,,,3,,,,3
+500 block Salina St S,3,1,1,14,,1,1,21
+500 block State St S,3,,1,22,,2,10,38
+500 block Townsend St S,,,,1,,,,1
+500 block West St S,,,,1,,,,1
 500 block Seymour St,,,1,,,,,1
 500 block Solar St,,,,2,,,,2
 500 block South Av,,,,1,,,,1
@@ -1707,14 +1707,14 @@ Address,Aggravated assault,Arson,Burglary,Larceny,Murder,Robbery,Vehicle theft,T
 500 block University Pl,,,,1,,,,1
 500 block Valley Dr,,,,3,,,1,4
 500 block Vine St,,,,1,,,,1
-500 block W Brighton Av,1,1,1,1,,,,4
-500 block W Colvin St,,,,,,1,,1
-500 block W Erie Blvd,,,,1,,,,1
-500 block W Newell St,,,,1,,,1,2
-500 block W Onondaga Av,,,,,,1,,1
-500 block W Onondaga St,,,,5,,,,5
-500 block W Ostrander Av,,,,1,,,,1
-500 block W Seneca Tpke,,,1,1,,,,2
+500 block Brighton Av W,1,1,1,1,,,,4
+500 block Colvin St W,,,,,,1,,1
+500 block Erie Blvd W,,,,1,,,,1
+500 block Newell St W,,,,1,,,1,2
+500 block Onondaga Av W,,,,,,1,,1
+500 block Onondaga St W,,,,5,,,,5
+500 block Ostrander Av W,,,,1,,,,1
+500 block Seneca Tpke W,,,1,1,,,,2
 500 block Wadsworth St,,,,1,,,,1
 500 block Walnut Av,,,,4,,,,4
 500 block Wescott St,,,,1,,,,1
@@ -1724,10 +1724,10 @@ Address,Aggravated assault,Arson,Burglary,Larceny,Murder,Robbery,Vehicle theft,T
 500 block Wolcott Av,,,,1,,,,1
 500 block Wolf St,4,,,2,,,,6
 500 block Wyoming St,,,,,,1,,1
-5200 block S Salina St,,,,1,,,,1
-5400 block S Salina St,1,,,,,,,1
-5500 block S Salina St,,,1,,,,,1
-5800 block S Salina St,,,,,,1,,1
+5200 block Salina St S,,,,1,,,,1
+5400 block Salina St S,1,,,,,,,1
+5500 block Salina St S,,,1,,,,,1
+5800 block Salina St S,,,,,,1,,1
 600 block Ackerman Av,,,1,1,,,,2
 600 block Ash St,,,,1,,,,1
 600 block Atlantic Av,,,1,,,,,1
@@ -1744,10 +1744,10 @@ Address,Aggravated assault,Arson,Burglary,Larceny,Murder,Robbery,Vehicle theft,T
 600 block Comstock Av,,,,,,1,,1
 600 block Court St,,,2,,,,,2
 600 block Dewitt St,,,,1,,,,1
-600 block E Division St,1,,5,3,,,,9
-600 block E Genesee St,,,,1,,,,1
-600 block E Seneca Tpke,,,,3,,,1,4
-600 block E Willow St,,,,,,1,,1
+600 block Division St E,1,,5,3,,,,9
+600 block Genesee St E,,,,1,,,,1
+600 block Seneca Tpke E,,,,3,,,1,4
+600 block Willow St E,,,,,,1,,1
 600 block Erie Blvd W,,,1,1,,,,2
 600 block Euclid Av,,,,4,,,,4
 600 block Gifford St,1,,2,1,,,1,5
@@ -1762,11 +1762,11 @@ Address,Aggravated assault,Arson,Burglary,Larceny,Murder,Robbery,Vehicle theft,T
 600 block Lemoyne Av,1,,1,,,,,2
 600 block Lodi St,1,,,,,,,1
 600 block Mountainview Av,,,,1,,,,1
-600 block N Geddes St,,,1,,,,,1
-600 block N Mcbride St,1,,,1,,,1,3
-600 block N Salina St,1,,3,4,,1,,9
-600 block N State St,1,,,,,,,1
-600 block N Townsend St,,,,1,,,,1
+600 block Geddes St N,,,1,,,,,1
+600 block Mcbride St N,1,,,1,,,1,3
+600 block Salina St N,1,,3,4,,1,,9
+600 block State St N,1,,,,,,,1
+600 block Townsend St N,,,,1,,,,1
 600 block Oak St,1,,,,,,,1
 600 block Oneida St,1,,,,,,,1
 600 block Oswego St,1,,,,,,,1
@@ -1776,13 +1776,13 @@ Address,Aggravated assault,Arson,Burglary,Larceny,Murder,Robbery,Vehicle theft,T
 600 block Pond St,1,,,,,1,,2
 600 block Richmond Av,,,,1,,,,1
 600 block Robinson St,2,2,,4,,,,8
-600 block S Beech St,,,1,,,,,1
-600 block S Clinton St,,,,,,1,,1
-600 block S Crouse Av,,,1,3,,,,4
-600 block S Geddes St,3,,1,4,,1,,9
-600 block S Salina St,,,,2,,,,2
-600 block S State St,,,,1,,,,1
-600 block S West St,,,,1,,1,,2
+600 block Beech St S,,,1,,,,,1
+600 block Clinton St S,,,,,,1,,1
+600 block Crouse Av S,,,1,3,,,,4
+600 block Geddes St S,3,,1,4,,1,,9
+600 block Salina St S,,,,2,,,,2
+600 block State St S,,,,1,,,,1
+600 block West St S,,,,1,,1,,2
 600 block Salisbury Park Dr,,,,1,,,,1
 600 block Salt Springs Rd,,,,1,,,,1
 600 block Schuyler St,,,,1,,,,1
@@ -1797,13 +1797,13 @@ Address,Aggravated assault,Arson,Burglary,Larceny,Murder,Robbery,Vehicle theft,T
 600 block Turtle St,2,,1,,,,,3
 600 block Ulster St,,,1,,,,,1
 600 block Vine St,,,,,,,1,1
-600 block W Brighton Av,,,,1,,,,1
-600 block W Colvin St,,,,1,,,,1
-600 block W Genesee St,1,,,5,,,1,7
-600 block W Lafayette Av,,,,1,,,,1
-600 block W Newell St,,,1,1,,,,2
-600 block W Onondaga St,1,,4,6,,1,,12
-600 block W Seneca Tpke,,,1,,,,,1
+600 block Brighton Av W,,,,1,,,,1
+600 block Colvin St W,,,,1,,,,1
+600 block Genesee St W,1,,,5,,,1,7
+600 block Lafayette Av W,,,,1,,,,1
+600 block Newell St W,,,1,1,,,,2
+600 block Onondaga St W,1,,4,6,,1,,12
+600 block Seneca Tpke W,,,1,,,,,1
 600 block Walnut Av,,,3,4,,,,7
 600 block Walnut St,,,,1,,,,1
 600 block Westmoreland Av,,,1,,,,,1
@@ -1823,12 +1823,12 @@ Address,Aggravated assault,Arson,Burglary,Larceny,Murder,Robbery,Vehicle theft,T
 700 block Crawford Av,,,,2,,,,2
 700 block Danforth St,,,,1,,,,1
 700 block Dewitt St,,,1,,,,,1
-700 block E Adams St,23,,,3,,3,,29
-700 block E Brighton Av,,,,2,,,,2
-700 block E Colvin St,,,,1,,,,1
-700 block E Division St,,,4,,,,,4
-700 block E Genesee St,,,,8,,,,8
-700 block E Laurel St,1,,2,1,,,,4
+700 block Adams St E,23,,,3,,3,,29
+700 block Brighton Av E,,,,2,,,,2
+700 block Colvin St E,,,,1,,,,1
+700 block Division St E,,,4,,,,,4
+700 block Genesee St E,,,,8,,,,8
+700 block Laurel St E,1,,2,1,,,,4
 700 block Emerson Av,1,,,1,,,,2
 700 block Erie Blvd E,,,,2,,,2,4
 700 block Erie Blvd W,,,2,5,,,,7
@@ -1852,22 +1852,22 @@ Address,Aggravated assault,Arson,Burglary,Larceny,Murder,Robbery,Vehicle theft,T
 700 block Midland Av,,,,1,,,,1
 700 block Milton Av,,,,2,,,,2
 700 block Montgomery St,,,,1,,,,1
-700 block N Alvord St,2,1,5,,,,1,9
-700 block N Clinton St,,,,2,,,,2
-700 block N Mcbride St,,,,1,,,,1
-700 block N Salina St,2,,1,1,,1,1,6
-700 block N Townsend St,,,,1,,,,1
+700 block Alvord St N,2,1,5,,,,1,9
+700 block Clinton St N,,,,2,,,,2
+700 block Mcbride St N,,,,1,,,,1
+700 block Salina St N,2,,1,1,,1,1,6
+700 block Townsend St N,,,,1,,,,1
 700 block Ostrom Av,,,6,3,,,1,10
 700 block Oswego St,,,1,,,,,1
 700 block Park Av,3,,3,1,,,,7
 700 block Park St,,,,1,,1,,2
 700 block Pond St,1,,2,,,,,3
-700 block S Beech St,,,,1,,,,1
-700 block S Crouse Av,1,,,9,,1,,11
-700 block S Geddes St,,,3,,,,1,4
-700 block S Salina St,2,,,2,,1,,5
-700 block S Warren St,1,,1,,,,,2
-700 block S West St,,,,1,,,,1
+700 block Beech St S,,,,1,,,,1
+700 block Crouse Av S,1,,,9,,1,,11
+700 block Geddes St S,,,3,,,,1,4
+700 block Salina St S,2,,,2,,1,,5
+700 block Warren St S,1,,1,,,,,2
+700 block West St S,,,,1,,,,1
 700 block Salt Springs Rd,,,,,,1,,1
 700 block Schuyler St,,,1,1,,,,2
 700 block Second North St,,,,1,,,,1
@@ -1882,11 +1882,11 @@ Address,Aggravated assault,Arson,Burglary,Larceny,Murder,Robbery,Vehicle theft,T
 700 block Valley Dr,1,,1,,,1,,3
 700 block Van Rensselaer St,,,,,,,1,1
 700 block Vanrensselear St,,,,1,,,,1
-700 block W Adams St,,,,1,,,,1
-700 block W Genesee St,,,1,4,,,,5
-700 block W Newell St,,,2,,,,,2
-700 block W Onondaga St,,,1,,,,,1
-700 block W Seneca Tpke,,,,1,,,,1
+700 block Adams St W,,,,1,,,,1
+700 block Genesee St W,,,1,4,,,,5
+700 block Newell St W,,,2,,,,,2
+700 block Onondaga St W,,,1,,,,,1
+700 block Seneca Tpke W,,,,1,,,,1
 700 block Wadsworth St,,,,3,,,,3
 700 block Walnut Av,,,,1,,,,1
 700 block Westcott St,,,3,2,,1,,6
@@ -1901,11 +1901,11 @@ Address,Aggravated assault,Arson,Burglary,Larceny,Murder,Robbery,Vehicle theft,T
 800 block Carbon St,1,,,,,,,1
 800 block Comstock Av,,,,1,,,,1
 800 block Darlington Rd,,,,1,,,,1
-800 block E Adams St,,,,1,,,,1
-800 block E Brighton Av,,,,3,,,,3
-800 block E Division St,1,,,,,,,1
-800 block E Genesee St,,,,,,,1,1
-800 block E Willow St,,,,1,,,,1
+800 block Adams St E,,,,1,,,,1
+800 block Brighton Av E,,,,3,,,,3
+800 block Division St E,1,,,,,,,1
+800 block Genesee St E,,,,,,,1,1
+800 block Willow St E,,,,1,,,,1
 800 block Emerson Av,,,,2,,,,2
 800 block Erie Blvd E,,,,1,,,,1
 800 block Erie Blvd W,,,1,7,,,1,9
@@ -1921,24 +1921,24 @@ Address,Aggravated assault,Arson,Burglary,Larceny,Murder,Robbery,Vehicle theft,T
 800 block Lancaster Av,,,3,3,,,,6
 800 block Livingston Av,,,1,2,,,,3
 800 block Maryland Av,,,1,,,,,1
-800 block N Alvord St,,,2,1,,4,,7
-800 block N Alvored St,,,,,,1,,1
-800 block N Clinton St,,,,4,,,,4
-800 block N Geddes St,,,1,1,,,,2
-800 block N Mcbride St,,,,2,,,,2
-800 block N Salina St,1,,3,7,,1,,12
-800 block N State St,,,,2,,,,2
-800 block N Townsend Av,,,,1,,,,1
-800 block N Townsend St,,,,,,1,,1
+800 block Alvord St N,,,2,1,,4,,7
+800 block Alvored St N,,,,,,1,,1
+800 block Clinton St N,,,,4,,,,4
+800 block Geddes St N,,,1,1,,,,2
+800 block Mcbride St N,,,,2,,,,2
+800 block Salina St N,1,,3,7,,1,,12
+800 block State St N,,,,2,,,,2
+800 block Townsend Av N,,,,1,,,,1
+800 block Townsend St N,,,,,,1,,1
 800 block Onondaga Av,1,,1,,,,,2
 800 block Ostom Av,1,,,,,,,1
 800 block Ostrom Av,,,,1,,,1,2
 800 block Park St,1,,1,3,,,,5
 800 block Pond St,,,3,,,,,3
-800 block S Geddes St,,,1,,,,,1
-800 block S Salina St,,,1,,,1,,2
-800 block S State St,,,,4,,,,4
-800 block S Wilbur Av,1,,,,,,,1
+800 block Geddes St S,,,1,,,,,1
+800 block Salina St S,,,1,,,1,,2
+800 block State St S,,,,4,,,,4
+800 block Wilbur Av S,1,,,,,,,1
 800 block Salt Springs Rd,,,,1,,,,1
 800 block South Av,,1,,1,,,,2
 800 block Spencer St,,,,1,,,,1
@@ -1949,12 +1949,12 @@ Address,Aggravated assault,Arson,Burglary,Larceny,Murder,Robbery,Vehicle theft,T
 800 block University Av,,,,1,,,,1
 800 block Valley Dr,,,,3,,,,3
 800 block Vanrensselaer St,,,,1,,,,1
-800 block W Belden Av,,,,1,,,,1
-800 block W Colvin St,,,,1,,,,1
-800 block W Erie Blvd,,,,1,,,,1
-800 block W Fayette St,,,1,,,,,1
-800 block W Genesee St,,,,2,,,,2
-800 block W Lafayette Av,1,,,,,,,1
+800 block Belden Av W,,,,1,,,,1
+800 block Colvin St W,,,,1,,,,1
+800 block Erie Blvd W,,,,1,,,,1
+800 block Fayette St W,,,1,,,,,1
+800 block Genesee St W,,,,2,,,,2
+800 block Lafayette Av W,1,,,,,,,1
 800 block Wadsworth St,1,,,,,,,1
 800 block Wolf St,1,,,2,,,,3
 900 block Ackerman Av,1,,3,10,,,,14
@@ -1967,8 +1967,8 @@ Address,Aggravated assault,Arson,Burglary,Larceny,Murder,Robbery,Vehicle theft,T
 900 block Danforth St,,,,,,,1,1
 900 block Darlington Rd,,,,1,,,,1
 900 block Dewitt St,,,,2,,,,2
-900 block E Brighton Av,,,,2,,,,2
-900 block E Genesee St,,,,1,,3,,4
+900 block Brighton Av E,,,,2,,,,2
+900 block Genesee St E,,,,1,,3,,4
 900 block Emerson Av,,,2,3,,,,5
 900 block Erie Blvd E,,,,,,,1,1
 900 block Erie Blvd W,,,,2,,,,2
@@ -1988,32 +1988,27 @@ Address,Aggravated assault,Arson,Burglary,Larceny,Murder,Robbery,Vehicle theft,T
 900 block Lancaster Av,,,,3,,,,3
 900 block Lemoyne Av,1,,,,,,,1
 900 block Midland Av,,,,1,,,,1
-900 block N Clinton St,,,1,,,,,1
-900 block N Mcbride St,,,,2,,1,,3
-900 block N Salina St,,,1,,,1,,2
-900 block N State St,,,,1,,,,1
-900 block N Townsend St,,,1,2,,,,3
+900 block Clinton St N,,,1,,,,,1
+900 block Mcbride St N,,,,2,,1,,3
+900 block Salina St N,,,1,,,1,,2
+900 block State St N,,,,1,,,,1
+900 block Townsend St N,,,1,2,,,,3
 900 block Oak St,,,,1,,,,1
 900 block Onondaga Av,1,,,,,,1,2
 900 block Park Av,,,,1,,,,1
 900 block Park St,,,,,,,1,1
 900 block Pond St,,,,2,,,,2
-900 block S Geddes St,1,,,,,,,1
-900 block S Mcbride St,,,,1,,,,1
-900 block S Salina St,1,,1,6,,1,,9
-900 block S Townsend St,1,,,,,,,1
+900 block Geddes St S,1,,,,,,,1
+900 block Mcbride St S,,,,1,,,,1
+900 block Salina St S,1,,1,6,,1,,9
+900 block Townsend St S,1,,,,,,,1
 900 block Salt Springs Rd,,,,,,,1,1
 900 block South Av,1,,1,,,,,2
 900 block Spring St,,,2,,,,,2
 900 block Tallman St,,,2,,,,,2
-900 block W Genesee St,,,,2,,,,2
-900 block W Lafayette Av,2,,,,,,,2
+900 block Genesee St W,,,,2,,,,2
+900 block Lafayette Av W,2,,,,,,,2
 900 block Walnut Av,,,,1,,,,1
 900 block Westcott St,,,1,2,,,,3
 900 block Westmoreland Av,,,1,,,,1,2
 900 block Willis Av,2,,,1,,,,3
-9000 block Destiny Usa Dr,,,,2,,,,2
-9500 block Destiny Usa Dr,,,,4,,,,4
-9600 block Destiny Usa Dr,,,,4,,,,4
-9800 block Destiny Usa Dr,,,,1,,,,1
-9900 block Destiny Usa Dr,,,1,,,,,1

@@ -1,0 +1,1 @@
+datafire<-read.csv("fire_counts_2017.csv")
